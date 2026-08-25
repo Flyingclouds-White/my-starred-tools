@@ -1,0 +1,156 @@
+name: Sync GitHub Stars
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    # 每天台灣時間約 11:17 執行
+    - cron: "17 3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  sync-stars:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch starred repositories
+        env:
+          GH_TOKEN: ${{ github.token }}
+          USERNAME: Flyingclouds-White
+        run: |
+          mkdir -p data
+
+          gh api \
+            --paginate \
+            --slurp \
+            -H "Accept: application/vnd.github.star+json" \
+            "/users/${USERNAME}/starred?per_page=100&sort=created&direction=desc" \
+            > data/pages.json
+
+          jq '
+            add
+            | map({
+                starred_at: .starred_at,
+                name: .repo.name,
+                full_name: .repo.full_name,
+                html_url: .repo.html_url,
+                description: .repo.description,
+                homepage: .repo.homepage,
+                language: .repo.language,
+                topics: .repo.topics,
+                stars: .repo.stargazers_count,
+                forks: .repo.forks_count,
+                archived: .repo.archived,
+                disabled: .repo.disabled,
+                updated_at: .repo.updated_at,
+                pushed_at: .repo.pushed_at,
+                default_branch: .repo.default_branch,
+                license: .repo.license.spdx_id
+            })
+          ' data/pages.json > data/starred-repositories.json
+
+          rm data/pages.json
+
+      - name: Generate readable Markdown index
+        run: |
+          python <<'PY'
+          import json
+          from datetime import datetime, timezone
+
+          with open(
+              "data/starred-repositories.json",
+              "r",
+              encoding="utf-8"
+          ) as f:
+              repos = json.load(f)
+
+          lines = []
+
+          lines.append("# My GitHub Starred Tools")
+          lines.append("")
+          lines.append(
+              f"Automatically synchronized from GitHub Stars."
+          )
+          lines.append("")
+          lines.append(
+              f"Total repositories: **{len(repos)}**"
+          )
+          lines.append("")
+          lines.append(
+              "Last sync: "
+              + datetime.now(timezone.utc).isoformat()
+          )
+          lines.append("")
+          lines.append("---")
+          lines.append("")
+
+          for repo in repos:
+              lines.append(
+                  f"## [{repo['full_name']}]({repo['html_url']})"
+              )
+              lines.append("")
+
+              if repo.get("description"):
+                  lines.append(repo["description"])
+                  lines.append("")
+
+              metadata = []
+
+              if repo.get("language"):
+                  metadata.append(
+                      f"Language: {repo['language']}"
+                  )
+
+              if repo.get("stars") is not None:
+                  metadata.append(
+                      f"GitHub Stars: {repo['stars']}"
+                  )
+
+              if repo.get("starred_at"):
+                  metadata.append(
+                      f"Starred at: {repo['starred_at']}"
+                  )
+
+              if metadata:
+                  lines.append(
+                      " | ".join(metadata)
+                  )
+                  lines.append("")
+
+              topics = repo.get("topics") or []
+
+              if topics:
+                  lines.append(
+                      "Topics: "
+                      + ", ".join(topics)
+                  )
+                  lines.append("")
+
+          with open(
+              "STARRED.md",
+              "w",
+              encoding="utf-8"
+          ) as f:
+              f.write("\n".join(lines))
+          PY
+
+      - name: Commit updated star list
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email \
+            "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/starred-repositories.json STARRED.md
+
+          if git diff --cached --quiet; then
+            echo "No changes detected."
+            exit 0
+          fi
+
+          git commit -m "chore: sync GitHub starred repositories"
+          git push
