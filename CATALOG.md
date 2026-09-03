@@ -2,8 +2,8 @@
 
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
-- Repository 數：**147**
-- 產生時間（UTC）：`2026-09-02T07:52:06.434689Z`
+- Repository 數：**148**
+- 產生時間（UTC）：`2026-09-03T07:59:51.145620Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -39,11 +39,11 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [資安、隱私與稽核](#category-security-privacy) | 6 |
 | [待分類](#category-uncategorized) | 5 |
 | [語音、音訊與轉錄](#category-audio-speech) | 5 |
+| [資料、機器學習與分析](#category-data-ai) | 5 |
 | [資源清單與參考素材](#category-reference-collection) | 5 |
 | [文化、命理與宗教](#category-culture-divination) | 4 |
 | [模擬、3D 與機器人](#category-simulation-robotics) | 4 |
 | [自動化與整合](#category-automation-integration) | 4 |
-| [資料、機器學習與分析](#category-data-ai) | 4 |
 | [金融與交易](#category-finance) | 4 |
 | [學習與教學](#category-education) | 3 |
 | [Web、桌面與平台](#category-web-platform) | 2 |
@@ -258,7 +258,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [nevertoday/350-layout-compositions](https://github.com/nevertoday/350-layout-compositions) | 主要能力：設計系統與原型製作、影片生成、剪輯與轉檔、簡報與文件生成。依專案描述：350 layout composition references across visual principles, editorial design, typography, grids, web UI, film, Chinese art, and presentations. | 影片與媒體製作、簡報與文件、資料、機器學習與分析、Web、桌面與平台、資源清單與參考素材 | 直接閱讀／複製範例、Python 環境 | 4/5（高） | 活躍 | 中 |
 | [nevertoday/zhongguo-traditional-colors](https://github.com/nevertoday/zhongguo-traditional-colors) | 主要能力：設計系統與原型製作、範例、模板與資源索引。依專案描述：中华传统色演示、色卡浏览与颜色知识科普开源项目 | Web、桌面與平台、資源清單與參考素材、設計系統與原型製作、範例、模板與資源索引 | 直接閱讀／複製範例、靜態網頁／Web 專案 | 4/5（高） | 活躍 | 無明顯提示 |
 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 主要能力：設計系統與原型製作、Agent Skill／提示工作流。依專案描述：An AI skill that provides design intelligence for building professional UI/UX across multiple platforms. | AI Agent 與 Agent Skills、Web、桌面與平台、設計系統與原型製作、Agent Skill／提示工作流 | Agent Skill 安裝、Python 環境 | 4/5（高） | 活躍 | 中 |
-| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 主要能力：設計系統與原型製作、Agent Skill／提示工作流、簡報與文件生成。依專案描述：🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, la… | AI Agent 與 Agent Skills、簡報與文件、影片與媒體製作、Web、桌面與平台、開發與程式碼工具 | Agent Skill 安裝 | 4/5（高） | 活躍 | 中 |
+| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 主要能力：設計系統與原型製作、Agent Skill／提示工作流、簡報與文件生成。依專案描述：🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, la… | AI Agent 與 Agent Skills、簡報與文件、影片與媒體製作、Web、桌面與平台、開發與程式碼工具 | Agent Skill 安裝、Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
 | [Paidax01/web-to-design-md](https://github.com/Paidax01/web-to-design-md) | 主要能力：設計系統與原型製作、簡報與文件生成。依專案描述：Convert any official website to design.md document | 簡報與文件、知識、研究與記憶、設計系統與原型製作、簡報與文件生成 | Node.js／JavaScript | 4/5（高） | 活躍 | 中 |
 | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 主要能力：設計系統與原型製作、範例、模板與資源索引、程式開發、理解與審查。依專案描述：A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. | 資源清單與參考素材、開發與程式碼工具、設計系統與原型製作、範例、模板與資源索引、程式開發、理解與審查 | 直接閱讀／複製範例 | 4/5（高） | 活躍 | 資訊 |
 
@@ -290,6 +290,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 
 | Repository | 能力摘要 | 多標籤 | 安裝推定 | ChatGPT | 維護 | 最高風險 |
 |---|---|---|---|---:|---|---|
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 主要能力：Agent Skill／提示工作流、資料分析、視覺化與預測、設計系統與原型製作。依專案描述：38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. | AI Agent 與 Agent Skills、設計、UI 與前端、Web、桌面與平台、Agent Skill／提示工作流、資料分析、視覺化與預測 | Agent Skill 安裝、靜態網頁／Web 專案 | 4/5（高） | 活躍 | 中 |
 | [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | 主要能力：資料分析、視覺化與預測。依專案描述：A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visua… | 生產力與工作管理、Web、桌面與平台、資料分析、視覺化與預測 | Node.js／TypeScript | 3/5（中等） | 活躍 | 資訊 |
 | [google-research/timesfm](https://github.com/google-research/timesfm) | 主要能力：資料分析、視覺化與預測、研究、學習與教學。依專案描述：TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. | 知識、研究與記憶、資料分析、視覺化與預測、研究、學習與教學 | Python 環境 | 3/5（中等） | 活躍 | 資訊 |
 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 主要能力：工作流程自動化、MCP／工具整合、本機或自架應用。依專案描述：Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | 自動化與整合、AI Agent 與 Agent Skills、開發與程式碼工具、Web、桌面與平台、工作流程自動化 | MCP server 設定、容器／自架部署 | 4/5（高） | 活躍 | 中 |
