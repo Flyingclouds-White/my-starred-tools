@@ -3,7 +3,7 @@
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
 - Repository 數：**148**
-- 產生時間（UTC）：`2026-09-03T07:59:51.145620Z`
+- 產生時間（UTC）：`2026-09-04T07:56:16.521611Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -294,7 +294,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | 主要能力：資料分析、視覺化與預測。依專案描述：A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visua… | 生產力與工作管理、Web、桌面與平台、資料分析、視覺化與預測 | Node.js／TypeScript | 3/5（中等） | 活躍 | 資訊 |
 | [google-research/timesfm](https://github.com/google-research/timesfm) | 主要能力：資料分析、視覺化與預測、研究、學習與教學。依專案描述：TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. | 知識、研究與記憶、資料分析、視覺化與預測、研究、學習與教學 | Python 環境 | 3/5（中等） | 活躍 | 資訊 |
 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 主要能力：工作流程自動化、MCP／工具整合、本機或自架應用。依專案描述：Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | 自動化與整合、AI Agent 與 Agent Skills、開發與程式碼工具、Web、桌面與平台、工作流程自動化 | MCP server 設定、容器／自架部署 | 4/5（高） | 活躍 | 中 |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 主要能力：本機或自架應用。依專案描述：Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 | 本機或自架應用 | Node.js／TypeScript | 3/5（中等） | 活躍 | 中 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 主要能力：本機或自架應用。依專案描述：The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 | 本機或自架應用 | Node.js／TypeScript | 3/5（中等） | 活躍 | 中 |
 
 <a id="category-reference-collection"></a>
 ## 資源清單與參考素材
