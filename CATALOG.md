@@ -2,8 +2,8 @@
 
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
-- Repository 數：**148**
-- 產生時間（UTC）：`2026-09-05T07:37:18.573118Z`
+- Repository 數：**150**
+- 產生時間（UTC）：`2026-09-05T19:49:52.132078Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -31,19 +31,19 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 |---|---:|
 | [AI Agent 與 Agent Skills](#category-ai-agents) | 25 |
 | [知識、研究與記憶](#category-knowledge-research) | 24 |
-| [設計、UI 與前端](#category-design-ui) | 13 |
+| [設計、UI 與前端](#category-design-ui) | 14 |
 | [影片與媒體製作](#category-video-media) | 11 |
 | [影像與創意生成](#category-image-creative) | 8 |
 | [生產力與工作管理](#category-productivity) | 8 |
 | [簡報與文件](#category-presentation-docs) | 7 |
 | [資安、隱私與稽核](#category-security-privacy) | 6 |
 | [待分類](#category-uncategorized) | 5 |
+| [自動化與整合](#category-automation-integration) | 5 |
 | [語音、音訊與轉錄](#category-audio-speech) | 5 |
 | [資料、機器學習與分析](#category-data-ai) | 5 |
 | [資源清單與參考素材](#category-reference-collection) | 5 |
 | [文化、命理與宗教](#category-culture-divination) | 4 |
 | [模擬、3D 與機器人](#category-simulation-robotics) | 4 |
-| [自動化與整合](#category-automation-integration) | 4 |
 | [金融與交易](#category-finance) | 4 |
 | [學習與教學](#category-education) | 3 |
 | [Web、桌面與平台](#category-web-platform) | 2 |
@@ -242,6 +242,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [NangoHQ/nango](https://github.com/NangoHQ/nango) | 主要能力：工作流程自動化。依專案描述：Build product integrations with AI. | 工作流程自動化 | Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
 | [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 主要能力：瀏覽器操作與資料蒐集。依專案描述：小红书笔记 \| 评论爬虫、抖音视频 \| 评论爬虫、快手视频 \| 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 \| 知乎问答文章｜评论爬虫 | 瀏覽器操作與資料蒐集 | Python 環境 | 3/5（中等） | 活躍 | 高 |
 | [Salomondiei08/oh-my-hermes](https://github.com/Salomondiei08/oh-my-hermes) | 主要能力：工作流程自動化。依專案描述：An opinionated workflow layer for building, shipping, and operating apps with Hermes Agent | 工作流程自動化 | Shell 腳本／設定檔 | 4/5（高） | 活躍 | 中 |
+| [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 主要能力：瀏覽器操作與資料蒐集。依專案描述：🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN | AI Agent 與 Agent Skills、Web、桌面與平台、瀏覽器操作與資料蒐集 | Python 環境 | 3/5（中等） | 活躍 | 高 |
 
 <a id="category-design-ui"></a>
 ## 設計、UI 與前端
@@ -254,6 +255,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 主要能力：AI Agent 建構與編排、程式開發、理解與審查、Agent Skill／提示工作流。依專案描述：Clone any website with one command using AI coding agents | AI Agent 與 Agent Skills、開發與程式碼工具、Web、桌面與平台、自動化與整合、AI Agent 建構與編排 | Agent Skill 安裝、Node.js／JavaScript | 4/5（高） | 活躍 | 高 |
 | [jinggreen15/ai-design-team](https://github.com/jinggreen15/ai-design-team) | 主要能力：設計系統與原型製作、研究、學習與教學。依專案描述：A multi-role AI design team skill for research, planning, scripting, design, and content production. | AI Agent 與 Agent Skills、知識、研究與記憶、設計系統與原型製作、研究、學習與教學 | 依 README 判斷 | 3/5（中等） | 活躍 | 中 |
 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 主要能力：設計系統與原型製作、Agent Skill／提示工作流、程式開發、理解與審查。依專案描述：Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop | AI Agent 與 Agent Skills、開發與程式碼工具、設計系統與原型製作、Agent Skill／提示工作流、程式開發、理解與審查 | Agent Skill 安裝、Node.js／JavaScript | 4/5（高） | 活躍 | 中 |
+| [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) | 主要能力：程式開發、理解與審查、設計系統與原型製作。依專案描述：Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts. | Web、桌面與平台、開發與程式碼工具、程式開發、理解與審查、設計系統與原型製作 | Node.js／TypeScript | 4/5（高） | 活躍 | 資訊 |
 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 主要能力：設計系統與原型製作。依專案描述：A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes,… | 設計系統與原型製作 | Shell 腳本／設定檔 | 3/5（中等） | 活躍 | 資訊 |
 | [nevertoday/350-layout-compositions](https://github.com/nevertoday/350-layout-compositions) | 主要能力：設計系統與原型製作、影片生成、剪輯與轉檔、簡報與文件生成。依專案描述：350 layout composition references across visual principles, editorial design, typography, grids, web UI, film, Chinese art, and presentations. | 影片與媒體製作、簡報與文件、資料、機器學習與分析、Web、桌面與平台、資源清單與參考素材 | 直接閱讀／複製範例、Python 環境 | 4/5（高） | 活躍 | 中 |
 | [nevertoday/zhongguo-traditional-colors](https://github.com/nevertoday/zhongguo-traditional-colors) | 主要能力：設計系統與原型製作、範例、模板與資源索引。依專案描述：中华传统色演示、色卡浏览与颜色知识科普开源项目 | Web、桌面與平台、資源清單與參考素材、設計系統與原型製作、範例、模板與資源索引 | 直接閱讀／複製範例、靜態網頁／Web 專案 | 4/5（高） | 活躍 | 無明顯提示 |
