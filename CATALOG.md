@@ -3,7 +3,7 @@
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
 - Repository 數：**148**
-- 產生時間（UTC）：`2026-09-04T07:56:16.521611Z`
+- 產生時間（UTC）：`2026-09-05T07:37:18.573118Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -217,7 +217,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 
 | Repository | 能力摘要 | 多標籤 | 安裝推定 | ChatGPT | 維護 | 最高風險 |
 |---|---|---|---|---:|---|---|
-| [Hao0321/claude-skill-social-post](https://github.com/Hao0321/claude-skill-social-post) | 主要能力：內容企劃與社群發布、AI Agent 建構與編排、工作流程自動化。依專案描述：A Claude Code skill by Hao (駱君昊) that learns your Facebook voice and auto-posts to FB / IG / Threads / X with a 14-day content calendar. Mega-viral validated: 80K reach / 448… | AI Agent 與 Agent Skills、自動化與整合、語音、音訊與轉錄、生產力與工作管理、內容企劃與社群發布 | Python 環境 | 3/5（中等） | 活躍 | 高 |
+| [Hao0321/claude-skill-social-post](https://github.com/Hao0321/claude-skill-social-post) | 主要能力：內容企劃與社群發布、AI Agent 建構與編排、工作流程自動化。依專案描述：A Claude Code skill by Hao (駱君昊) that learns your Facebook voice and auto-posts to FB / IG / Threads / X with a 14-day content calendar. Mega-viral validated: 80K reach / 448… | AI Agent 與 Agent Skills、自動化與整合、語音、音訊與轉錄、生產力與工作管理、內容企劃與社群發布 | Node.js／JavaScript | 3/5（中等） | 活躍 | 高 |
 | [qiayue/Twitter-Trend-Radar](https://github.com/qiayue/Twitter-Trend-Radar) | 主要能力：監控、可觀測性與情報、內容企劃與社群發布。依專案描述：Twitter Trend Radar | Web、桌面與平台、監控、可觀測性與情報、內容企劃與社群發布 | 靜態網頁／Web 專案 | 3/5（中等） | 活躍 | 無明顯提示 |
 
 <a id="category-presentation-docs"></a>
