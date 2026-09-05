@@ -3,9 +3,21 @@ name: Sync GitHub Stars
 on:
   workflow_dispatch:
 
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/sync-stars.yml"
+      - "scripts/**"
+      - "tests/**"
+
   schedule:
     # 每天台灣時間約 11:17 執行
     - cron: "17 3 * * *"
+
+concurrency:
+  group: sync-github-stars
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -17,6 +29,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v7
+
+      - name: Update checkout to latest main
+        run: git pull --ff-only origin main
 
       - name: Fetch starred repositories
         env:
@@ -167,4 +182,5 @@ jobs:
           fi
 
           git commit -m "chore: sync GitHub starred repositories"
+          git pull --rebase origin main
           git push
