@@ -2,8 +2,8 @@
 
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
-- Repository 數：**173**
-- 產生時間（UTC）：`2026-09-06T07:51:33.984144Z`
+- Repository 數：**176**
+- 產生時間（UTC）：`2026-09-07T08:13:15.151385Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -29,7 +29,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 
 | 主分類 | Repository 數 |
 |---|---:|
-| [AI Agent 與 Agent Skills](#category-ai-agents) | 28 |
+| [AI Agent 與 Agent Skills](#category-ai-agents) | 30 |
 | [知識、研究與記憶](#category-knowledge-research) | 26 |
 | [設計、UI 與前端](#category-design-ui) | 16 |
 | [簡報與文件](#category-presentation-docs) | 14 |
@@ -38,9 +38,9 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [生產力與工作管理](#category-productivity) | 8 |
 | [資安、隱私與稽核](#category-security-privacy) | 8 |
 | [待分類](#category-uncategorized) | 6 |
+| [模擬、3D 與機器人](#category-simulation-robotics) | 6 |
 | [資料、機器學習與分析](#category-data-ai) | 6 |
 | [資源清單與參考素材](#category-reference-collection) | 6 |
-| [模擬、3D 與機器人](#category-simulation-robotics) | 5 |
 | [自動化與整合](#category-automation-integration) | 5 |
 | [語音、音訊與轉錄](#category-audio-speech) | 5 |
 | [Web、桌面與平台](#category-web-platform) | 4 |
@@ -73,6 +73,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [hyhmrright/brooks-lint](https://github.com/hyhmrright/brooks-lint) | 主要能力：程式開發、理解與審查、Agent Skill／提示工作流。依專案描述：AI code reviews grounded in 12 classic engineering books — decay risk diagnostics with book citations, severity labels, and 6 analysis modes including full-sweep auto-fix | 開發與程式碼工具、程式開發、理解與審查、Agent Skill／提示工作流 | Agent Skill 安裝、Node.js／JavaScript | 4/5（高） | 活躍 | 中 |
 | [icgma/slide-skill](https://github.com/icgma/slide-skill) | 主要能力：一般工具／待確認。依專案描述：SVG-first slide generation toolkit with intelligent content planning and domain-specific layouts | 一般工具／待確認 | Python 環境 | 3/5（中等） | 活躍 | 資訊 |
 | [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) | 主要能力：Agent Skill／提示工作流。metadata 描述不足，需閱讀 README 進一步確認。 | Agent Skill／提示工作流 | Agent Skill 安裝、Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
+| [jjhuangtw/archi-prompt-skill](https://github.com/jjhuangtw/archi-prompt-skill) | 主要能力：一般工具／待確認。metadata 描述不足，需閱讀 README 進一步確認。 | Web、桌面與平台、一般工具／待確認 | 靜態網頁／Web 專案 | 3/5（中等） | 活躍 | 低 |
 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 主要能力：一般工具／待確認。依專案描述：🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman | 一般工具／待確認 | Go 專案 | 3/5（中等） | 活躍 | 中 |
 | [mattpocock/skills](https://github.com/mattpocock/skills) | 主要能力：Agent Skill／提示工作流。依專案描述：Skills for Real Engineers. Straight from my .agents directory. | Agent Skill／提示工作流 | Agent Skill 安裝、Shell 腳本／設定檔 | 4/5（高） | 活躍 | 資訊 |
 | [maylogger/AGI](https://github.com/maylogger/AGI) | 主要能力：AI Agent 建構與編排。依專案描述：Agentic Guideline Intelligence | AI Agent 建構與編排 | 直接閱讀／複製範例、Python 環境 | 3/5（中等） | 活躍 | 資訊 |
@@ -81,6 +82,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [obra/superpowers](https://github.com/obra/superpowers) | 主要能力：Agent Skill／提示工作流、AI Agent 建構與編排、程式開發、理解與審查。依專案描述：An agentic skills framework & software development methodology that works. | 開發與程式碼工具、Agent Skill／提示工作流、AI Agent 建構與編排、程式開發、理解與審查 | Agent Skill 安裝、Shell 腳本／設定檔 | 4/5（高） | 活躍 | 資訊 |
 | [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) | 主要能力：Agent Skill／提示工作流。依專案描述：Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。 | Agent Skill／提示工作流 | Agent Skill 安裝 | 4/5（高） | 近期維護 | 中 |
 | [stablyai/orca](https://github.com/stablyai/orca) | 主要能力：AI Agent 建構與編排、程式開發、理解與審查。依專案描述：Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. | 開發與程式碼工具、AI Agent 建構與編排、程式開發、理解與審查 | Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
+| [TanShilongMario/clipshot](https://github.com/TanShilongMario/clipshot) | 主要能力：一般工具／待確認。依專案描述：A Skill for creating clipshot | 一般工具／待確認 | 依 README 判斷 | 3/5（中等） | 活躍 | 無明顯提示 |
 | [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | 主要能力：監控、可觀測性與情報、MCP／工具整合、工作流程自動化。依專案描述：📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. \| 用 AI 构建你专属的新闻雷达 | 自動化與整合、監控、可觀測性與情報、MCP／工具整合、工作流程自動化 | MCP server 設定、Python 環境 | 4/5（高） | 活躍 | 資訊 |
 | [vibeshotclub/vsc-skills](https://github.com/vibeshotclub/vsc-skills) | 主要能力：Agent Skill／提示工作流。metadata 描述不足，需閱讀 README 進一步確認。 | Agent Skill／提示工作流 | Agent Skill 安裝、Python 環境 | 4/5（高） | 活躍 | 中 |
 | [yaojingang/yao-meta-skill](https://github.com/yaojingang/yao-meta-skill) | 主要能力：Agent Skill／提示工作流、AI Agent 建構與編排、工作流程自動化。依專案描述：YAO = Yielding AI Outcomes. A rigorous engineering, evaluation, governance, and portability system for reusable agent skills. | 自動化與整合、Agent Skill／提示工作流、AI Agent 建構與編排、工作流程自動化 | Agent Skill 安裝、Python 環境 | 4/5（高） | 活躍 | 資訊 |
@@ -151,7 +153,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [ayuhamaro/Startup-Contradictions](https://github.com/ayuhamaro/Startup-Contradictions) | 主要能力：一般工具／待確認。metadata 描述不足，需閱讀 README 進一步確認。 | 一般工具／待確認 | 依 README 判斷 | 3/5（中等） | 活躍 | 中 |
 | [joeseesun/qiaomu-artist-style](https://github.com/joeseesun/qiaomu-artist-style) | 主要能力：一般工具／待確認。metadata 描述不足，需閱讀 README 進一步確認。 | 一般工具／待確認 | Node.js／TypeScript | 3/5（中等） | 活躍 | 中 |
 | [limuloo/RefineAnything](https://github.com/limuloo/RefineAnything) | 主要能力：一般工具／待確認。metadata 描述不足，需閱讀 README 進一步確認。 | 一般工具／待確認 | Python 環境 | 3/5（中等） | 活躍 | 中 |
-| [nuxt/nuxt](https://github.com/nuxt/nuxt) | 主要能力：一般工具／待確認。依專案描述：the full-stack Vue framework | 一般工具／待確認 | Node.js／TypeScript | 3/5（中等） | 活躍 | 無明顯提示 |
+| [nuxt/nuxt](https://github.com/nuxt/nuxt) | 主要能力：一般工具／待確認。依專案描述：The full-stack Vue framework. | 一般工具／待確認 | Node.js／TypeScript | 3/5（中等） | 活躍 | 無明顯提示 |
 | [Paidax01/math-curve-loaders](https://github.com/Paidax01/math-curve-loaders) | 主要能力：一般工具／待確認。依專案描述：A lightweight gallery of mathematical curve based loading animations with modal previews, formulas, and copyable code snippets. | 一般工具／待確認 | Node.js／JavaScript | 3/5（中等） | 活躍 | 中 |
 | [zhongerxin/Cowart](https://github.com/zhongerxin/Cowart) | 主要能力：一般工具／待確認。metadata 描述不足，需閱讀 README 進一步確認。 | 一般工具／待確認 | Node.js／JavaScript | 3/5（中等） | 活躍 | 低 |
 
@@ -174,6 +176,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [oso95/scroll-world](https://github.com/oso95/scroll-world) | 主要能力：模擬、3D 與互動視覺。依專案描述：A skill that turn any brand into a scrollable 3D world landing page | AI Agent 與 Agent Skills、模擬、3D 與互動視覺 | Node.js／JavaScript | 3/5（中等） | 活躍 | 無明顯提示 |
 | [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) | 主要能力：模擬、3D 與互動視覺。依專案描述：🇨🇭 A React renderer for Three.js | Web、桌面與平台、模擬、3D 與互動視覺 | Node.js／TypeScript | 3/5（中等） | 活躍 | 無明顯提示 |
 | [st-tech/ppf-contact-solver](https://github.com/st-tech/ppf-contact-solver) | 主要能力：模擬、3D 與互動視覺。依專案描述：A contact solver for physics-based simulations involving 👚 shells, 🪵 solids, 🪢 rods, 🧱 rigid bodies and ⏳ sand. | 模擬、3D 與互動視覺 | Python 環境 | 3/5（中等） | 活躍 | 中 |
+| [vercel-labs/vgpu](https://github.com/vercel-labs/vgpu) | 主要能力：模擬、3D 與互動視覺、安全檢查與調查。依專案描述：Modular cross-runtime WebGPU library for shaders, 3D scenes, GPU tensors, neural networks, and math viz | 資安、隱私與稽核、模擬、3D 與互動視覺、安全檢查與調查 | Node.js／TypeScript | 2/5（有限） | 活躍 | 高 |
 | [yazelin/red-cliffs-3d](https://github.com/yazelin/red-cliffs-3d) | 主要能力：模擬、3D 與互動視覺。依專案描述：赤壁之戰 208 全 3D 戰場重現 — 單一 HTML + Three.js,九幕時間軸、電影運鏡、計策與火攻特效(demo 由 Claude Fable 5 產生) | Web、桌面與平台、模擬、3D 與互動視覺 | 靜態網頁／Web 專案 | 3/5（中等） | 已封存 | 高 |
 
 <a id="category-productivity"></a>
