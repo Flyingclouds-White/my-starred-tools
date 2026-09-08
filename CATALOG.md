@@ -2,8 +2,8 @@
 
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
-- Repository 數：**176**
-- 產生時間（UTC）：`2026-09-07T08:13:15.151385Z`
+- Repository 數：**180**
+- 產生時間（UTC）：`2026-09-08T08:01:14.648803Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -34,13 +34,13 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [設計、UI 與前端](#category-design-ui) | 16 |
 | [簡報與文件](#category-presentation-docs) | 14 |
 | [影片與媒體製作](#category-video-media) | 12 |
-| [影像與創意生成](#category-image-creative) | 8 |
+| [影像與創意生成](#category-image-creative) | 10 |
 | [生產力與工作管理](#category-productivity) | 8 |
 | [資安、隱私與稽核](#category-security-privacy) | 8 |
+| [資料、機器學習與分析](#category-data-ai) | 7 |
+| [資源清單與參考素材](#category-reference-collection) | 7 |
 | [待分類](#category-uncategorized) | 6 |
 | [模擬、3D 與機器人](#category-simulation-robotics) | 6 |
-| [資料、機器學習與分析](#category-data-ai) | 6 |
-| [資源清單與參考素材](#category-reference-collection) | 6 |
 | [自動化與整合](#category-automation-integration) | 5 |
 | [語音、音訊與轉錄](#category-audio-speech) | 5 |
 | [Web、桌面與平台](#category-web-platform) | 4 |
@@ -118,7 +118,9 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 
 | Repository | 能力摘要 | 多標籤 | 安裝推定 | ChatGPT | 維護 | 最高風險 |
 |---|---|---|---|---:|---|---|
+| [ahujasid/camera-to-blender](https://github.com/ahujasid/camera-to-blender) | 主要能力：圖片生成、編輯與參考。依專案描述：Take a photo of real objects, and paste them in Blender | 家庭、自動化與 IoT、圖片生成、編輯與參考 | Node.js／JavaScript | 2/5（有限） | 活躍 | 高 |
 | [EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts) | 主要能力：圖片生成、編輯與參考、範例、模板與資源索引。依專案描述：GPT-Image-2 API and Prompts | 資源清單與參考素材、自動化與整合、圖片生成、編輯與參考、範例、模板與資源索引 | 直接閱讀／複製範例、Python 環境 | 4/5（高） | 活躍 | 中 |
+| [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 主要能力：工作流程自動化、圖片生成、編輯與參考、Agent Skill／提示工作流。依專案描述：Prompt as Code \| GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 | 自動化與整合、AI Agent 與 Agent Skills、資源清單與參考素材、工作流程自動化、圖片生成、編輯與參考 | 直接閱讀／複製範例、Agent Skill 安裝 | 4/5（高） | 活躍 | 資訊 |
 | [liyue-aigc/female-portrait-director](https://github.com/liyue-aigc/female-portrait-director) | 主要能力：Agent Skill／提示工作流、圖片生成、編輯與參考。依專案描述：A modular Codex Skill for directing and expanding detailed AI female portrait prompts. | AI Agent 與 Agent Skills、Agent Skill／提示工作流、圖片生成、編輯與參考 | Agent Skill 安裝 | 3/5（中等） | 活躍 | 高 |
 | [op7418/guizang-material-illustration](https://github.com/op7418/guizang-material-illustration) | 主要能力：圖片生成、編輯與參考、資料分析、視覺化與預測、內容企劃與社群發布。依專案描述：归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。 | AI Agent 與 Agent Skills、資料、機器學習與分析、社群、行銷與內容、圖片生成、編輯與參考、資料分析、視覺化與預測 | 依 README 判斷 | 3/5（中等） | 活躍 | 中 |
 | [photoprism/photoprism](https://github.com/photoprism/photoprism) | 主要能力：圖片生成、編輯與參考、本機或自架應用、研究、學習與教學。依專案描述：AI-Powered Photos App 🌈💎✨ | 資料、機器學習與分析、Web、桌面與平台、學習與教學、圖片生成、編輯與參考、本機或自架應用 | 容器／自架部署、Go 專案 | 3/5（中等） | 活躍 | 中 |
@@ -208,7 +210,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | 主要能力：知識庫、RAG 與記憶、程式開發、理解與審查、Agent Skill／提示工作流。依專案描述：Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Co… | AI Agent 與 Agent Skills、開發與程式碼工具、資料、機器學習與分析、知識庫、RAG 與記憶、程式開發、理解與審查 | Agent Skill 安裝、Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
 | [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) | 主要能力：知識庫、RAG 與記憶、範例、模板與資源索引。依專案描述：Google Cloud Knowledge Catalog Tools and Samples | 資源清單與參考素材、知識庫、RAG 與記憶、範例、模板與資源索引 | 直接閱讀／複製範例、Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 主要能力：程式開發、理解與審查、知識庫、RAG 與記憶、AI Agent 建構與編排。依專案描述：Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: loca… | AI Agent 與 Agent Skills、開發與程式碼工具、資料、機器學習與分析、程式開發、理解與審查、知識庫、RAG 與記憶 | Agent Skill 安裝、MCP server 設定 | 4/5（高） | 活躍 | 中 |
-| [joeseesun/qiaomu-book-reader](https://github.com/joeseesun/qiaomu-book-reader) | 主要能力：簡報與文件生成、知識庫、RAG 與記憶。依專案描述：在 Obsidian 中读书、就地问 AI、保存 Markdown 笔记 \| Read EPUB/PDF, ask AI beside the page, and keep your notes locally. | 簡報與文件、生產力與工作管理、簡報與文件生成、知識庫、RAG 與記憶 | Node.js／JavaScript | 4/5（高） | 活躍 | 資訊 |
+| [joeseesun/qiaomu-book-reader](https://github.com/joeseesun/qiaomu-book-reader) | 主要能力：簡報與文件生成、知識庫、RAG 與記憶。依專案描述：在 Obsidian 中阅读 EPUB、FB2 与 PDF，划线批注、就地问 AI、笔记回到原文 \| Read EPUB/FB2/PDF in Obsidian: highlights, inline AI Q&A, and notes that link back to the source. | 簡報與文件、生產力與工作管理、簡報與文件生成、知識庫、RAG 與記憶 | 依 README 判斷 | 4/5（高） | 活躍 | 資訊 |
 | [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | 主要能力：研究、學習與教學。依專案描述：AI agents running research on single-GPU nanochat training automatically | 研究、學習與教學 | Python 環境 | 3/5（中等） | 活躍 | 中 |
 | [kdsz001/OpenWiki](https://github.com/kdsz001/OpenWiki) | 主要能力：知識庫、RAG 與記憶、本機或自架應用。依專案描述：OpenWiki — Mac desktop AI knowledge management tool. Capture clipboard, build personal wiki, get AI insights. | Web、桌面與平台、生產力與工作管理、知識庫、RAG 與記憶、本機或自架應用 | Rust 專案 | 2/5（有限） | 活躍 | 高 |
 | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 主要能力：Agent Skill／提示工作流、知識庫、RAG 與記憶。依專案描述：Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas. | AI Agent 與 Agent Skills、開發與程式碼工具、Agent Skill／提示工作流、知識庫、RAG 與記憶 | Agent Skill 安裝 | 4/5（高） | 活躍 | 中 |
@@ -322,6 +324,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [google-research/timesfm](https://github.com/google-research/timesfm) | 主要能力：資料分析、視覺化與預測、研究、學習與教學。依專案描述：TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. | 知識、研究與記憶、資料分析、視覺化與預測、研究、學習與教學 | Python 環境 | 3/5（中等） | 活躍 | 資訊 |
 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 主要能力：工作流程自動化、MCP／工具整合、本機或自架應用。依專案描述：Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | 自動化與整合、AI Agent 與 Agent Skills、開發與程式碼工具、Web、桌面與平台、工作流程自動化 | MCP server 設定、容器／自架部署 | 4/5（高） | 活躍 | 中 |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 主要能力：本機或自架應用。依專案描述：The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 | 本機或自架應用 | Node.js／TypeScript | 3/5（中等） | 活躍 | 中 |
+| [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | 主要能力：一般工具／待確認。依專案描述：A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks. | Web、桌面與平台、一般工具／待確認 | Node.js／TypeScript | 3/5（中等） | 活躍 | 無明顯提示 |
 
 <a id="category-reference-collection"></a>
 ## 資源清單與參考素材
@@ -332,6 +335,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [AICMO/AiCMO-Marketing-Prompt-Collection](https://github.com/AICMO/AiCMO-Marketing-Prompt-Collection) | 主要能力：範例、模板與資源索引、知識庫、RAG 與記憶、內容企劃與社群發布。依專案描述：AI CMO Prompts Collection and Knowledge Base | 知識、研究與記憶、金融與交易、社群、行銷與內容、範例、模板與資源索引、知識庫、RAG 與記憶 | 直接閱讀／複製範例 | 4/5（高） | 活躍 | 資訊 |
 | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 主要能力：範例、模板與資源索引。依專案描述：A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. | 範例、模板與資源索引 | 直接閱讀／複製範例、Jupyter Notebook | 4/5（高） | 活躍 | 中 |
 | [composio-community/awesome-codex-skills](https://github.com/composio-community/awesome-codex-skills) | 主要能力：Agent Skill／提示工作流、程式開發、理解與審查、工作流程自動化。依專案描述：A curated list of practical Codex skills for automating workflows across the Codex CLI and API. | AI Agent 與 Agent Skills、開發與程式碼工具、自動化與整合、Agent Skill／提示工作流、程式開發、理解與審查 | 直接閱讀／複製範例、Agent Skill 安裝 | 4/5（高） | 活躍 | 中 |
+| [f/prompts.chat](https://github.com/f/prompts.chat) | 主要能力：研究、學習與教學、資料分析、視覺化與預測、範例、模板與資源索引。依專案描述：f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. | Web、桌面與平台、AI Agent 與 Agent Skills、資料、機器學習與分析、資安、隱私與稽核、學習與教學 | 直接閱讀／複製範例、靜態網頁／Web 專案 | 4/5（高） | 活躍 | 中 |
 | [openai/skills](https://github.com/openai/skills) | 主要能力：Agent Skill／提示工作流、範例、模板與資源索引。依專案描述：Skills Catalog for Codex | AI Agent 與 Agent Skills、Agent Skill／提示工作流、範例、模板與資源索引 | 直接閱讀／複製範例、Agent Skill 安裝 | 4/5（高） | 活躍 | 中 |
 | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 主要能力：MCP／工具整合、範例、模板與資源索引。依專案描述：A collection of MCP servers. | AI Agent 與 Agent Skills、MCP／工具整合、範例、模板與資源索引 | 直接閱讀／複製範例、MCP server 設定 | 4/5（高） | 活躍 | 資訊 |
 
