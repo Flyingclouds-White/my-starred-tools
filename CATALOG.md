@@ -2,8 +2,8 @@
 
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
-- Repository 數：**180**
-- 產生時間（UTC）：`2026-09-08T08:01:14.648803Z`
+- Repository 數：**182**
+- 產生時間（UTC）：`2026-09-09T08:05:29.656639Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -29,20 +29,20 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 
 | 主分類 | Repository 數 |
 |---|---:|
-| [AI Agent 與 Agent Skills](#category-ai-agents) | 30 |
+| [AI Agent 與 Agent Skills](#category-ai-agents) | 31 |
 | [知識、研究與記憶](#category-knowledge-research) | 26 |
 | [設計、UI 與前端](#category-design-ui) | 16 |
-| [簡報與文件](#category-presentation-docs) | 14 |
+| [簡報與文件](#category-presentation-docs) | 15 |
 | [影片與媒體製作](#category-video-media) | 12 |
 | [影像與創意生成](#category-image-creative) | 10 |
-| [生產力與工作管理](#category-productivity) | 8 |
 | [資安、隱私與稽核](#category-security-privacy) | 8 |
+| [生產力與工作管理](#category-productivity) | 7 |
 | [資料、機器學習與分析](#category-data-ai) | 7 |
 | [資源清單與參考素材](#category-reference-collection) | 7 |
 | [待分類](#category-uncategorized) | 6 |
 | [模擬、3D 與機器人](#category-simulation-robotics) | 6 |
+| [語音、音訊與轉錄](#category-audio-speech) | 6 |
 | [自動化與整合](#category-automation-integration) | 5 |
-| [語音、音訊與轉錄](#category-audio-speech) | 5 |
 | [Web、桌面與平台](#category-web-platform) | 4 |
 | [文化、命理與宗教](#category-culture-divination) | 4 |
 | [金融與交易](#category-finance) | 4 |
@@ -61,6 +61,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [anthropics/skills](https://github.com/anthropics/skills) | 主要能力：Agent Skill／提示工作流。依專案描述：Public repository for Agent Skills | Agent Skill／提示工作流 | Agent Skill 安裝、Python 環境 | 4/5（高） | 活躍 | 中 |
 | [b-nnett/codex-plusplus](https://github.com/b-nnett/codex-plusplus) | 主要能力：一般工具／待確認。依專案描述：Codex++ tweak system for the Codex desktop app | 一般工具／待確認 | Node.js／JavaScript | 3/5（中等） | 已封存 | 高 |
 | [binghe1980/AI-Canvas](https://github.com/binghe1980/AI-Canvas) | 主要能力：一般工具／待確認。依專案描述：Codex-integrated infinite canvas for AI image generation, annotation, and iterative editing. | 一般工具／待確認 | Node.js／TypeScript | 3/5（中等） | 活躍 | 資訊 |
+| [browser-use/browser-use](https://github.com/browser-use/browser-use) | 主要能力：AI Agent 建構與編排、瀏覽器操作與資料蒐集、工作流程自動化。依專案描述：Agents that use the browser. | 自動化與整合、Web、桌面與平台、AI Agent 建構與編排、瀏覽器操作與資料蒐集、工作流程自動化 | Python 環境 | 4/5（高） | 活躍 | 資訊 |
 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 主要能力：MCP／工具整合、瀏覽器操作與資料蒐集。依專案描述：The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra | 自動化與整合、Web、桌面與平台、MCP／工具整合、瀏覽器操作與資料蒐集 | MCP server 設定、Node.js／TypeScript | 3/5（中等） | 活躍 | 資訊 |
 | [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | 主要能力：Agent Skill／提示工作流、MCP／工具整合、本機或自架應用。依專案描述：Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifa… | 自動化與整合、Web、桌面與平台、Agent Skill／提示工作流、MCP／工具整合、本機或自架應用 | Agent Skill 安裝、MCP server 設定 | 4/5（高） | 活躍 | 中 |
 | [DavidBB-L/cinema-manager](https://github.com/DavidBB-L/cinema-manager) | 主要能力：Agent Skill／提示工作流。依專案描述：Hermes Agent skill - Movie/TV resource search + Quark cloud drive auto-save | Agent Skill／提示工作流 | Agent Skill 安裝、Python 環境 | 4/5（高） | 活躍 | 中 |
@@ -186,7 +187,6 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 
 | Repository | 能力摘要 | 多標籤 | 安裝推定 | ChatGPT | 維護 | 最高風險 |
 |---|---|---|---|---:|---|---|
-| [browser-use/browser-use](https://github.com/browser-use/browser-use) | 主要能力：AI Agent 建構與編排、瀏覽器操作與資料蒐集、工作流程自動化。依專案描述：🌐 Make websites accessible for AI agents. Automate tasks online with ease. | AI Agent 與 Agent Skills、自動化與整合、Web、桌面與平台、AI Agent 建構與編排、瀏覽器操作與資料蒐集 | Python 環境 | 4/5（高） | 活躍 | 資訊 |
 | [cloudflare/agentic-inbox](https://github.com/cloudflare/agentic-inbox) | 主要能力：AI Agent 建構與編排、本機或自架應用。依專案描述：A self-hosted email client with an AI agent, running entirely on Cloudflare Workers | Web、桌面與平台、AI Agent 與 Agent Skills、AI Agent 建構與編排、本機或自架應用 | 容器／自架部署、Node.js／TypeScript | 2/5（有限） | 活躍 | 高 |
 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | 主要能力：AI Agent 建構與編排。依專案描述：Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. | AI Agent 與 Agent Skills、AI Agent 建構與編排 | Python 環境 | 3/5（中等） | 活躍 | 資訊 |
 | [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) | 主要能力：工作流程自動化。依專案描述：An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others. | 工作流程自動化 | Node.js／JavaScript | 4/5（高） | 活躍 | 中 |
@@ -210,7 +210,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | 主要能力：知識庫、RAG 與記憶、程式開發、理解與審查、Agent Skill／提示工作流。依專案描述：Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Co… | AI Agent 與 Agent Skills、開發與程式碼工具、資料、機器學習與分析、知識庫、RAG 與記憶、程式開發、理解與審查 | Agent Skill 安裝、Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
 | [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) | 主要能力：知識庫、RAG 與記憶、範例、模板與資源索引。依專案描述：Google Cloud Knowledge Catalog Tools and Samples | 資源清單與參考素材、知識庫、RAG 與記憶、範例、模板與資源索引 | 直接閱讀／複製範例、Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 主要能力：程式開發、理解與審查、知識庫、RAG 與記憶、AI Agent 建構與編排。依專案描述：Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: loca… | AI Agent 與 Agent Skills、開發與程式碼工具、資料、機器學習與分析、程式開發、理解與審查、知識庫、RAG 與記憶 | Agent Skill 安裝、MCP server 設定 | 4/5（高） | 活躍 | 中 |
-| [joeseesun/qiaomu-book-reader](https://github.com/joeseesun/qiaomu-book-reader) | 主要能力：簡報與文件生成、知識庫、RAG 與記憶。依專案描述：在 Obsidian 中阅读 EPUB、FB2 与 PDF，划线批注、就地问 AI、笔记回到原文 \| Read EPUB/FB2/PDF in Obsidian: highlights, inline AI Q&A, and notes that link back to the source. | 簡報與文件、生產力與工作管理、簡報與文件生成、知識庫、RAG 與記憶 | 依 README 判斷 | 4/5（高） | 活躍 | 資訊 |
+| [joeseesun/qiaomu-book-reader-legacy](https://github.com/joeseesun/qiaomu-book-reader-legacy) | 主要能力：簡報與文件生成、知識庫、RAG 與記憶。依專案描述：在 Obsidian 中阅读 EPUB、FB2 与 PDF，划线批注、就地问 AI、笔记回到原文 \| Read EPUB/FB2/PDF in Obsidian: highlights, inline AI Q&A, and notes that link back to the source. | 簡報與文件、生產力與工作管理、簡報與文件生成、知識庫、RAG 與記憶 | 依 README 判斷 | 4/5（高） | 活躍 | 資訊 |
 | [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | 主要能力：研究、學習與教學。依專案描述：AI agents running research on single-GPU nanochat training automatically | 研究、學習與教學 | Python 環境 | 3/5（中等） | 活躍 | 中 |
 | [kdsz001/OpenWiki](https://github.com/kdsz001/OpenWiki) | 主要能力：知識庫、RAG 與記憶、本機或自架應用。依專案描述：OpenWiki — Mac desktop AI knowledge management tool. Capture clipboard, build personal wiki, get AI insights. | Web、桌面與平台、生產力與工作管理、知識庫、RAG 與記憶、本機或自架應用 | Rust 專案 | 2/5（有限） | 活躍 | 高 |
 | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 主要能力：Agent Skill／提示工作流、知識庫、RAG 與記憶。依專案描述：Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas. | AI Agent 與 Agent Skills、開發與程式碼工具、Agent Skill／提示工作流、知識庫、RAG 與記憶 | Agent Skill 安裝 | 4/5（高） | 活躍 | 中 |
@@ -249,6 +249,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [lewislulu/html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) | 主要能力：簡報與文件生成。依專案描述：HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations | AI Agent 與 Agent Skills、Web、桌面與平台、簡報與文件生成 | 靜態網頁／Web 專案 | 4/5（高） | 活躍 | 資訊 |
 | [LRriver/AIPPT](https://github.com/LRriver/AIPPT) | 主要能力：簡報與文件生成、知識庫、RAG 與記憶。依專案描述：Open-source AI PPT workbench featuring controllable end-to-end generation, per-slide editing, and editable PPTX export. | 知識、研究與記憶、AI Agent 與 Agent Skills、簡報與文件生成、知識庫、RAG 與記憶 | Python 環境 | 4/5（高） | 活躍 | 資訊 |
 | [marp-team/marp-cli](https://github.com/marp-team/marp-cli) | 主要能力：簡報與文件生成。依專案描述：A CLI interface for Marp and Marpit based converters | 開發與程式碼工具、簡報與文件生成 | Node.js／TypeScript | 3/5（中等） | 活躍 | 高 |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 主要能力：簡報與文件生成。依專案描述：Python tool for converting files and office documents to Markdown. | 知識、研究與記憶、簡報與文件生成 | Python 環境 | 4/5（高） | 活躍 | 中 |
 | [nexu-io/codex-slides](https://github.com/nexu-io/codex-slides) | 主要能力：簡報與文件生成、Agent Skill／提示工作流、MCP／工具整合。依專案描述：🎨 Open-source AI slide studio inside Codex: image-native decks, every slide a full visual canvas. ⚡ 10+ high-quality slides in ~4–5 minutes — Fast mode renders every page in… | AI Agent 與 Agent Skills、設計、UI 與前端、知識、研究與記憶、Web、桌面與平台、開發與程式碼工具 | Agent Skill 安裝、MCP server 設定 | 4/5（高） | 活躍 | 中 |
 | [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 主要能力：Agent Skill／提示工作流、簡報與文件生成、AI Agent 建構與編排。依專案描述：AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime. | AI Agent 與 Agent Skills、設計、UI 與前端、影像與創意生成、Web、桌面與平台、模擬、3D 與機器人 | Agent Skill 安裝、靜態網頁／Web 專案 | 4/5（高） | 活躍 | 中 |
 | [presenton/presenton](https://github.com/presenton/presenton) | 主要能力：簡報與文件生成、AI Agent 建構與編排、工作流程自動化。依專案描述：Open-Source AI Presentation Generator and API (Gamma, Canva, Beautiful AI, Decktopus, Presentations AI Alternative) | 自動化與整合、AI Agent 與 Agent Skills、簡報與文件生成、AI Agent 建構與編排、工作流程自動化 | Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
@@ -295,6 +296,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 |---|---|---|---|---:|---|---|
 | [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) | 主要能力：語音生成、辨識與轉錄、影片生成、剪輯與轉檔、內容企劃與社群發布。依專案描述：Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube down… | 影片與媒體製作、Web、桌面與平台、語音生成、辨識與轉錄、影片生成、剪輯與轉檔、內容企劃與社群發布 | Python 環境 | 2/5（有限） | 活躍 | 高 |
 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 主要能力：語音生成、辨識與轉錄、工作流程自動化、設計系統與原型製作。依專案描述：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. | 自動化與整合、設計、UI 與前端、影片與媒體製作、Web、桌面與平台、語音生成、辨識與轉錄 | Python 環境 | 3/5（中等） | 活躍 | 高 |
+| [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) | 主要能力：語音生成、辨識與轉錄。依專案描述：High-Quality Voice Cloning TTS for 600+ Languages | 語音生成、辨識與轉錄 | Python 環境 | 2/5（有限） | 活躍 | 高 |
 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 主要能力：語音生成、辨識與轉錄。依專案描述：Open-Source Frontier Voice AI | 語音生成、辨識與轉錄 | Python 環境 | 3/5（中等） | 活躍 | 資訊 |
 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | 主要能力：語音生成、辨識與轉錄。依專案描述：💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minec… | Web、桌面與平台、語音生成、辨識與轉錄 | Node.js／TypeScript | 3/5（中等） | 活躍 | 資訊 |
 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 主要能力：語音生成、辨識與轉錄、設計系統與原型製作、研究、學習與教學。依專案描述：VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning | 設計、UI 與前端、學習與教學、語音生成、辨識與轉錄、設計系統與原型製作、研究、學習與教學 | Python 環境 | 2/5（有限） | 活躍 | 高 |
