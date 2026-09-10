@@ -3,7 +3,7 @@
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
 - Repository 數：**182**
-- 產生時間（UTC）：`2026-09-09T08:05:29.656639Z`
+- 產生時間（UTC）：`2026-09-10T08:04:44.782977Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -121,11 +121,11 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 |---|---|---|---|---:|---|---|
 | [ahujasid/camera-to-blender](https://github.com/ahujasid/camera-to-blender) | 主要能力：圖片生成、編輯與參考。依專案描述：Take a photo of real objects, and paste them in Blender | 家庭、自動化與 IoT、圖片生成、編輯與參考 | Node.js／JavaScript | 2/5（有限） | 活躍 | 高 |
 | [EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts) | 主要能力：圖片生成、編輯與參考、範例、模板與資源索引。依專案描述：GPT-Image-2 API and Prompts | 資源清單與參考素材、自動化與整合、圖片生成、編輯與參考、範例、模板與資源索引 | 直接閱讀／複製範例、Python 環境 | 4/5（高） | 活躍 | 中 |
-| [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 主要能力：工作流程自動化、圖片生成、編輯與參考、Agent Skill／提示工作流。依專案描述：Prompt as Code \| GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 | 自動化與整合、AI Agent 與 Agent Skills、資源清單與參考素材、工作流程自動化、圖片生成、編輯與參考 | 直接閱讀／複製範例、Agent Skill 安裝 | 4/5（高） | 活躍 | 資訊 |
+| [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 主要能力：工作流程自動化、圖片生成、編輯與參考、Agent Skill／提示工作流。依專案描述：Prompt as Code \| GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。 | 自動化與整合、AI Agent 與 Agent Skills、資源清單與參考素材、工作流程自動化、圖片生成、編輯與參考 | 直接閱讀／複製範例、Agent Skill 安裝 | 4/5（高） | 活躍 | 資訊 |
 | [liyue-aigc/female-portrait-director](https://github.com/liyue-aigc/female-portrait-director) | 主要能力：Agent Skill／提示工作流、圖片生成、編輯與參考。依專案描述：A modular Codex Skill for directing and expanding detailed AI female portrait prompts. | AI Agent 與 Agent Skills、Agent Skill／提示工作流、圖片生成、編輯與參考 | Agent Skill 安裝 | 3/5（中等） | 活躍 | 高 |
 | [op7418/guizang-material-illustration](https://github.com/op7418/guizang-material-illustration) | 主要能力：圖片生成、編輯與參考、資料分析、視覺化與預測、內容企劃與社群發布。依專案描述：归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。 | AI Agent 與 Agent Skills、資料、機器學習與分析、社群、行銷與內容、圖片生成、編輯與參考、資料分析、視覺化與預測 | 依 README 判斷 | 3/5（中等） | 活躍 | 中 |
 | [photoprism/photoprism](https://github.com/photoprism/photoprism) | 主要能力：圖片生成、編輯與參考、本機或自架應用、研究、學習與教學。依專案描述：AI-Powered Photos App 🌈💎✨ | 資料、機器學習與分析、Web、桌面與平台、學習與教學、圖片生成、編輯與參考、本機或自架應用 | 容器／自架部署、Go 專案 | 3/5（中等） | 活躍 | 中 |
-| [wuyoscar/GPT-Image2-Skill](https://github.com/wuyoscar/GPT-Image2-Skill) | 主要能力：Agent Skill／提示工作流、圖片生成、編輯與參考、範例、模板與資源索引。依專案描述：GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing | AI Agent 與 Agent Skills、資源清單與參考素材、開發與程式碼工具、知識、研究與記憶、Agent Skill／提示工作流 | 直接閱讀／複製範例、Agent Skill 安裝 | 4/5（高） | 活躍 | 中 |
+| [wuyoscar/GPT-Image2-Skill](https://github.com/wuyoscar/GPT-Image2-Skill) | 主要能力：Agent Skill／提示工作流、圖片生成、編輯與參考、範例、模板與資源索引。依專案描述：GPT Image 2/2.5 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing | AI Agent 與 Agent Skills、資源清單與參考素材、開發與程式碼工具、知識、研究與記憶、Agent Skill／提示工作流 | 直接閱讀／複製範例、Agent Skill 安裝 | 4/5（高） | 活躍 | 中 |
 | [yangchuansheng/visual-ip-illustrations](https://github.com/yangchuansheng/visual-ip-illustrations) | 主要能力：圖片生成、編輯與參考。依專案描述：Codex Skill for consistent 16:9 hand-drawn article illustrations with selectable visual IP routes: Openclaw, Xiaohei, Littlebox, Tom, Ferris, Seal and Gopher. | AI Agent 與 Agent Skills、圖片生成、編輯與參考 | Node.js／JavaScript | 3/5（中等） | 活躍 | 無明顯提示 |
 | [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) | 主要能力：圖片生成、編輯與參考、範例、模板與資源索引。依專案描述：🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. OpenAI's next-gen image model with pixel-perfect text rendering, cr… | 資源清單與參考素材、圖片生成、編輯與參考、範例、模板與資源索引 | 直接閱讀／複製範例、Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
 | [zhouwei713/gpt-image-2-prompting-skill](https://github.com/zhouwei713/gpt-image-2-prompting-skill) | 主要能力：圖片生成、編輯與參考、範例、模板與資源索引。依專案描述：A high-quality GPT-Image-2 prompting skill with bilingual README, structured prompting methods, templates, and examples. | AI Agent 與 Agent Skills、資源清單與參考素材、圖片生成、編輯與參考、範例、模板與資源索引 | 直接閱讀／複製範例 | 4/5（高） | 活躍 | 資訊 |
