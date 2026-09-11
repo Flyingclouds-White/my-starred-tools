@@ -2,8 +2,8 @@
 
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
-- Repository 數：**182**
-- 產生時間（UTC）：`2026-09-10T08:04:44.782977Z`
+- Repository 數：**185**
+- 產生時間（UTC）：`2026-09-11T07:59:57.842210Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -29,17 +29,17 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 
 | 主分類 | Repository 數 |
 |---|---:|
-| [AI Agent 與 Agent Skills](#category-ai-agents) | 31 |
+| [AI Agent 與 Agent Skills](#category-ai-agents) | 33 |
 | [知識、研究與記憶](#category-knowledge-research) | 26 |
 | [設計、UI 與前端](#category-design-ui) | 16 |
 | [簡報與文件](#category-presentation-docs) | 15 |
 | [影片與媒體製作](#category-video-media) | 12 |
 | [影像與創意生成](#category-image-creative) | 10 |
 | [資安、隱私與稽核](#category-security-privacy) | 8 |
+| [待分類](#category-uncategorized) | 7 |
 | [生產力與工作管理](#category-productivity) | 7 |
 | [資料、機器學習與分析](#category-data-ai) | 7 |
 | [資源清單與參考素材](#category-reference-collection) | 7 |
-| [待分類](#category-uncategorized) | 6 |
 | [模擬、3D 與機器人](#category-simulation-robotics) | 6 |
 | [語音、音訊與轉錄](#category-audio-speech) | 6 |
 | [自動化與整合](#category-automation-integration) | 5 |
@@ -75,6 +75,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [icgma/slide-skill](https://github.com/icgma/slide-skill) | 主要能力：一般工具／待確認。依專案描述：SVG-first slide generation toolkit with intelligent content planning and domain-specific layouts | 一般工具／待確認 | Python 環境 | 3/5（中等） | 活躍 | 資訊 |
 | [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) | 主要能力：Agent Skill／提示工作流。metadata 描述不足，需閱讀 README 進一步確認。 | Agent Skill／提示工作流 | Agent Skill 安裝、Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
 | [jjhuangtw/archi-prompt-skill](https://github.com/jjhuangtw/archi-prompt-skill) | 主要能力：一般工具／待確認。metadata 描述不足，需閱讀 README 進一步確認。 | Web、桌面與平台、一般工具／待確認 | 靜態網頁／Web 專案 | 3/5（中等） | 活躍 | 低 |
+| [jtydhr88/screenwriting-skills](https://github.com/jtydhr88/screenwriting-skills) | 主要能力：Agent Skill／提示工作流。metadata 描述不足，需閱讀 README 進一步確認。 | Agent Skill／提示工作流 | Agent Skill 安裝 | 4/5（高） | 活躍 | 中 |
 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 主要能力：一般工具／待確認。依專案描述：🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman | 一般工具／待確認 | Go 專案 | 3/5（中等） | 活躍 | 中 |
 | [mattpocock/skills](https://github.com/mattpocock/skills) | 主要能力：Agent Skill／提示工作流。依專案描述：Skills for Real Engineers. Straight from my .agents directory. | Agent Skill／提示工作流 | Agent Skill 安裝、Shell 腳本／設定檔 | 4/5（高） | 活躍 | 資訊 |
 | [maylogger/AGI](https://github.com/maylogger/AGI) | 主要能力：AI Agent 建構與編排。依專案描述：Agentic Guideline Intelligence | AI Agent 建構與編排 | 直接閱讀／複製範例、Python 環境 | 3/5（中等） | 活躍 | 資訊 |
@@ -86,6 +87,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [TanShilongMario/clipshot](https://github.com/TanShilongMario/clipshot) | 主要能力：一般工具／待確認。依專案描述：A Skill for creating clipshot | 一般工具／待確認 | 依 README 判斷 | 3/5（中等） | 活躍 | 無明顯提示 |
 | [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | 主要能力：監控、可觀測性與情報、MCP／工具整合、工作流程自動化。依專案描述：📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. \| 用 AI 构建你专属的新闻雷达 | 自動化與整合、監控、可觀測性與情報、MCP／工具整合、工作流程自動化 | MCP server 設定、Python 環境 | 4/5（高） | 活躍 | 資訊 |
 | [vibeshotclub/vsc-skills](https://github.com/vibeshotclub/vsc-skills) | 主要能力：Agent Skill／提示工作流。metadata 描述不足，需閱讀 README 進一步確認。 | Agent Skill／提示工作流 | Agent Skill 安裝、Python 環境 | 4/5（高） | 活躍 | 中 |
+| [yang0/handraw-style](https://github.com/yang0/handraw-style) | 主要能力：一般工具／待確認。依專案描述：手绘风格编号画廊与双语提示词 Skill | Web、桌面與平台、一般工具／待確認 | 靜態網頁／Web 專案 | 3/5（中等） | 活躍 | 中 |
 | [yaojingang/yao-meta-skill](https://github.com/yaojingang/yao-meta-skill) | 主要能力：Agent Skill／提示工作流、AI Agent 建構與編排、工作流程自動化。依專案描述：YAO = Yielding AI Outcomes. A rigorous engineering, evaluation, governance, and portability system for reusable agent skills. | 自動化與整合、Agent Skill／提示工作流、AI Agent 建構與編排、工作流程自動化 | Agent Skill 安裝、Python 環境 | 4/5（高） | 活躍 | 資訊 |
 
 <a id="category-web-platform"></a>
@@ -158,6 +160,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [limuloo/RefineAnything](https://github.com/limuloo/RefineAnything) | 主要能力：一般工具／待確認。metadata 描述不足，需閱讀 README 進一步確認。 | 一般工具／待確認 | Python 環境 | 3/5（中等） | 活躍 | 中 |
 | [nuxt/nuxt](https://github.com/nuxt/nuxt) | 主要能力：一般工具／待確認。依專案描述：The full-stack Vue framework. | 一般工具／待確認 | Node.js／TypeScript | 3/5（中等） | 活躍 | 無明顯提示 |
 | [Paidax01/math-curve-loaders](https://github.com/Paidax01/math-curve-loaders) | 主要能力：一般工具／待確認。依專案描述：A lightweight gallery of mathematical curve based loading animations with modal previews, formulas, and copyable code snippets. | 一般工具／待確認 | Node.js／JavaScript | 3/5（中等） | 活躍 | 中 |
+| [YIAN6557/eian-collage-broll](https://github.com/YIAN6557/eian-collage-broll) | 主要能力：一般工具／待確認。metadata 描述不足，需閱讀 README 進一步確認。 | 一般工具／待確認 | 依 README 判斷 | 3/5（中等） | 活躍 | 低 |
 | [zhongerxin/Cowart](https://github.com/zhongerxin/Cowart) | 主要能力：一般工具／待確認。metadata 描述不足，需閱讀 README 進一步確認。 | 一般工具／待確認 | Node.js／JavaScript | 3/5（中等） | 活躍 | 低 |
 
 <a id="category-culture-divination"></a>
