@@ -2,8 +2,8 @@
 
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
-- Repository 數：**205**
-- 產生時間（UTC）：`2026-09-20T08:31:25.750014Z`
+- Repository 數：**209**
+- 產生時間（UTC）：`2026-09-21T08:51:41.912613Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -31,16 +31,16 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 |---|---:|
 | [AI Agent 與 Agent Skills](#category-ai-agents) | 35 |
 | [知識、研究與記憶](#category-knowledge-research) | 27 |
+| [影片與媒體製作](#category-video-media) | 17 |
 | [設計、UI 與前端](#category-design-ui) | 17 |
 | [簡報與文件](#category-presentation-docs) | 16 |
-| [影片與媒體製作](#category-video-media) | 15 |
+| [待分類](#category-uncategorized) | 12 |
 | [影像與創意生成](#category-image-creative) | 11 |
-| [待分類](#category-uncategorized) | 11 |
 | [資料、機器學習與分析](#category-data-ai) | 10 |
 | [生產力與工作管理](#category-productivity) | 9 |
 | [模擬、3D 與機器人](#category-simulation-robotics) | 8 |
 | [資安、隱私與稽核](#category-security-privacy) | 8 |
-| [資源清單與參考素材](#category-reference-collection) | 7 |
+| [資源清單與參考素材](#category-reference-collection) | 8 |
 | [語音、音訊與轉錄](#category-audio-speech) | 6 |
 | [自動化與整合](#category-automation-integration) | 5 |
 | [Web、桌面與平台](#category-web-platform) | 4 |
@@ -142,6 +142,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 |---|---|---|---|---:|---|---|
 | [Agentchengfeng/chengfeng-videocut-skills](https://github.com/Agentchengfeng/chengfeng-videocut-skills) | 主要能力：Agent Skill／提示工作流、影片生成、剪輯與轉檔。依專案描述：用 Claude Code Skills 做的视频剪辑 Agent | AI Agent 與 Agent Skills、Agent Skill／提示工作流、影片生成、剪輯與轉檔 | Agent Skill 安裝、Node.js／JavaScript | 4/5（高） | 活躍 | 中 |
 | [averygan/reclip](https://github.com/averygan/reclip) | 主要能力：影片生成、剪輯與轉檔、本機或自架應用。依專案描述：Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI. | Web、桌面與平台、影片生成、剪輯與轉檔、本機或自架應用 | 容器／自架部署、靜態網頁／Web 專案 | 3/5（中等） | 活躍 | 高 |
+| [browser-use/video-use](https://github.com/browser-use/video-use) | 主要能力：程式開發、理解與審查、瀏覽器操作與資料蒐集、影片生成、剪輯與轉檔。依專案描述：Edit videos with coding agents | 開發與程式碼工具、自動化與整合、Web、桌面與平台、程式開發、理解與審查、瀏覽器操作與資料蒐集 | Python 環境 | 4/5（高） | 活躍 | 資訊 |
 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 主要能力：影片生成、剪輯與轉檔、語音生成、辨識與轉錄、Agent Skill／提示工作流。依專案描述：World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding as… | AI Agent 與 Agent Skills、語音、音訊與轉錄、開發與程式碼工具、影像與創意生成、知識、研究與記憶 | Agent Skill 安裝、Python 環境 | 4/5（高） | 活躍 | 中 |
 | [dexhunter/seedance2-skill](https://github.com/dexhunter/seedance2-skill) | 主要能力：影片生成、剪輯與轉檔。依專案描述：skill to create best prompts for generating videos with seedance2.0 | AI Agent 與 Agent Skills、影片生成、剪輯與轉檔 | 依 README 判斷 | 3/5（中等） | 活躍 | 無明顯提示 |
 | [duixcom/Duix-Avatar](https://github.com/duixcom/Duix-Avatar) | 主要能力：影片生成、剪輯與轉檔。依專案描述：🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning. | 影片生成、剪輯與轉檔 | 原生編譯／Release | 3/5（中等） | 活躍 | 中 |
@@ -152,6 +153,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | 主要能力：影片生成、剪輯與轉檔、AI Agent 建構與編排、工作流程自動化。依專案描述：Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views. | AI Agent 與 Agent Skills、自動化與整合、開發與程式碼工具、影片生成、剪輯與轉檔、AI Agent 建構與編排 | Node.js／TypeScript | 3/5（中等） | 活躍 | 高 |
 | [NarratorAI-Studio/narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) | 主要能力：Agent Skill／提示工作流、影片生成、剪輯與轉檔、AI Agent 建構與編排。依專案描述：AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用 | AI Agent 與 Agent Skills、社群、行銷與內容、Agent Skill／提示工作流、影片生成、剪輯與轉檔、AI Agent 建構與編排 | Agent Skill 安裝 | 4/5（高） | 活躍 | 中 |
 | [nexu-io/html-video](https://github.com/nexu-io/html-video) | 主要能力：影片生成、剪輯與轉檔、AI Agent 建構與編排、程式開發、理解與審查。依專案描述：Programmatic video for coding agents — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apach… | AI Agent 與 Agent Skills、開發與程式碼工具、設計、UI 與前端、資料、機器學習與分析、Web、桌面與平台 | 直接閱讀／複製範例、靜態網頁／Web 專案 | 4/5（高） | 活躍 | 中 |
+| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 主要能力：影片生成、剪輯與轉檔。依專案描述：The open-source CapCut alternative | 影片生成、剪輯與轉檔 | Node.js／TypeScript | 3/5（中等） | 活躍 | 無明顯提示 |
 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 主要能力：內容企劃與社群發布、AI Agent 建構與編排、MCP／工具整合。依專案描述：Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. | AI Agent 與 Agent Skills、自動化與整合、開發與程式碼工具、社群、行銷與內容、內容企劃與社群發布 | MCP server 設定、Python 環境 | 4/5（高） | 活躍 | 高 |
 | [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) | 主要能力：Agent Skill／提示工作流、影片生成、剪輯與轉檔。依專案描述：Create polished demo videos without editing skills. Mac/Windows/Linux | AI Agent 與 Agent Skills、Agent Skill／提示工作流、影片生成、剪輯與轉檔 | Agent Skill 安裝、Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
 | [xiaohuailabs/xiaohu-video-translate](https://github.com/xiaohuailabs/xiaohu-video-translate) | 主要能力：影片生成、剪輯與轉檔。依專案描述：对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费 | 自動化與整合、影片生成、剪輯與轉檔 | Python 環境 | 3/5（中等） | 活躍 | 中 |
@@ -170,6 +172,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [Nutlope/logocreator](https://github.com/Nutlope/logocreator) | 主要能力：一般工具／待確認。依專案描述：A free + OSS logo generator powered by Flux on Together AI | 一般工具／待確認 | Node.js／TypeScript | 3/5（中等） | 活躍 | 中 |
 | [nuxt/nuxt](https://github.com/nuxt/nuxt) | 主要能力：一般工具／待確認。依專案描述：The full-stack Vue framework. | 一般工具／待確認 | Node.js／TypeScript | 3/5（中等） | 活躍 | 無明顯提示 |
 | [Paidax01/math-curve-loaders](https://github.com/Paidax01/math-curve-loaders) | 主要能力：一般工具／待確認。依專案描述：A lightweight gallery of mathematical curve based loading animations with modal previews, formulas, and copyable code snippets. | 一般工具／待確認 | Node.js／JavaScript | 3/5（中等） | 活躍 | 中 |
+| [Sac-Y/Jev-cu](https://github.com/Sac-Y/Jev-cu) | 主要能力：一般工具／待確認。metadata 描述不足，需閱讀 README 進一步確認。 | 一般工具／待確認 | Node.js／JavaScript | 3/5（中等） | 活躍 | 中 |
 | [YIAN6557/eian-collage-broll](https://github.com/YIAN6557/eian-collage-broll) | 主要能力：一般工具／待確認。metadata 描述不足，需閱讀 README 進一步確認。 | 一般工具／待確認 | 依 README 判斷 | 3/5（中等） | 活躍 | 低 |
 | [zhongerxin/Cowart](https://github.com/zhongerxin/Cowart) | 主要能力：一般工具／待確認。metadata 描述不足，需閱讀 README 進一步確認。 | 一般工具／待確認 | Node.js／JavaScript | 3/5（中等） | 活躍 | 低 |
 
@@ -363,6 +366,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [f/prompts.chat](https://github.com/f/prompts.chat) | 主要能力：研究、學習與教學、資料分析、視覺化與預測、範例、模板與資源索引。依專案描述：f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. | Web、桌面與平台、AI Agent 與 Agent Skills、資料、機器學習與分析、資安、隱私與稽核、學習與教學 | 直接閱讀／複製範例、靜態網頁／Web 專案 | 4/5（高） | 活躍 | 中 |
 | [openai/skills](https://github.com/openai/skills) | 主要能力：Agent Skill／提示工作流、範例、模板與資源索引。依專案描述：Skills Catalog for Codex | AI Agent 與 Agent Skills、Agent Skill／提示工作流、範例、模板與資源索引 | 直接閱讀／複製範例、Agent Skill 安裝 | 4/5（高） | 活躍 | 中 |
 | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 主要能力：MCP／工具整合、範例、模板與資源索引。依專案描述：A collection of MCP servers. | AI Agent 與 Agent Skills、MCP／工具整合、範例、模板與資源索引 | 直接閱讀／複製範例、MCP server 設定 | 4/5（高） | 活躍 | 資訊 |
+| [wuyoscar/jev-skill](https://github.com/wuyoscar/jev-skill) | 主要能力：Agent Skill／提示工作流、範例、模板與資源索引、工作流程自動化。依專案描述：An awesome collection of Jev use cases, workflows, and agent skills. | AI Agent 與 Agent Skills、自動化與整合、Agent Skill／提示工作流、範例、模板與資源索引、工作流程自動化 | 直接閱讀／複製範例、Agent Skill 安裝 | 4/5（高） | 活躍 | 資訊 |
 
 <a id="category-finance"></a>
 ## 金融與交易
