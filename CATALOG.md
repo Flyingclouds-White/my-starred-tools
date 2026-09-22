@@ -3,7 +3,7 @@
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
 - Repository 數：**209**
-- 產生時間（UTC）：`2026-09-21T08:51:41.912613Z`
+- 產生時間（UTC）：`2026-09-22T08:28:54.070107Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -116,7 +116,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 
 | Repository | 能力摘要 | 多標籤 | 安裝推定 | ChatGPT | 維護 | 最高風險 |
 |---|---|---|---|---:|---|---|
-| [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) | 主要能力：工作流程自動化。依專案描述：NVR with realtime local object detection for IP cameras | 自動化與整合、工作流程自動化 | Node.js／TypeScript | 3/5（中等） | 活躍 | 高 |
+| [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) | 主要能力：工作流程自動化。依專案描述：NVR with realtime local object detection for IP cameras | 自動化與整合、工作流程自動化 | Python 環境 | 3/5（中等） | 活躍 | 高 |
 
 <a id="category-image-creative"></a>
 ## 影像與創意生成
@@ -172,7 +172,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [Nutlope/logocreator](https://github.com/Nutlope/logocreator) | 主要能力：一般工具／待確認。依專案描述：A free + OSS logo generator powered by Flux on Together AI | 一般工具／待確認 | Node.js／TypeScript | 3/5（中等） | 活躍 | 中 |
 | [nuxt/nuxt](https://github.com/nuxt/nuxt) | 主要能力：一般工具／待確認。依專案描述：The full-stack Vue framework. | 一般工具／待確認 | Node.js／TypeScript | 3/5（中等） | 活躍 | 無明顯提示 |
 | [Paidax01/math-curve-loaders](https://github.com/Paidax01/math-curve-loaders) | 主要能力：一般工具／待確認。依專案描述：A lightweight gallery of mathematical curve based loading animations with modal previews, formulas, and copyable code snippets. | 一般工具／待確認 | Node.js／JavaScript | 3/5（中等） | 活躍 | 中 |
-| [Sac-Y/Jev-cu](https://github.com/Sac-Y/Jev-cu) | 主要能力：一般工具／待確認。metadata 描述不足，需閱讀 README 進一步確認。 | 一般工具／待確認 | Node.js／JavaScript | 3/5（中等） | 活躍 | 中 |
+| [Sac-Y/Jev-cu](https://github.com/Sac-Y/Jev-cu) | 主要能力：一般工具／待確認。metadata 描述不足，需閱讀 README 進一步確認。 | 一般工具／待確認 | Node.js／JavaScript | 3/5（中等） | 活躍 | 低 |
 | [YIAN6557/eian-collage-broll](https://github.com/YIAN6557/eian-collage-broll) | 主要能力：一般工具／待確認。metadata 描述不足，需閱讀 README 進一步確認。 | 一般工具／待確認 | 依 README 判斷 | 3/5（中等） | 活躍 | 低 |
 | [zhongerxin/Cowart](https://github.com/zhongerxin/Cowart) | 主要能力：一般工具／待確認。metadata 描述不足，需閱讀 README 進一步確認。 | 一般工具／待確認 | Node.js／JavaScript | 3/5（中等） | 活躍 | 低 |
 
@@ -274,7 +274,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [nexu-io/codex-slides](https://github.com/nexu-io/codex-slides) | 主要能力：簡報與文件生成、Agent Skill／提示工作流、MCP／工具整合。依專案描述：🎨 Open-source AI slide studio inside Codex: image-native decks, every slide a full visual canvas. ⚡ 10+ high-quality slides in ~4–5 minutes — Fast mode renders every page in… | AI Agent 與 Agent Skills、設計、UI 與前端、知識、研究與記憶、Web、桌面與平台、開發與程式碼工具 | Agent Skill 安裝、MCP server 設定 | 4/5（高） | 活躍 | 中 |
 | [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 主要能力：Agent Skill／提示工作流、簡報與文件生成、AI Agent 建構與編排。依專案描述：AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime. | AI Agent 與 Agent Skills、設計、UI 與前端、影像與創意生成、Web、桌面與平台、模擬、3D 與機器人 | Agent Skill 安裝、靜態網頁／Web 專案 | 4/5（高） | 活躍 | 中 |
 | [presenton/presenton](https://github.com/presenton/presenton) | 主要能力：簡報與文件生成、AI Agent 建構與編排、工作流程自動化。依專案描述：Open-Source AI Presentation Generator and API (Gamma, Canva, Beautiful AI, Decktopus, Presentations AI Alternative) | 自動化與整合、AI Agent 與 Agent Skills、簡報與文件生成、AI Agent 建構與編排、工作流程自動化 | Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
-| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 主要能力：簡報與文件生成、本機或自架應用。依專案描述：#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere | 知識、研究與記憶、Web、桌面與平台、簡報與文件生成、本機或自架應用 | 容器／自架部署 | 4/5（高） | 活躍 | 中 |
+| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 主要能力：簡報與文件生成、本機或自架應用。依專案描述：#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere | 知識、研究與記憶、Web、桌面與平台、簡報與文件生成、本機或自架應用 | 容器／自架部署、Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
 | [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) | 主要能力：簡報與文件生成、Agent Skill／提示工作流、程式開發、理解與審查。依專案描述：Create beautiful slides on the web using a coding agent's frontend skills | AI Agent 與 Agent Skills、Web、桌面與平台、開發與程式碼工具、設計、UI 與前端、簡報與文件生成 | Agent Skill 安裝、Node.js／JavaScript | 4/5（高） | 活躍 | 中 |
 | [zLanqing/codex-claude-academic-skills](https://github.com/zLanqing/codex-claude-academic-skills) | 主要能力：簡報與文件生成、研究、學習與教學、Agent Skill／提示工作流。依專案描述：本仓库包含三个面向学术科研人员的Skills，覆盖从文献阅读、论文写作到科学计算的完整研究工作流。office-academic-skill 负责论文阅读报告与学术 PPT/Word 文档生成；research-writing-skill 提供论文写作、润色与审稿回复辅助；scientific-toolkit-skill 整合 MATLAB/P… | AI Agent 與 Agent Skills、知識、研究與記憶、簡報與文件生成、研究、學習與教學、Agent Skill／提示工作流 | Agent Skill 安裝、Python 環境 | 4/5（高） | 活躍 | 中 |
 
