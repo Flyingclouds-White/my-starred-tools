@@ -3,7 +3,7 @@
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
 - Repository 數：**214**
-- 產生時間（UTC）：`2026-09-24T08:23:26.794433Z`
+- 產生時間（UTC）：`2026-09-25T08:45:42.609944Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -30,7 +30,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | 主分類 | Repository 數 |
 |---|---:|
 | [AI Agent 與 Agent Skills](#category-ai-agents) | 37 |
-| [知識、研究與記憶](#category-knowledge-research) | 28 |
+| [知識、研究與記憶](#category-knowledge-research) | 29 |
 | [影片與媒體製作](#category-video-media) | 17 |
 | [設計、UI 與前端](#category-design-ui) | 17 |
 | [簡報與文件](#category-presentation-docs) | 16 |
@@ -42,9 +42,9 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [模擬、3D 與機器人](#category-simulation-robotics) | 8 |
 | [資安、隱私與稽核](#category-security-privacy) | 8 |
 | [語音、音訊與轉錄](#category-audio-speech) | 6 |
-| [自動化與整合](#category-automation-integration) | 5 |
 | [Web、桌面與平台](#category-web-platform) | 4 |
 | [文化、命理與宗教](#category-culture-divination) | 4 |
+| [自動化與整合](#category-automation-integration) | 4 |
 | [金融與交易](#category-finance) | 4 |
 | [學習與教學](#category-education) | 3 |
 | [社群、行銷與內容](#category-social-content) | 2 |
@@ -250,6 +250,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | 主要能力：本機或自架應用、MCP／工具整合、知識庫、RAG 與記憶。依專案描述：User-friendly AI Interface (Supports Ollama, OpenAI API, ...) | AI Agent 與 Agent Skills、Web、桌面與平台、自動化與整合、本機或自架應用、MCP／工具整合 | MCP server 設定、容器／自架部署 | 2/5（有限） | 活躍 | 高 |
 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 主要能力：Agent Skill／提示工作流、知識庫、RAG 與記憶、範例、模板與資源索引。依專案描述：100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. | AI Agent 與 Agent Skills、資源清單與參考素材、Agent Skill／提示工作流、知識庫、RAG 與記憶、範例、模板與資源索引 | 直接閱讀／複製範例、Agent Skill 安裝 | 4/5（高） | 活躍 | 資訊 |
 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 主要能力：AI Agent 建構與編排、知識庫、RAG 與記憶、Agent Skill／提示工作流。依專案描述：Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back… | AI Agent 與 Agent Skills、AI Agent 建構與編排、知識庫、RAG 與記憶、Agent Skill／提示工作流 | Agent Skill 安裝、Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
+| [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 主要能力：瀏覽器操作與資料蒐集、AI Agent 建構與編排、MCP／工具整合。依專案描述：Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. | AI Agent 與 Agent Skills、自動化與整合、資料、機器學習與分析、Web、桌面與平台、瀏覽器操作與資料蒐集 | MCP server 設定、Python 環境 | 3/5（中等） | 活躍 | 高 |
 | [xr843/Master-skill](https://github.com/xr843/Master-skill) | 主要能力：Agent Skill／提示工作流、知識庫、RAG 與記憶、文化、宗教與命理內容。依專案描述：FoJin-powered Buddhist AI persona framework — source-grounded, boundary-aware, fidelity-tested, runtime-ready. | AI Agent 與 Agent Skills、文化、命理與宗教、Agent Skill／提示工作流、知識庫、RAG 與記憶、文化、宗教與命理內容 | Agent Skill 安裝、Python 環境 | 4/5（高） | 活躍 | 中 |
 
 <a id="category-social-content"></a>
@@ -291,7 +292,6 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [NangoHQ/nango](https://github.com/NangoHQ/nango) | 主要能力：工作流程自動化。依專案描述：Build product integrations with AI. | 工作流程自動化 | Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
 | [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 主要能力：瀏覽器操作與資料蒐集。依專案描述：小红书笔记 \| 评论爬虫、抖音视频 \| 评论爬虫、快手视频 \| 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 \| 知乎问答文章｜评论爬虫 | 瀏覽器操作與資料蒐集 | Python 環境 | 3/5（中等） | 活躍 | 高 |
 | [Salomondiei08/oh-my-hermes](https://github.com/Salomondiei08/oh-my-hermes) | 主要能力：工作流程自動化。依專案描述：An opinionated workflow layer for building, shipping, and operating apps with Hermes Agent | 工作流程自動化 | Shell 腳本／設定檔 | 4/5（高） | 活躍 | 中 |
-| [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 主要能力：瀏覽器操作與資料蒐集。依專案描述：🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN | AI Agent 與 Agent Skills、Web、桌面與平台、瀏覽器操作與資料蒐集 | Python 環境 | 3/5（中等） | 活躍 | 高 |
 
 <a id="category-design-ui"></a>
 ## 設計、UI 與前端
@@ -368,7 +368,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 主要能力：範例、模板與資源索引。依專案描述：A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. | 範例、模板與資源索引 | 直接閱讀／複製範例、Jupyter Notebook | 4/5（高） | 活躍 | 中 |
 | [composio-community/awesome-codex-skills](https://github.com/composio-community/awesome-codex-skills) | 主要能力：Agent Skill／提示工作流、程式開發、理解與審查、工作流程自動化。依專案描述：A curated list of practical Codex skills for automating workflows across the Codex CLI and API. | AI Agent 與 Agent Skills、開發與程式碼工具、自動化與整合、Agent Skill／提示工作流、程式開發、理解與審查 | 直接閱讀／複製範例、Agent Skill 安裝 | 4/5（高） | 活躍 | 中 |
 | [f/prompts.chat](https://github.com/f/prompts.chat) | 主要能力：研究、學習與教學、資料分析、視覺化與預測、範例、模板與資源索引。依專案描述：f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. | Web、桌面與平台、AI Agent 與 Agent Skills、資料、機器學習與分析、資安、隱私與稽核、學習與教學 | 直接閱讀／複製範例、靜態網頁／Web 專案 | 4/5（高） | 活躍 | 中 |
-| [heyjunpenn/awesome-jev](https://github.com/heyjunpenn/awesome-jev) | 主要能力：範例、模板與資源索引。依專案描述：A verified, community-maintained catalog of 896 open-source projects built with Jev. | 範例、模板與資源索引 | 直接閱讀／複製範例 | 4/5（高） | 活躍 | 資訊 |
+| [heyjunpenn/awesome-jev](https://github.com/heyjunpenn/awesome-jev) | 主要能力：範例、模板與資源索引。依專案描述：A verified, community-maintained catalog of 916 open-source projects built with Jev. | 範例、模板與資源索引 | 直接閱讀／複製範例 | 4/5（高） | 活躍 | 資訊 |
 | [openai/skills](https://github.com/openai/skills) | 主要能力：Agent Skill／提示工作流、範例、模板與資源索引。依專案描述：Skills Catalog for Codex | AI Agent 與 Agent Skills、Agent Skill／提示工作流、範例、模板與資源索引 | 直接閱讀／複製範例、Agent Skill 安裝 | 4/5（高） | 活躍 | 中 |
 | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 主要能力：MCP／工具整合、範例、模板與資源索引。依專案描述：A collection of MCP servers. | AI Agent 與 Agent Skills、MCP／工具整合、範例、模板與資源索引 | 直接閱讀／複製範例、MCP server 設定 | 4/5（高） | 活躍 | 資訊 |
 | [wuyoscar/jev-skill](https://github.com/wuyoscar/jev-skill) | 主要能力：Agent Skill／提示工作流、範例、模板與資源索引、工作流程自動化。依專案描述：An awesome collection of Jev use cases, workflows, and agent skills. | AI Agent 與 Agent Skills、自動化與整合、Agent Skill／提示工作流、範例、模板與資源索引、工作流程自動化 | 直接閱讀／複製範例、Agent Skill 安裝 | 4/5（高） | 活躍 | 資訊 |
