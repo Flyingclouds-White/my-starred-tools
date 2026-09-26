@@ -2,8 +2,8 @@
 
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
-- Repository 數：**214**
-- 產生時間（UTC）：`2026-09-25T08:45:42.609944Z`
+- Repository 數：**220**
+- 產生時間（UTC）：`2026-09-26T08:32:10.039680Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -34,13 +34,13 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [影片與媒體製作](#category-video-media) | 17 |
 | [設計、UI 與前端](#category-design-ui) | 17 |
 | [簡報與文件](#category-presentation-docs) | 16 |
-| [待分類](#category-uncategorized) | 13 |
+| [待分類](#category-uncategorized) | 14 |
+| [資安、隱私與稽核](#category-security-privacy) | 13 |
 | [影像與創意生成](#category-image-creative) | 11 |
 | [資料、機器學習與分析](#category-data-ai) | 10 |
 | [生產力與工作管理](#category-productivity) | 9 |
 | [資源清單與參考素材](#category-reference-collection) | 9 |
 | [模擬、3D 與機器人](#category-simulation-robotics) | 8 |
-| [資安、隱私與稽核](#category-security-privacy) | 8 |
 | [語音、音訊與轉錄](#category-audio-speech) | 6 |
 | [Web、桌面與平台](#category-web-platform) | 4 |
 | [文化、命理與宗教](#category-culture-divination) | 4 |
@@ -165,6 +165,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 
 | Repository | 能力摘要 | 多標籤 | 安裝推定 | ChatGPT | 維護 | 最高風險 |
 |---|---|---|---|---:|---|---|
+| [achillean/shodan-python](https://github.com/achillean/shodan-python) | 主要能力：一般工具／待確認。依專案描述：The official Python library for Shodan | 一般工具／待確認 | Python 環境 | 3/5（中等） | 長期未更新 | 中 |
 | [andrew54068/ez100pu-apple-silicon](https://github.com/andrew54068/ez100pu-apple-silicon) | 主要能力：一般工具／待確認。依專案描述：Make a Castles EZ100PU smart-card reader work on Apple Silicon macOS (incl. Taiwan 自然人憑證 / HiPKI). Prebuilt arm64 driver + one-command installer. | 一般工具／待確認 | Shell 腳本／設定檔 | 3/5（中等） | 活躍 | 中 |
 | [ayuhamaro/Startup-Contradictions](https://github.com/ayuhamaro/Startup-Contradictions) | 主要能力：一般工具／待確認。metadata 描述不足，需閱讀 README 進一步確認。 | 一般工具／待確認 | 依 README 判斷 | 3/5（中等） | 活躍 | 中 |
 | [block/buzz](https://github.com/block/buzz) | 主要能力：一般工具／待確認。依專案描述：A hive mind communication platform | 一般工具／待確認 | Rust 專案 | 3/5（中等） | 活躍 | 無明顯提示 |
@@ -333,13 +334,18 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 
 | Repository | 能力摘要 | 多標籤 | 安裝推定 | ChatGPT | 維護 | 最高風險 |
 |---|---|---|---|---:|---|---|
+| [antoniaci/blackbird](https://github.com/antoniaci/blackbird) | 主要能力：安全檢查與調查、瀏覽器操作與資料蒐集。依專案描述：An OSINT tool to search for accounts by username and email in social networks. | 生產力與工作管理、安全檢查與調查、瀏覽器操作與資料蒐集 | Python 環境 | 2/5（有限） | 較久未更新 | 高 |
+| [arxhr007/Aliens_eye](https://github.com/arxhr007/Aliens_eye) | 主要能力：瀏覽器操作與資料蒐集、內容企劃與社群發布、安全檢查與調查。依專案描述：Hunt down 840+ social media accounts using AI | 社群、行銷與內容、瀏覽器操作與資料蒐集、內容企劃與社群發布、安全檢查與調查 | Python 環境 | 2/5（有限） | 活躍 | 高 |
 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 主要能力：安全檢查與調查、Agent Skill／提示工作流、程式開發、理解與審查。依專案描述：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings | AI Agent 與 Agent Skills、開發與程式碼工具、Web、桌面與平台、安全檢查與調查、Agent Skill／提示工作流 | Agent Skill 安裝、Node.js／JavaScript | 3/5（中等） | 活躍 | 高 |
 | [dongmingxuan2012-crypto/ai-copyright-self-check-skill](https://github.com/dongmingxuan2012-crypto/ai-copyright-self-check-skill) | 主要能力：安全檢查與調查。metadata 描述不足，需閱讀 README 進一步確認。 | AI Agent 與 Agent Skills、安全檢查與調查 | Shell 腳本／設定檔 | 3/5（中等） | 活躍 | 中 |
 | [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) | 主要能力：程式開發、理解與審查、監控、可觀測性與情報、安全檢查與調查。依專案描述：Automated auditing, performance metrics, and best practices for the web. | 開發與程式碼工具、Web、桌面與平台、程式開發、理解與審查、監控、可觀測性與情報、安全檢查與調查 | Node.js／JavaScript | 3/5（中等） | 活躍 | 高 |
 | [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | 主要能力：安全檢查與調查、監控、可觀測性與情報。依專案描述：Comfortably monitor your network traffic 🕵️‍♂️ | 安全檢查與調查、監控、可觀測性與情報 | Rust 專案 | 2/5（有限） | 活躍 | 高 |
 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 主要能力：監控、可觀測性與情報、MCP／工具整合、瀏覽器操作與資料蒐集。依專案描述：Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface | AI Agent 與 Agent Skills、監控、可觀測性與情報、MCP／工具整合、瀏覽器操作與資料蒐集 | MCP server 設定、Node.js／TypeScript | 2/5（有限） | 活躍 | 高 |
+| [laramies/theHarvester](https://github.com/laramies/theHarvester) | 主要能力：安全檢查與調查、瀏覽器操作與資料蒐集。依專案描述：E-mails, subdomains and names Harvester - OSINT | 生產力與工作管理、安全檢查與調查、瀏覽器操作與資料蒐集 | Python 環境 | 2/5（有限） | 活躍 | 高 |
 | [nczz/freego-wp](https://github.com/nczz/freego-wp) | 主要能力：安全檢查與調查、工作流程自動化。依專案描述：WordPress accessibility assistant aligned with Freego checks, with repair, audit workflow, AAA targets, and GitHub updates. | 自動化與整合、安全檢查與調查、工作流程自動化 | PHP／WordPress | 3/5（中等） | 活躍 | 高 |
 | [reconurge/flowsint](https://github.com/reconurge/flowsint) | 主要能力：安全檢查與調查、瀏覽器操作與資料蒐集。依專案描述：A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators. | 資料、機器學習與分析、安全檢查與調查、瀏覽器操作與資料蒐集 | Node.js／TypeScript | 2/5（有限） | 活躍 | 高 |
+| [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) | 主要能力：安全檢查與調查、瀏覽器操作與資料蒐集。依專案描述：SpiderFoot automates OSINT for threat intelligence and mapping your attack surface. | 安全檢查與調查、瀏覽器操作與資料蒐集 | Python 環境 | 2/5（有限） | 活躍 | 高 |
+| [soxoj/maigret](https://github.com/soxoj/maigret) | 主要能力：安全檢查與調查、瀏覽器操作與資料蒐集。依專案描述：🕵️‍♂️ Collect a dossier on a person by username from 6K websites | 開發與程式碼工具、安全檢查與調查、瀏覽器操作與資料蒐集 | Python 環境 | 2/5（有限） | 活躍 | 高 |
 | [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) | 主要能力：安全檢查與調查。依專案描述：WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com | 安全檢查與調查 | 依 README 判斷 | 2/5（有限） | 活躍 | 高 |
 
 <a id="category-data-ai"></a>
@@ -348,7 +354,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | Repository | 能力摘要 | 多標籤 | 安裝推定 | ChatGPT | 維護 | 最高風險 |
 |---|---|---|---|---:|---|---|
 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 主要能力：Agent Skill／提示工作流、資料分析、視覺化與預測、設計系統與原型製作。依專案描述：Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. | AI Agent 與 Agent Skills、設計、UI 與前端、Web、桌面與平台、Agent Skill／提示工作流、資料分析、視覺化與預測 | Agent Skill 安裝、靜態網頁／Web 專案 | 4/5（高） | 活躍 | 中 |
-| [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 主要能力：一般工具／待確認。依專案描述：The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. | 自動化與整合、一般工具／待確認 | Python 環境 | 2/5（有限） | 活躍 | 高 |
+| [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 主要能力：一般工具／待確認。依專案描述：The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world. | 自動化與整合、一般工具／待確認 | Python 環境 | 2/5（有限） | 活躍 | 高 |
 | [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | 主要能力：資料分析、視覺化與預測。依專案描述：A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visua… | 生產力與工作管理、Web、桌面與平台、資料分析、視覺化與預測 | Node.js／TypeScript | 3/5（中等） | 活躍 | 資訊 |
 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 主要能力：瀏覽器操作與資料蒐集、AI Agent 建構與編排。依專案描述：The web data API to search, scrape, and interact at scale. 🔥 | AI Agent 與 Agent Skills、自動化與整合、Web、桌面與平台、瀏覽器操作與資料蒐集、AI Agent 建構與編排 | Node.js／TypeScript | 3/5（中等） | 活躍 | 高 |
 | [google-research/timesfm](https://github.com/google-research/timesfm) | 主要能力：資料分析、視覺化與預測、研究、學習與教學。依專案描述：TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. | 知識、研究與記憶、資料分析、視覺化與預測、研究、學習與教學 | Python 環境 | 3/5（中等） | 活躍 | 資訊 |
