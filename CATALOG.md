@@ -2,8 +2,8 @@
 
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
-- Repository 數：**220**
-- 產生時間（UTC）：`2026-09-27T09:11:16.561939Z`
+- Repository 數：**221**
+- 產生時間（UTC）：`2026-09-28T09:40:50.292712Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -31,7 +31,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 |---|---:|
 | [AI Agent 與 Agent Skills](#category-ai-agents) | 37 |
 | [知識、研究與記憶](#category-knowledge-research) | 29 |
-| [影片與媒體製作](#category-video-media) | 17 |
+| [影片與媒體製作](#category-video-media) | 18 |
 | [設計、UI 與前端](#category-design-ui) | 17 |
 | [簡報與文件](#category-presentation-docs) | 16 |
 | [待分類](#category-uncategorized) | 14 |
@@ -118,7 +118,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 
 | Repository | 能力摘要 | 多標籤 | 安裝推定 | ChatGPT | 維護 | 最高風險 |
 |---|---|---|---|---:|---|---|
-| [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) | 主要能力：工作流程自動化。依專案描述：NVR with realtime local object detection for IP cameras | 自動化與整合、工作流程自動化 | Python 環境 | 3/5（中等） | 活躍 | 高 |
+| [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) | 主要能力：工作流程自動化。依專案描述：NVR with realtime local object detection for IP cameras | 自動化與整合、工作流程自動化 | Node.js／TypeScript | 3/5（中等） | 活躍 | 高 |
 
 <a id="category-image-creative"></a>
 ## 影像與創意生成
@@ -146,6 +146,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [averygan/reclip](https://github.com/averygan/reclip) | 主要能力：影片生成、剪輯與轉檔、本機或自架應用。依專案描述：Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI. | Web、桌面與平台、影片生成、剪輯與轉檔、本機或自架應用 | 容器／自架部署、靜態網頁／Web 專案 | 3/5（中等） | 活躍 | 高 |
 | [browser-use/video-use](https://github.com/browser-use/video-use) | 主要能力：程式開發、理解與審查、瀏覽器操作與資料蒐集、影片生成、剪輯與轉檔。依專案描述：Edit videos with coding agents | 開發與程式碼工具、自動化與整合、Web、桌面與平台、程式開發、理解與審查、瀏覽器操作與資料蒐集 | Python 環境 | 4/5（高） | 活躍 | 資訊 |
 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 主要能力：影片生成、剪輯與轉檔、語音生成、辨識與轉錄、Agent Skill／提示工作流。依專案描述：World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding as… | AI Agent 與 Agent Skills、語音、音訊與轉錄、開發與程式碼工具、影像與創意生成、知識、研究與記憶 | Agent Skill 安裝、Python 環境 | 4/5（高） | 活躍 | 中 |
+| [cclank/lanshu-create-ai-presenter-video](https://github.com/cclank/lanshu-create-ai-presenter-video) | 主要能力：影片生成、剪輯與轉檔、Agent Skill／提示工作流。依專案描述：Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image. | AI Agent 與 Agent Skills、影片生成、剪輯與轉檔、Agent Skill／提示工作流 | Agent Skill 安裝、Python 環境 | 4/5（高） | 活躍 | 中 |
 | [dexhunter/seedance2-skill](https://github.com/dexhunter/seedance2-skill) | 主要能力：影片生成、剪輯與轉檔。依專案描述：skill to create best prompts for generating videos with seedance2.0 | AI Agent 與 Agent Skills、影片生成、剪輯與轉檔 | 依 README 判斷 | 3/5（中等） | 活躍 | 無明顯提示 |
 | [duixcom/Duix-Avatar](https://github.com/duixcom/Duix-Avatar) | 主要能力：影片生成、剪輯與轉檔。依專案描述：🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning. | 影片生成、剪輯與轉檔 | 原生編譯／Release | 3/5（中等） | 活躍 | 中 |
 | [Hao0321/video-autopilot-kit](https://github.com/Hao0321/video-autopilot-kit) | 主要能力：影片生成、剪輯與轉檔、內容企劃與社群發布、工作流程自動化。依專案描述：Fill-in-your-own-data framework for YouTube / short-form video automation: CapCut JSON + ffmpeg tooling + an onboarding questionnaire. Ships with zero private data. | 社群、行銷與內容、自動化與整合、資料、機器學習與分析、影片生成、剪輯與轉檔、內容企劃與社群發布 | Python 環境 | 4/5（高） | 活躍 | 資訊 |
@@ -374,7 +375,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 主要能力：範例、模板與資源索引。依專案描述：A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. | 範例、模板與資源索引 | 直接閱讀／複製範例、Jupyter Notebook | 4/5（高） | 活躍 | 中 |
 | [composio-community/awesome-codex-skills](https://github.com/composio-community/awesome-codex-skills) | 主要能力：Agent Skill／提示工作流、程式開發、理解與審查、工作流程自動化。依專案描述：A curated list of practical Codex skills for automating workflows across the Codex CLI and API. | AI Agent 與 Agent Skills、開發與程式碼工具、自動化與整合、Agent Skill／提示工作流、程式開發、理解與審查 | 直接閱讀／複製範例、Agent Skill 安裝 | 4/5（高） | 活躍 | 中 |
 | [f/prompts.chat](https://github.com/f/prompts.chat) | 主要能力：研究、學習與教學、資料分析、視覺化與預測、範例、模板與資源索引。依專案描述：f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. | Web、桌面與平台、AI Agent 與 Agent Skills、資料、機器學習與分析、資安、隱私與稽核、學習與教學 | 直接閱讀／複製範例、靜態網頁／Web 專案 | 4/5（高） | 活躍 | 中 |
-| [heyjunpenn/awesome-jev](https://github.com/heyjunpenn/awesome-jev) | 主要能力：範例、模板與資源索引。依專案描述：A verified, community-maintained catalog of 916 open-source projects built with Jev. | 範例、模板與資源索引 | 直接閱讀／複製範例 | 4/5（高） | 活躍 | 資訊 |
+| [heyjunpenn/awesome-jev](https://github.com/heyjunpenn/awesome-jev) | 主要能力：範例、模板與資源索引。依專案描述：A verified, community-maintained catalog of 944 open-source projects built with Jev. | 範例、模板與資源索引 | 直接閱讀／複製範例 | 4/5（高） | 活躍 | 資訊 |
 | [openai/skills](https://github.com/openai/skills) | 主要能力：Agent Skill／提示工作流、範例、模板與資源索引。依專案描述：Skills Catalog for Codex | AI Agent 與 Agent Skills、Agent Skill／提示工作流、範例、模板與資源索引 | 直接閱讀／複製範例、Agent Skill 安裝 | 4/5（高） | 活躍 | 中 |
 | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 主要能力：MCP／工具整合、範例、模板與資源索引。依專案描述：A collection of MCP servers. | AI Agent 與 Agent Skills、MCP／工具整合、範例、模板與資源索引 | 直接閱讀／複製範例、MCP server 設定 | 4/5（高） | 活躍 | 資訊 |
 | [wuyoscar/jev-skill](https://github.com/wuyoscar/jev-skill) | 主要能力：Agent Skill／提示工作流、範例、模板與資源索引、工作流程自動化。依專案描述：An awesome collection of Jev use cases, workflows, and agent skills. | AI Agent 與 Agent Skills、自動化與整合、Agent Skill／提示工作流、範例、模板與資源索引、工作流程自動化 | 直接閱讀／複製範例、Agent Skill 安裝 | 4/5（高） | 活躍 | 資訊 |
