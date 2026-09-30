@@ -4,7 +4,7 @@ Automatically synchronized from GitHub Stars.
 
 Total repositories: **221**
 
-Last sync: 2026-09-29T09:45:09.166894+00:00
+Last sync: 2026-09-30T09:37:42.819496+00:00
 
 ---
 
@@ -12,7 +12,7 @@ Last sync: 2026-09-29T09:45:09.166894+00:00
 
 Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.
 
-Language: Python | GitHub Stars: 1983 | Starred at: 2026-09-27T20:08:53Z
+Language: Python | GitHub Stars: 2004 | Starred at: 2026-09-27T20:08:53Z
 
 Topics: ai-video, codex, codex-skill, digital-human, video-generation
 
@@ -20,13 +20,13 @@ Topics: ai-video, codex, codex-skill, digital-human, video-generation
 
 The official Python library for Shodan
 
-Language: Python | GitHub Stars: 3212 | Starred at: 2026-09-25T20:53:35Z
+Language: Python | GitHub Stars: 3228 | Starred at: 2026-09-25T20:53:35Z
 
 ## [laramies/theHarvester](https://github.com/laramies/theHarvester)
 
 E-mails, subdomains and names Harvester - OSINT 
 
-Language: Python | GitHub Stars: 17708 | Starred at: 2026-09-25T20:52:53Z
+Language: Python | GitHub Stars: 17732 | Starred at: 2026-09-25T20:52:53Z
 
 Topics: blueteam, discovery, emails, information-gathering, osint, python, recon, reconnaissance, redteam, subdomain-enumeration
 
@@ -34,7 +34,7 @@ Topics: blueteam, discovery, emails, information-gathering, osint, python, recon
 
 SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 
-Language: Python | GitHub Stars: 22651 | Starred at: 2026-09-25T20:52:33Z
+Language: Python | GitHub Stars: 22684 | Starred at: 2026-09-25T20:52:33Z
 
 Topics: attacksurface, cti, cybersecurity, footprinting, hacking, information-gathering, information-security, infosec, intelligence-gathering, osint, osint-framework, osint-reconnaissance, osint-tool, pentesting, python, recon, security-tools, threat-intelligence, threatintel
 
@@ -42,7 +42,7 @@ Topics: attacksurface, cti, cybersecurity, footprinting, hacking, information-ga
 
 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
 
-Language: Python | GitHub Stars: 38130 | Starred at: 2026-09-25T20:52:03Z
+Language: Python | GitHub Stars: 38163 | Starred at: 2026-09-25T20:52:03Z
 
 Topics: cli, cybersecurity, identification, information-gathering, infosec, investigation, open-source, osint, osint-framework, osint-python, pentesting, python, python3, reconnaissance, redteam, scraping, sherlock, social-network, socmint, username
 
@@ -50,7 +50,7 @@ Topics: cli, cybersecurity, identification, information-gathering, infosec, inve
 
 An OSINT tool to search for accounts by username and email in social networks.
 
-Language: Python | GitHub Stars: 8725 | Starred at: 2026-09-25T20:51:44Z
+Language: Python | GitHub Stars: 8773 | Starred at: 2026-09-25T20:51:44Z
 
 Topics: cybersecurity, osint, pentesting, python
 
@@ -58,15 +58,15 @@ Topics: cybersecurity, osint, pentesting, python
 
 Hunt down 840+ social media accounts using AI
 
-Language: Python | GitHub Stars: 4198 | Starred at: 2026-09-25T20:51:13Z
+Language: Python | GitHub Stars: 4206 | Starred at: 2026-09-25T20:51:13Z
 
 Topics: ai, artificial-intelligence, debain, hack, hacker, hacking, hackingtools, information, information-gathering, linux, linux-desktop, osint, python, python-script, python3, social-media, socialmediahacking, termux, termux-tool
 
 ## [heyjunpenn/awesome-jev](https://github.com/heyjunpenn/awesome-jev)
 
-A verified, community-maintained catalog of 944 open-source projects built with Jev.
+A verified, community-maintained catalog of 962 open-source projects built with Jev.
 
-Language: Astro | GitHub Stars: 892 | Starred at: 2026-09-22T22:15:39Z
+Language: Astro | GitHub Stars: 903 | Starred at: 2026-09-22T22:15:39Z
 
 Topics: astro, awesome, awesome-jev, awesome-list, jev, typesafe
 
@@ -74,7 +74,7 @@ Topics: astro, awesome, awesome-jev, awesome-list, jev, typesafe
 
 Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
 
-Language: TypeScript | GitHub Stars: 5700 | Starred at: 2026-09-22T21:38:04Z
+Language: TypeScript | GitHub Stars: 5741 | Starred at: 2026-09-22T21:38:04Z
 
 Topics: ag-ui, agent-governance, ai-agents, browser-automation, copilotkit, generative-ui, mcp
 
@@ -82,19 +82,19 @@ Topics: ag-ui, agent-governance, ai-agents, browser-automation, copilotkit, gene
 
 Agent skills for building with TypeSafe's System One API
 
-GitHub Stars: 2394 | Starred at: 2026-09-22T21:37:10Z
+GitHub Stars: 2461 | Starred at: 2026-09-22T21:37:10Z
 
 ## [kerpopule/hermes-jev-skills](https://github.com/kerpopule/hermes-jev-skills)
 
 Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex)
 
-Language: Python | GitHub Stars: 900 | Starred at: 2026-09-22T21:36:59Z
+Language: Python | GitHub Stars: 918 | Starred at: 2026-09-22T21:36:59Z
 
 ## [browser-use/video-use](https://github.com/browser-use/video-use)
 
 Edit videos with coding agents
 
-Language: Python | GitHub Stars: 27543 | Starred at: 2026-09-20T21:16:31Z
+Language: Python | GitHub Stars: 27724 | Starred at: 2026-09-20T21:16:31Z
 
 ## [Sac-Y/Jev-cu](https://github.com/Sac-Y/Jev-cu)
 
@@ -104,7 +104,7 @@ Language: JavaScript | GitHub Stars: 613 | Starred at: 2026-09-20T21:15:11Z
 
 The open-source CapCut alternative
 
-Language: TypeScript | GitHub Stars: 90886 | Starred at: 2026-09-20T21:10:19Z
+Language: TypeScript | GitHub Stars: 90959 | Starred at: 2026-09-20T21:10:19Z
 
 Topics: editor, oss, videoeditor
 
@@ -112,19 +112,19 @@ Topics: editor, oss, videoeditor
 
 An awesome collection of Jev use cases, workflows, and agent skills.
 
-Language: Python | GitHub Stars: 541 | Starred at: 2026-09-20T21:08:09Z
+Language: Python | GitHub Stars: 551 | Starred at: 2026-09-20T21:08:09Z
 
 ## [Nutlope/logocreator](https://github.com/Nutlope/logocreator)
 
 A free + OSS logo generator powered by Flux on Together AI
 
-Language: TypeScript | GitHub Stars: 8791 | Starred at: 2026-09-17T05:46:16Z
+Language: TypeScript | GitHub Stars: 8793 | Starred at: 2026-09-17T05:46:16Z
 
 ## [supabase/supabase](https://github.com/supabase/supabase)
 
 The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
-Language: TypeScript | GitHub Stars: 110882 | Starred at: 2026-09-15T21:20:18Z
+Language: TypeScript | GitHub Stars: 110922 | Starred at: 2026-09-15T21:20:18Z
 
 Topics: ai, alternative, auth, database, deno, embeddings, example, firebase, nextjs, oauth2, pgvector, postgis, postgres, postgresql, postgrest, realtime, supabase, vectors, websockets
 
@@ -132,7 +132,7 @@ Topics: ai, alternative, auth, database, deno, embeddings, example, firebase, ne
 
 Godot Engine – Multi-platform 2D and 3D game engine
 
-Language: C++ | GitHub Stars: 117933 | Starred at: 2026-09-15T21:19:43Z
+Language: C++ | GitHub Stars: 117985 | Starred at: 2026-09-15T21:19:43Z
 
 Topics: game-development, game-engine, gamedev, godot, godotengine, multi-platform, open-source
 
@@ -140,7 +140,7 @@ Topics: game-development, game-engine, gamedev, godot, godotengine, multi-platfo
 
 An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
-Language: Rust | GitHub Stars: 124759 | Starred at: 2026-09-15T21:18:51Z
+Language: Rust | GitHub Stars: 124831 | Starred at: 2026-09-15T21:18:51Z
 
 Topics: android, anydesk, dart, flatpak, flutter, flutter-apps, ios, linux, macos, p2p, rdp, remote-control, remote-desktop, rust, rust-lang, teamviewer, vnc, wayland, windows
 
@@ -148,7 +148,7 @@ Topics: android, anydesk, dart, flatpak, flutter, flutter-apps, ios, linux, maco
 
 User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
-Language: Python | GitHub Stars: 153500 | Starred at: 2026-09-15T21:18:18Z
+Language: Python | GitHub Stars: 153601 | Starred at: 2026-09-15T21:18:18Z
 
 Topics: ai, llm, llm-ui, llm-webui, llms, mcp, ollama, ollama-webui, open-webui, openai, openapi, rag, self-hosted, ui, webui
 
@@ -156,7 +156,7 @@ Topics: ai, llm, llm-ui, llm-webui, llms, mcp, ollama, ollama-webui, open-webui,
 
 Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
-Language: Go | GitHub Stars: 181897 | Starred at: 2026-09-15T21:18:03Z
+Language: Go | GitHub Stars: 181945 | Starred at: 2026-09-15T21:18:03Z
 
 Topics: deepseek, gemma, gemma3, glm, go, golang, gpt-oss, llama, llama3, llm, llms, minimax, mistral, ollama, qwen
 
@@ -164,7 +164,7 @@ Topics: deepseek, gemma, gemma3, glm, go, golang, gpt-oss, llama, llama3, llm, l
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 
-Language: Python | GitHub Stars: 135444 | Starred at: 2026-09-15T21:17:27Z
+Language: Python | GitHub Stars: 135570 | Starred at: 2026-09-15T21:17:27Z
 
 Topics: ai, comfy, comfyui, python, pytorch, stable-diffusion
 
@@ -172,13 +172,13 @@ Topics: ai, comfy, comfyui, python, pytorch, stable-diffusion
 
 A hive mind communication platform
 
-Language: Rust | GitHub Stars: 35258 | Starred at: 2026-09-15T21:13:17Z
+Language: Rust | GitHub Stars: 35320 | Starred at: 2026-09-15T21:13:17Z
 
 ## [vibe-motion/skills](https://github.com/vibe-motion/skills)
 
 agent skills for vibe motion
 
-Language: Python | GitHub Stars: 1288 | Starred at: 2026-09-15T21:11:49Z
+Language: Python | GitHub Stars: 1294 | Starred at: 2026-09-15T21:11:49Z
 
 Topics: agent, skills, vibe-coding, vibe-motion
 
@@ -186,13 +186,13 @@ Topics: agent, skills, vibe-coding, vibe-motion
 
 Agent skill for impressive 3D visuals using Blender + image gen + subagent critic
 
-Language: JavaScript | GitHub Stars: 1592 | Starred at: 2026-09-15T20:38:04Z
+Language: JavaScript | GitHub Stars: 1604 | Starred at: 2026-09-15T20:38:04Z
 
 ## [hypit-ai/hypit](https://github.com/hypit-ai/hypit)
 
 Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.
 
-Language: TypeScript | GitHub Stars: 17392 | Starred at: 2026-09-15T07:25:08Z
+Language: TypeScript | GitHub Stars: 17846 | Starred at: 2026-09-15T07:25:08Z
 
 Topics: agentic-ai, ai, ai-agents, ai-video, compiler, dsl, ffmpeg, generative-ai, llm, markup-language, monorepo, plugin-system, programming-language, text-to-video, typescript, video, video-automation, video-clone, video-editing, video-generation
 
@@ -200,7 +200,7 @@ Topics: agentic-ai, ai, ai-agents, ai-video, compiler, dsl, ffmpeg, generative-a
 
 Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.
 
-Language: Python | GitHub Stars: 11576 | Starred at: 2026-09-15T07:23:07Z
+Language: Python | GitHub Stars: 11591 | Starred at: 2026-09-15T07:23:07Z
 
 Topics: agent-workflows, ai, claude-code, developer-tools, diagrams, svg
 
@@ -208,7 +208,7 @@ Topics: agent-workflows, ai, claude-code, developer-tools, diagrams, svg
 
 Virtual whiteboard for sketching hand-drawn like diagrams
 
-Language: TypeScript | GitHub Stars: 133208 | Starred at: 2026-09-14T20:39:10Z
+Language: TypeScript | GitHub Stars: 133280 | Starred at: 2026-09-14T20:39:10Z
 
 Topics: canvas, collaboration, diagrams, drawing, hacktoberfest, productivity, whiteboard
 
@@ -216,7 +216,7 @@ Topics: canvas, collaboration, diagrams, drawing, hacktoberfest, productivity, w
 
 An Open Source implementation of Notebook LM with more flexibility and features
 
-Language: TypeScript | GitHub Stars: 39615 | Starred at: 2026-09-14T20:38:01Z
+Language: TypeScript | GitHub Stars: 39644 | Starred at: 2026-09-14T20:38:01Z
 
 Topics: assistant, learning, note-taking, notebook, notes-app, self-learning
 
@@ -224,13 +224,13 @@ Topics: assistant, learning, note-taking, notebook, notes-app, self-learning
 
 A Patch for GIMP 3+ for Photoshop Users
 
-Language: Python | GitHub Stars: 18170 | Starred at: 2026-09-14T20:37:52Z
+Language: Python | GitHub Stars: 18187 | Starred at: 2026-09-14T20:37:52Z
 
 ## [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
 
 #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 
-Language: Java | GitHub Stars: 93243 | Starred at: 2026-09-14T20:37:23Z
+Language: Java | GitHub Stars: 93287 | Starred at: 2026-09-14T20:37:23Z
 
 Topics: docker, hacktoberfest, java, pdf, pdf-converter, pdf-editor, pdf-manipulation, pdf-merger, pdf-ocr, pdf-tools, pdf-web-apps, pdfmerger, self-hosted
 
@@ -238,7 +238,7 @@ Topics: docker, hacktoberfest, java, pdf, pdf-converter, pdf-editor, pdf-manipul
 
 Create polished demo videos without editing skills. Mac/Windows/Linux
 
-Language: TypeScript | GitHub Stars: 31811 | Starred at: 2026-09-14T20:37:08Z
+Language: TypeScript | GitHub Stars: 31966 | Starred at: 2026-09-14T20:37:08Z
 
 Topics: electron, free, linux, macos, open-source, screen-recorder, screen-studio, windows
 
@@ -250,7 +250,7 @@ Language: Python | GitHub Stars: 3 | Starred at: 2026-09-14T09:33:00Z
 
 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.
 
-Language: C | GitHub Stars: 15605 | Starred at: 2026-09-13T08:03:55Z
+Language: C | GitHub Stars: 15613 | Starred at: 2026-09-13T08:03:55Z
 
 Topics: ai-avatar, ai-avatars, cloning, cloning-tool, digital-human, multimodal-ai, video-generation, video-synthesis
 
@@ -262,7 +262,7 @@ Language: Python | GitHub Stars: 7 | Starred at: 2026-09-12T13:32:14Z
 
 Professional agent skills for screenwriting, television writing and dramaturgy
 
-Language: Python | GitHub Stars: 1452 | Starred at: 2026-09-10T19:20:11Z
+Language: Python | GitHub Stars: 1464 | Starred at: 2026-09-10T19:20:11Z
 
 Topics: ai, skills
 
@@ -270,7 +270,7 @@ Topics: ai, skills
 
 手绘风格编号画廊与双语提示词 Skill
 
-Language: HTML | GitHub Stars: 3699 | Starred at: 2026-09-10T17:37:36Z
+Language: HTML | GitHub Stars: 3827 | Starred at: 2026-09-10T17:37:36Z
 
 ## [YIAN6557/eian-collage-broll](https://github.com/YIAN6557/eian-collage-broll)
 
@@ -280,13 +280,13 @@ GitHub Stars: 24 | Starred at: 2026-09-10T17:36:59Z
 
 High-Quality Voice Cloning TTS for 600+ Languages
 
-Language: Python | GitHub Stars: 14037 | Starred at: 2026-09-08T19:00:18Z
+Language: Python | GitHub Stars: 14074 | Starred at: 2026-09-08T19:00:18Z
 
 ## [microsoft/markitdown](https://github.com/microsoft/markitdown)
 
 Python tool for converting files and office documents to Markdown.
 
-Language: Python | GitHub Stars: 187541 | Starred at: 2026-09-08T16:42:51Z
+Language: Python | GitHub Stars: 187699 | Starred at: 2026-09-08T16:42:51Z
 
 Topics: autogen, autogen-extension, langchain, markdown, microsoft-office, openai, pdf
 
@@ -294,7 +294,7 @@ Topics: autogen, autogen-extension, langchain, markdown, microsoft-office, opena
 
 Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。
 
-Language: JavaScript | GitHub Stars: 33705 | Starred at: 2026-09-08T05:59:58Z
+Language: JavaScript | GitHub Stars: 33787 | Starred at: 2026-09-08T05:59:58Z
 
 Topics: agents, ai-image-generation, chatgpt, dsh-plugin, gpt-image-2, image-prompts, prompt-as-code, prompt-engineering, skills, workflow-automation
 
@@ -302,7 +302,7 @@ Topics: agents, ai-image-generation, chatgpt, dsh-plugin, gpt-image-2, image-pro
 
 f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
-Language: HTML | GitHub Stars: 171553 | Starred at: 2026-09-07T22:52:14Z
+Language: HTML | GitHub Stars: 171646 | Starred at: 2026-09-07T22:52:14Z
 
 Topics: ai, artificial-intelligence, awesome-list, chatgpt, chatgpt-prompts, claude, gemini, gpt, gpt-4, llm, machine-learning, nextjs, open-source, openai, prompt-engineering, prompts, prompts-chat, typescript
 
@@ -310,7 +310,7 @@ Topics: ai, artificial-intelligence, awesome-list, chatgpt, chatgpt-prompts, cla
 
 A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.
 
-Language: TypeScript | GitHub Stars: 7727 | Starred at: 2026-09-07T15:52:20Z
+Language: TypeScript | GitHub Stars: 7747 | Starred at: 2026-09-07T15:52:20Z
 
 Topics: cesium, data-science, duckdb, geolibre, geospatial, gis, mapbox, maplibre, maplibre-gl-js, tauri-app
 
@@ -324,7 +324,7 @@ Language: JavaScript | GitHub Stars: 842 | Starred at: 2026-09-07T15:44:28Z
 
 Modular cross-runtime WebGPU library for shaders, 3D scenes, GPU tensors, neural networks, and math viz
 
-Language: TypeScript | GitHub Stars: 2336 | Starred at: 2026-09-06T16:43:24Z
+Language: TypeScript | GitHub Stars: 2348 | Starred at: 2026-09-06T16:43:24Z
 
 ## [TanShilongMario/clipshot](https://github.com/TanShilongMario/clipshot)
 
@@ -340,13 +340,13 @@ Language: HTML | GitHub Stars: 17 | Starred at: 2026-09-06T07:55:32Z
 
 Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.
 
-Language: HTML | GitHub Stars: 9779 | Starred at: 2026-09-06T07:45:37Z
+Language: HTML | GitHub Stars: 10457 | Starred at: 2026-09-06T07:45:37Z
 
 ## [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
 
-The web data API to search, scrape, and interact at scale. 🔥
+🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
 
-Language: TypeScript | GitHub Stars: 186280 | Starred at: 2026-09-06T07:10:44Z
+Language: TypeScript | GitHub Stars: 186836 | Starred at: 2026-09-06T07:10:44Z
 
 Topics: ai, ai-agents, ai-crawler, ai-scraping, ai-search, crawler, data-extraction, html-to-markdown, llm, markdown, scraper, scraping, web-crawler, web-data, web-data-extraction, web-scraper, web-scraping, web-search, webscraping
 
@@ -354,7 +354,7 @@ Topics: ai, ai-agents, ai-crawler, ai-scraping, ai-search, crawler, data-extract
 
 The full-stack Vue framework.
 
-Language: TypeScript | GitHub Stars: 60907 | Starred at: 2026-09-06T07:10:38Z
+Language: TypeScript | GitHub Stars: 60910 | Starred at: 2026-09-06T07:10:38Z
 
 Topics: csr, framework, full-stack, hacktoberfest, hybrid, node, nuxt, server-rendering, ssg, ssr, static-site-generator, universal, vue
 
@@ -362,7 +362,7 @@ Topics: csr, framework, full-stack, hacktoberfest, hybrid, node, nuxt, server-re
 
 🇨🇭 A React renderer for Three.js
 
-Language: TypeScript | GitHub Stars: 32603 | Starred at: 2026-09-06T07:10:31Z
+Language: TypeScript | GitHub Stars: 32622 | Starred at: 2026-09-06T07:10:31Z
 
 Topics: 3d, animation, fiber, react, renderer, threejs
 
@@ -370,7 +370,7 @@ Topics: 3d, animation, fiber, react, renderer, threejs
 
 WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com
 
-Language: Ruby | GitHub Stars: 9792 | Starred at: 2026-09-06T07:10:24Z
+Language: Ruby | GitHub Stars: 9793 | Starred at: 2026-09-06T07:10:24Z
 
 Topics: hacking-tool, scan, scanner, security, security-scanner, wordpress, wpscan, wpvulndb
 
@@ -378,7 +378,7 @@ Topics: hacking-tool, scan, scanner, security, security-scanner, wordpress, wpsc
 
 The web framework for content-driven websites. ⭐️ Star to support our work!
 
-Language: TypeScript | GitHub Stars: 62907 | Starred at: 2026-09-06T07:09:49Z
+Language: TypeScript | GitHub Stars: 62939 | Starred at: 2026-09-06T07:09:49Z
 
 Topics: astro, blog, browser, components, hybrid, islands, node, server, static, static-site-generator, universal
 
@@ -394,7 +394,7 @@ Topics: composable-architecture, hacktoberfest, headless, headless-cms, headless
 
 Automated auditing, performance metrics, and best practices for the web.
 
-Language: JavaScript | GitHub Stars: 30832 | Starred at: 2026-09-06T07:09:19Z
+Language: JavaScript | GitHub Stars: 30836 | Starred at: 2026-09-06T07:09:19Z
 
 Topics: audit, best-practices, chrome-devtools, developer-tools, performance-analysis, performance-metrics, pwa, web
 
@@ -402,7 +402,7 @@ Topics: audit, best-practices, chrome-devtools, developer-tools, performance-ana
 
 Open-Source AI Presentation Generator and API (Gamma, Canva, Beautiful AI, Decktopus, Presentations AI Alternative)
 
-Language: TypeScript | GitHub Stars: 10841 | Starred at: 2026-09-06T06:42:18Z
+Language: TypeScript | GitHub Stars: 10856 | Starred at: 2026-09-06T06:42:18Z
 
 Topics: ai-agent, ai-presentation, api, gamma, powerpoint-automation, powerpoint-free, powerpoint-generation, presentation
 
@@ -410,7 +410,7 @@ Topics: ai-agent, ai-presentation, api, gamma, powerpoint-automation, powerpoint
 
 🎨 Open-source AI slide studio inside Codex: image-native decks, every slide a full visual canvas. ⚡ 10+ high-quality slides in ~4–5 minutes — Fast mode renders every page in parallel. 🔍 Watch the whole chain live: research → outline → style → render → edit → present → export PDF/PPTX. 🖥️ Browser-first · zero API keys · durable projects.
 
-Language: TypeScript | GitHub Stars: 921 | Starred at: 2026-09-06T06:42:07Z
+Language: TypeScript | GitHub Stars: 922 | Starred at: 2026-09-06T06:42:07Z
 
 Topics: agent-skills, ai-ppt, ai-presentation, ai-slides, codex, codex-plugin, coding-agents, deep-research, design-system, gamma-alternative, generative-ai, image-generation, mcp, nextjs, open-design, powerpoint, pptx, presentation-generator, slides, typescript
 
@@ -426,13 +426,13 @@ Topics: ai-powerpoint, ai-ppt, ai-to-ppt, aippt, document-to-ppt, editable-ppt, 
 
 AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。
 
-Language: Python | GitHub Stars: 2033 | Starred at: 2026-09-06T06:41:45Z
+Language: Python | GitHub Stars: 2036 | Starred at: 2026-09-06T06:41:45Z
 
 ## [icip-cas/PPTAgent](https://github.com/icip-cas/PPTAgent)
 
 An Agentic Framework for Reflective PowerPoint Generation
 
-Language: Python | GitHub Stars: 5071 | Starred at: 2026-09-06T06:41:34Z
+Language: Python | GitHub Stars: 5076 | Starred at: 2026-09-06T06:41:34Z
 
 Topics: agent, agentic-ai, llm, mcp, openclaw, presentation, slide
 
@@ -440,13 +440,13 @@ Topics: agent, agentic-ai, llm, mcp, openclaw, presentation, slide
 
 Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus or Claude.
 
-Language: JavaScript | GitHub Stars: 4219 | Starred at: 2026-09-06T06:41:22Z
+Language: JavaScript | GitHub Stars: 4227 | Starred at: 2026-09-06T06:41:22Z
 
 Topics: agent-skills, claude, claude-code, claude-design, cursor, design, prototyping, ui-design
 
 ## [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills)
 
-Language: TypeScript | GitHub Stars: 26219 | Starred at: 2026-09-06T06:41:16Z
+Language: TypeScript | GitHub Stars: 26239 | Starred at: 2026-09-06T06:41:16Z
 
 Topics: agent-skills, claude-skills, codex-skills, openclaw-skills
 
@@ -460,7 +460,7 @@ GitHub Stars: 43 | Starred at: 2026-09-06T06:41:01Z
 
 Create beautiful slides on the web using a coding agent's frontend skills
 
-Language: JavaScript | GitHub Stars: 29954 | Starred at: 2026-09-06T06:40:48Z
+Language: JavaScript | GitHub Stars: 30003 | Starred at: 2026-09-06T06:40:48Z
 
 Topics: ai-slides, anthropic, claude, claude-code, claude-skill, generative-ui, html, presentation, slides, vibe-coding
 
@@ -482,7 +482,7 @@ Language: Python | GitHub Stars: 8 | Starred at: 2026-09-06T06:39:44Z
 
 🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone.
 
-GitHub Stars: 7371 | Starred at: 2026-09-06T06:28:59Z
+GitHub Stars: 7376 | Starred at: 2026-09-06T06:28:59Z
 
 Topics: 3d, 3d-models, awesome, awesome-list, blender, blender-addon, list
 
@@ -490,7 +490,7 @@ Topics: 3d, 3d-models, awesome, awesome-list, blender, blender-addon, list
 
 AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.
 
-Language: JavaScript | GitHub Stars: 3959 | Starred at: 2026-09-06T06:21:35Z
+Language: JavaScript | GitHub Stars: 3992 | Starred at: 2026-09-06T06:21:35Z
 
 ## [joeseesun/qiaomu-book-reader-legacy](https://github.com/joeseesun/qiaomu-book-reader-legacy)
 
@@ -504,7 +504,7 @@ Topics: ai-assistant, brat, chinese, ebook-reader, epub, fb2, obsidian, obsidian
 
 Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
 
-Language: TypeScript | GitHub Stars: 94885 | Starred at: 2026-09-05T20:09:27Z
+Language: TypeScript | GitHub Stars: 94974 | Starred at: 2026-09-05T20:09:27Z
 
 Topics: ai, ai-agents, ai-memory, anthropic, artificial-intelligence, chromadb, claude, claude-agent-sdk, claude-agents, claude-code, claude-code-plugin, claude-skills, embeddings, long-term-memory, mem0, memory-engine, openmemory, rag, sqlite, supermemory
 
@@ -512,7 +512,7 @@ Topics: ai, ai-agents, ai-memory, anthropic, artificial-intelligence, chromadb, 
 
 Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 
-Language: TypeScript | GitHub Stars: 8431 | Starred at: 2026-09-05T19:47:07Z
+Language: TypeScript | GitHub Stars: 8479 | Starred at: 2026-09-05T19:47:07Z
 
 Topics: design-tool, material-3-expressive, material-design, material3, nextjs, prompt, react, vibe-coding
 
@@ -520,7 +520,7 @@ Topics: design-tool, material-3-expressive, material-design, material3, nextjs, 
 
 Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.
 
-Language: Python | GitHub Stars: 84458 | Starred at: 2026-09-05T19:41:47Z
+Language: Python | GitHub Stars: 84533 | Starred at: 2026-09-05T19:41:47Z
 
 Topics: ai, ai-agents, crawler, data-extraction, llm, markdown, mcp, open-source, playwright, python, rag, scraper, web-crawler, web-crawling, web-scraping
 
@@ -528,7 +528,7 @@ Topics: ai, ai-agents, crawler, data-extraction, llm, markdown, mcp, open-source
 
 Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 
-Language: HTML | GitHub Stars: 42713 | Starred at: 2026-09-03T03:05:14Z
+Language: HTML | GitHub Stars: 42827 | Starred at: 2026-09-03T03:05:14Z
 
 Topics: agent-skills, claude-code, codex, data-visualization, diagrams, drawio, mermaid, svg
 
@@ -536,13 +536,13 @@ Topics: agent-skills, claude-code, codex, data-visualization, diagrams, drawio, 
 
 AI 塔罗占卜 Agent Skill — 78 牌完整牌义、6 种牌阵、牌间关系理论体系、真随机抽牌脚本
 
-Language: Python | GitHub Stars: 238 | Starred at: 2026-08-25T06:28:14Z
+Language: Python | GitHub Stars: 239 | Starred at: 2026-08-25T06:28:14Z
 
 ## [xr843/Master-skill](https://github.com/xr843/Master-skill)
 
 FoJin-powered Buddhist AI persona framework — source-grounded, boundary-aware, fidelity-tested, runtime-ready.
 
-Language: Python | GitHub Stars: 438 | Starred at: 2026-08-25T06:28:04Z
+Language: Python | GitHub Stars: 439 | Starred at: 2026-08-25T06:28:04Z
 
 Topics: agent-skills, ai-persona, bdrc, buddhism, chinese-buddhism, claude-skills, digital-humanities, fojin, llm, mahamudra, rag, suttacentral, thai-forest-tradition, theravada, tibetan-buddhism
 
@@ -550,31 +550,31 @@ Topics: agent-skills, ai-persona, bdrc, buddhism, chinese-buddhism, claude-skill
 
 yinyuan-skills
 
-GitHub Stars: 426 | Starred at: 2026-08-25T06:27:55Z
+GitHub Stars: 428 | Starred at: 2026-08-25T06:27:55Z
 
 ## [jinchenma94/bazi-skill](https://github.com/jinchenma94/bazi-skill)
 
 四柱八字命理分析
 
-Language: Python | GitHub Stars: 3292 | Starred at: 2026-08-25T06:27:47Z
+Language: Python | GitHub Stars: 3304 | Starred at: 2026-08-25T06:27:47Z
 
 ## [FANzR-arch/Numerologist_skills](https://github.com/FANzR-arch/Numerologist_skills)
 
 🔮 An engineering framework to stop LLM hallucinations in Chinese astrology. / 给“赛博半仙”戴上紧箍咒：减少幻觉、固定排盘步骤的奇门遁甲与紫微斗数 AI skills。
 
-Language: Python | GitHub Stars: 1365 | Starred at: 2026-08-25T06:27:36Z
+Language: Python | GitHub Stars: 1366 | Starred at: 2026-08-25T06:27:36Z
 
 ## [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
 
 Open-Source Frontier Voice AI
 
-Language: Python | GitHub Stars: 54534 | Starred at: 2026-07-28T16:53:38Z
+Language: Python | GitHub Stars: 54548 | Starred at: 2026-07-28T16:53:38Z
 
 ## [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
 
 The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 
-Language: Python | GitHub Stars: 44413 | Starred at: 2026-07-10T19:31:19Z
+Language: Python | GitHub Stars: 44533 | Starred at: 2026-07-10T19:31:19Z
 
 Topics: ai, ai-agents, career, claude-code, cover-letter, cv, interview-preparation, job-application, job-hunting, job-search, latex, resume
 
@@ -590,7 +590,7 @@ Topics: ai, architecture, claude-code, claude-code-skill, cli, codebase-visualiz
 
 Fill-in-your-own-data framework for YouTube / short-form video automation: CapCut JSON + ffmpeg tooling + an onboarding questionnaire. Ships with zero private data.
 
-Language: Python | GitHub Stars: 2153 | Starred at: 2026-07-10T11:05:49Z
+Language: Python | GitHub Stars: 2157 | Starred at: 2026-07-10T11:05:49Z
 
 Topics: capcut, content-creation, creator-tools, ffmpeg, python, shorts, video-automation, youtube
 
@@ -598,7 +598,7 @@ Topics: capcut, content-creation, creator-tools, ffmpeg, python, shorts, video-a
 
 Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
 
-Language: Python | GitHub Stars: 122247 | Starred at: 2026-07-10T06:49:34Z
+Language: Python | GitHub Stars: 122607 | Starred at: 2026-07-10T06:49:34Z
 
 Topics: ai-agents, antigravity, ast, claude-code, code-analysis, code-search, codex, cursor, developer-tools, gemini, graphrag, knowledge-graph, leiden, llm, mcp, openclaw, rag, skills, tree-sitter
 
@@ -606,7 +606,7 @@ Topics: ai-agents, antigravity, ast, claude-code, code-analysis, code-search, co
 
 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 
-Language: Go | GitHub Stars: 108268 | Starred at: 2026-07-10T06:49:22Z
+Language: Go | GitHub Stars: 108480 | Starred at: 2026-07-10T06:49:22Z
 
 Topics: ai, anthropic, caveman, claude, claude-code, llm, meme, prompt-engineering, skill, tokens
 
@@ -614,7 +614,7 @@ Topics: ai, anthropic, caveman, claude, claude-code, llm, meme, prompt-engineeri
 
 An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 
-Language: Python | GitHub Stars: 131383 | Starred at: 2026-07-10T06:48:53Z
+Language: Python | GitHub Stars: 131800 | Starred at: 2026-07-10T06:48:53Z
 
 Topics: ai-skills, antigravity, claude, claude-code, codex, command-line, copilot, cursor-ai, html5, kiro, landing-page, mobile-ui, qoder, react, tailwindcss, trae, ui-design, uikit, windsurf-ai
 
@@ -622,19 +622,19 @@ Topics: ai-skills, antigravity, claude, claude-code, codex, command-line, copilo
 
 Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 
-Language: TypeScript | GitHub Stars: 134448 | Starred at: 2026-07-10T06:48:41Z
+Language: TypeScript | GitHub Stars: 134543 | Starred at: 2026-07-10T06:48:41Z
 
 ## [mattpocock/skills](https://github.com/mattpocock/skills)
 
 Skills for Real Engineers. Straight from my .agents directory.
 
-Language: Shell | GitHub Stars: 271627 | Starred at: 2026-07-10T06:47:47Z
+Language: Shell | GitHub Stars: 272452 | Starred at: 2026-07-10T06:47:47Z
 
 ## [affaan-m/ECC](https://github.com/affaan-m/ECC)
 
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
-Language: JavaScript | GitHub Stars: 269252 | Starred at: 2026-07-10T06:47:34Z
+Language: JavaScript | GitHub Stars: 269844 | Starred at: 2026-07-10T06:47:34Z
 
 Topics: ai-agents, anthropic, claude, claude-code, developer-tools, llm, mcp, productivity
 
@@ -642,7 +642,7 @@ Topics: ai-agents, anthropic, claude, claude-code, developer-tools, llm, mcp, pr
 
 归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。
 
-GitHub Stars: 1175 | Starred at: 2026-07-09T03:58:38Z
+GitHub Stars: 1180 | Starred at: 2026-07-09T03:58:38Z
 
 Topics: agent, chart-visualization, chinese, claude-code, codex, data-visualization, explainer, illustration, image-generation, material-illustration, skill, social-media
 
@@ -650,7 +650,7 @@ Topics: agent, chart-visualization, chinese, claude-code, codex, data-visualizat
 
 An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.
 
-Language: JavaScript | GitHub Stars: 8964 | Starred at: 2026-07-08T21:04:35Z
+Language: JavaScript | GitHub Stars: 9006 | Starred at: 2026-07-08T21:04:35Z
 
 Topics: agent-skill, ai-agent, ai-ppt, claude, claude-code, dashial, html-presentation, ppt, pptx, presentation, presentation-generator, skill, slide-generator, slides
 
@@ -658,13 +658,13 @@ Topics: agent-skill, ai-agent, ai-ppt, claude, claude-code, dashial, html-presen
 
 A skill that turn any brand into a scrollable 3D world landing page
 
-Language: JavaScript | GitHub Stars: 9570 | Starred at: 2026-07-08T08:18:54Z
+Language: JavaScript | GitHub Stars: 9588 | Starred at: 2026-07-08T08:18:54Z
 
 ## [stablyai/orca](https://github.com/stablyai/orca)
 
 Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 
-Language: TypeScript | GitHub Stars: 81132 | Starred at: 2026-07-07T20:13:43Z
+Language: TypeScript | GitHub Stars: 81964 | Starred at: 2026-07-07T20:13:43Z
 
 Topics: ade, agent-ide, ai-agents, claude-code, cli, codex, cursor-agent, devtools, ghostty, ide, mobile-app, opencode, orchestration, parallel-agents, pi, terminal, worktrees, yc-backed
 
@@ -672,7 +672,7 @@ Topics: ade, agent-ide, ai-agents, claude-code, cli, codex, cursor-agent, devtoo
 
 World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
 
-Language: Python | GitHub Stars: 61805 | Starred at: 2026-07-07T20:13:04Z
+Language: Python | GitHub Stars: 61944 | Starred at: 2026-07-07T20:13:04Z
 
 Topics: agent, agentic-ai, ai, claude, copilot, cursor, elevenlabs, ffmpeg, flux, image-generation, open-source, openai, python, remotion, stable-diffusion, text-to-speech, text-to-video, video-generation, video-production
 
@@ -680,7 +680,7 @@ Topics: agent, agentic-ai, ai, claude, copilot, cursor, elevenlabs, ffmpeg, flux
 
 High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 
-Language: C | GitHub Stars: 45421 | Starred at: 2026-07-07T20:12:47Z
+Language: C | GitHub Stars: 45520 | Starred at: 2026-07-07T20:12:47Z
 
 Topics: aider, ast, claude-code, code-analysis, code-intelligence, codex, cursor, cypher, developer-tools, gemini-cli, graph-visualization, kilocode, knowledge-graph, mcp, mcp-server, model-context-protocol, opencode, sqlite, tree-sitter, windsurf
 
@@ -688,7 +688,7 @@ Topics: aider, ast, claude-code, code-analysis, code-intelligence, codex, cursor
 
 A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 
-GitHub Stars: 118706 | Starred at: 2026-07-07T20:05:59Z
+GitHub Stars: 118877 | Starred at: 2026-07-07T20:05:59Z
 
 Topics: awesome-list, design-md, design-system, design-tokens, figma, google-stitch, landing-page, vibe-coding, vibe-design, vibecoding
 
@@ -702,13 +702,13 @@ Language: JavaScript | GitHub Stars: 432 | Starred at: 2026-07-04T18:54:00Z
 
 Skills for Designers and Engineers.
 
-Language: Markdown | GitHub Stars: 41733 | Starred at: 2026-07-04T02:19:55Z
+Language: Markdown | GitHub Stars: 42212 | Starred at: 2026-07-04T02:19:55Z
 
 ## [langchain-ai/agents-from-scratch](https://github.com/langchain-ai/agents-from-scratch)
 
 Build an email assistant with human-in-the-loop and memory
 
-Language: Jupyter Notebook | GitHub Stars: 2324 | Starred at: 2026-07-03T05:09:13Z
+Language: Jupyter Notebook | GitHub Stars: 2325 | Starred at: 2026-07-03T05:09:13Z
 
 Topics: agents, memory
 
@@ -716,7 +716,7 @@ Topics: agents, memory
 
 Structured multi-perspective deliberation for hard decisions. Run full councils, focused triads, or duo debates across Claude Code, Codex, Gemini CLI, and OpenCode.
 
-Language: Shell | GitHub Stars: 4527 | Starred at: 2026-07-02T22:05:24Z
+Language: Shell | GitHub Stars: 4532 | Starred at: 2026-07-02T22:05:24Z
 
 Topics: agent-skill, ai-agents, claude-code, codex, decision-making, deliberation, gemini-cli, llm-routing, multi-agent-systems, multi-llm, open-source, opencode, prompt-engineering, structured-debate
 
@@ -724,7 +724,7 @@ Topics: agent-skill, ai-agents, claude-code, codex, decision-making, deliberatio
 
 YAO = Yielding AI Outcomes. A rigorous engineering, evaluation, governance, and portability system for reusable agent skills.
 
-Language: Python | GitHub Stars: 2681 | Starred at: 2026-07-02T14:53:20Z
+Language: Python | GitHub Stars: 2684 | Starred at: 2026-07-02T14:53:20Z
 
 Topics: agent-skills, ai-agents, evaluation, governance, meta-skill, portability, skill-engineering, workflow-automation
 
@@ -744,13 +744,13 @@ Language: Python | GitHub Stars: 274 | Starred at: 2026-06-30T18:13:50Z
 
 A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 
-Language: JavaScript | GitHub Stars: 22932 | Starred at: 2026-06-29T19:34:23Z
+Language: JavaScript | GitHub Stars: 23304 | Starred at: 2026-06-29T19:34:23Z
 
 ## [Hao0321/claude-skill-social-post](https://github.com/Hao0321/claude-skill-social-post)
 
 A Claude Code skill by Hao (駱君昊) that learns your Facebook voice and auto-posts to FB / IG / Threads / X with a 14-day content calendar. Mega-viral validated: 80K reach / 448 likes / 500 comments on first post. Includes Day 2 flop postmortem.
 
-Language: JavaScript | GitHub Stars: 677 | Starred at: 2026-06-26T19:52:55Z
+Language: JavaScript | GitHub Stars: 678 | Starred at: 2026-06-26T19:52:55Z
 
 Topics: ai-agent, aigc, anthropic, chrome-mcp, claude-code, claude-skill, content-calendar, facebook-automation, instagram, social-media, taiwan, threads, twitter, viral-content
 
@@ -758,7 +758,7 @@ Topics: ai-agent, aigc, anthropic, chrome-mcp, claude-code, claude-skill, conten
 
 Clone any website with one command using AI coding agents
 
-Language: TypeScript | GitHub Stars: 35422 | Starred at: 2026-06-25T13:45:06Z
+Language: TypeScript | GitHub Stars: 35484 | Starred at: 2026-06-25T13:45:06Z
 
 Topics: ai, ai-agents, ai-tools, automation, boilerplate, claude, claude-code, clone, developer-tools, nextjs, react, reverse-engineering, shadcn-ui, skills, tailwindcss, template, typescript, web-scraping, website-clone
 
@@ -776,19 +776,19 @@ Language: Shell | GitHub Stars: 6 | Starred at: 2026-06-24T18:58:56Z
 
 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
 
-Language: Python | GitHub Stars: 65945 | Starred at: 2026-06-24T18:53:44Z
+Language: Python | GitHub Stars: 66008 | Starred at: 2026-06-24T18:53:44Z
 
 ## [Agentchengfeng/chengfeng-videocut-skills](https://github.com/Agentchengfeng/chengfeng-videocut-skills)
 
 用 Claude Code Skills 做的视频剪辑 Agent
 
-Language: JavaScript | GitHub Stars: 3021 | Starred at: 2026-06-24T18:47:33Z
+Language: JavaScript | GitHub Stars: 3025 | Starred at: 2026-06-24T18:47:33Z
 
 ## [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)
 
 Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 
-GitHub Stars: 48995 | Starred at: 2026-06-24T18:43:28Z
+GitHub Stars: 49027 | Starred at: 2026-06-24T18:43:28Z
 
 Topics: agents, agentskills, bases, claude, clawdbot, cli, codex, defuddle, hermes, jsoncanvas, knap, markdown, md, obsidian, openclaw, opencode, skills
 
@@ -796,7 +796,7 @@ Topics: agents, agentskills, bases, claude, clawdbot, cli, codex, defuddle, herm
 
 Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 
-Language: TypeScript | GitHub Stars: 87544 | Starred at: 2026-06-24T17:31:42Z
+Language: TypeScript | GitHub Stars: 87609 | Starred at: 2026-06-24T17:31:42Z
 
 Topics: agent, ai, dashboard, geopolitics, mcp, mcp-server, monitoring, news, opensource, osint, palantir, situation
 
@@ -804,7 +804,7 @@ Topics: agent, ai, dashboard, geopolitics, mcp, mcp-server, monitoring, news, op
 
 Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）
 
-Language: HTML | GitHub Stars: 3393 | Starred at: 2026-06-23T16:22:53Z
+Language: HTML | GitHub Stars: 3394 | Starred at: 2026-06-23T16:22:53Z
 
 ## [maylogger/AGI](https://github.com/maylogger/AGI)
 
@@ -816,13 +816,13 @@ Language: Python | GitHub Stars: 12 | Starred at: 2026-06-22T04:58:53Z
 
 Google Cloud Knowledge Catalog Tools and Samples
 
-Language: TypeScript | GitHub Stars: 9315 | Starred at: 2026-06-21T21:50:09Z
+Language: TypeScript | GitHub Stars: 9326 | Starred at: 2026-06-21T21:50:09Z
 
 ## [binghe1980/AI-Canvas](https://github.com/binghe1980/AI-Canvas)
 
 Codex-integrated infinite canvas for AI image generation, annotation, and iterative editing.
 
-Language: TypeScript | GitHub Stars: 234 | Starred at: 2026-06-21T16:25:20Z
+Language: TypeScript | GitHub Stars: 235 | Starred at: 2026-06-21T16:25:20Z
 
 ## [joeseesun/qiaomu-artist-style](https://github.com/joeseesun/qiaomu-artist-style)
 
@@ -830,13 +830,13 @@ Language: TypeScript | GitHub Stars: 233 | Starred at: 2026-06-21T15:19:15Z
 
 ## [zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)
 
-Language: JavaScript | GitHub Stars: 5971 | Starred at: 2026-06-21T05:28:52Z
+Language: JavaScript | GitHub Stars: 5976 | Starred at: 2026-06-21T05:28:52Z
 
 ## [b-nnett/codex-plusplus](https://github.com/b-nnett/codex-plusplus)
 
 Codex++ tweak system for the Codex desktop app
 
-Language: JavaScript | GitHub Stars: 3744 | Starred at: 2026-06-20T17:47:20Z
+Language: JavaScript | GitHub Stars: 3745 | Starred at: 2026-06-20T17:47:20Z
 
 ## [mcncarl/agent-memory-vault](https://github.com/mcncarl/agent-memory-vault)
 
@@ -870,7 +870,7 @@ Language: TypeScript | GitHub Stars: 25 | Starred at: 2026-06-17T18:09:51Z
 
 Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-Language: JavaScript | GitHub Stars: 147812 | Starred at: 2026-06-17T17:45:03Z
+Language: JavaScript | GitHub Stars: 148513 | Starred at: 2026-06-17T17:45:03Z
 
 Topics: agent-skills, ai-agents, claude, claude-code, claude-code-plugin, cursor-rules, developer-tools, llm, prompt-engineering, yagni
 
@@ -878,7 +878,7 @@ Topics: agent-skills, ai-agents, claude, claude-code, claude-code-plugin, cursor
 
 Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
 
-Language: Python | GitHub Stars: 49032 | Starred at: 2026-06-17T07:25:57Z
+Language: Python | GitHub Stars: 49072 | Starred at: 2026-06-17T07:25:57Z
 
 Topics: algorithmic-trading, auto-quant, deep-learning, finance, fintech, investment, machine-learning, paper, platform, python, quant, quant-dataset, quant-models, quantitative-finance, quantitative-trading, research, research-paper, stock-data
 
@@ -886,7 +886,7 @@ Topics: algorithmic-trading, auto-quant, deep-learning, finance, fintech, invest
 
 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 
-Language: Python | GitHub Stars: 140143 | Starred at: 2026-06-17T07:25:36Z
+Language: Python | GitHub Stars: 140315 | Starred at: 2026-06-17T07:25:36Z
 
 Topics: agents, llms, python, rag
 
@@ -894,7 +894,7 @@ Topics: agents, llms, python, rag
 
 18 Lessons to Get Started Building AI Agents
 
-Language: Jupyter Notebook | GitHub Stars: 76049 | Starred at: 2026-06-17T07:25:26Z
+Language: Jupyter Notebook | GitHub Stars: 76188 | Starred at: 2026-06-17T07:25:26Z
 
 Topics: agentic-ai, agentic-framework, agentic-rag, ai-agents, ai-agents-framework, autogen, foundry, foundry-local, generative-ai, microsoft-foundry, semantic-kernel
 
@@ -902,13 +902,13 @@ Topics: agentic-ai, agentic-framework, agentic-rag, ai-agents, ai-agents-framewo
 
 AI agents running research on single-GPU nanochat training automatically
 
-Language: Python | GitHub Stars: 96987 | Starred at: 2026-06-17T07:25:07Z
+Language: Python | GitHub Stars: 97034 | Starred at: 2026-06-17T07:25:07Z
 
 ## [openclaw/openclaw](https://github.com/openclaw/openclaw)
 
 The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
 
-Language: TypeScript | GitHub Stars: 390754 | Starred at: 2026-06-17T07:24:57Z
+Language: TypeScript | GitHub Stars: 390815 | Starred at: 2026-06-17T07:24:57Z
 
 Topics: ai, assistant, crustacean, molty, openclaw, own-your-data, personal
 
@@ -916,7 +916,7 @@ Topics: ai, assistant, crustacean, molty, openclaw, own-your-data, personal
 
 The best-benchmarked open-source AI memory system. And it's free.
 
-Language: Python | GitHub Stars: 59350 | Starred at: 2026-06-17T07:24:47Z
+Language: Python | GitHub Stars: 59365 | Starred at: 2026-06-17T07:24:47Z
 
 Topics: ai, chromadb, llm, mcp, memory, python
 
@@ -924,19 +924,19 @@ Topics: ai, chromadb, llm, mcp, memory, python
 
 A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 
-GitHub Stars: 215781 | Starred at: 2026-06-17T07:24:39Z
+GitHub Stars: 215969 | Starred at: 2026-06-17T07:24:39Z
 
 ## [OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck)
 
 Task-oriented AI Agent productivity platform
 
-Language: TypeScript | GitHub Stars: 4020 | Starred at: 2026-06-17T07:24:30Z
+Language: TypeScript | GitHub Stars: 4022 | Starred at: 2026-06-17T07:24:30Z
 
 ## [nevertoday/350-layout-compositions](https://github.com/nevertoday/350-layout-compositions)
 
 350 layout composition references across visual principles, editorial design, typography, grids, web UI, film, Chinese art, and presentations.
 
-Language: Python | GitHub Stars: 818 | Starred at: 2026-06-17T05:19:34Z
+Language: Python | GitHub Stars: 819 | Starred at: 2026-06-17T05:19:34Z
 
 Topics: composition, design, design-resources, editorial-design, graphic-design, layout, presentation-design, typography, ui-design, visual-design, web-design
 
@@ -944,13 +944,13 @@ Topics: composition, design, design-resources, editorial-design, graphic-design,
 
 TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
 
-Language: Python | GitHub Stars: 33963 | Starred at: 2026-06-16T18:45:07Z
+Language: Python | GitHub Stars: 34001 | Starred at: 2026-06-16T18:45:07Z
 
 ## [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope)
 
 Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.
 
-Language: Haskell | GitHub Stars: 1850 | Starred at: 2026-06-16T18:33:42Z
+Language: Haskell | GitHub Stars: 1854 | Starred at: 2026-06-16T18:33:42Z
 
 Topics: haskell, logs, metrics, monitoring, observability, opentelemetry, s3, self-hosted, timescaledb, tracing
 
@@ -958,7 +958,7 @@ Topics: haskell, logs, metrics, monitoring, observability, opentelemetry, s3, se
 
 The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 
-Language: TypeScript | GitHub Stars: 39150 | Starred at: 2026-06-16T18:20:12Z
+Language: TypeScript | GitHub Stars: 39168 | Starred at: 2026-06-16T18:20:12Z
 
 Topics: agent, agent-tars, browser-use, computer-use, cowork, gui-agent, gui-operator, mcp, mcp-server, multimodal, tars, ui-tars, vision, vlm
 
@@ -966,7 +966,7 @@ Topics: agent, agent-tars, browser-use, computer-use, cowork, gui-agent, gui-ope
 
 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.
 
-Language: TypeScript | GitHub Stars: 98583 | Starred at: 2026-06-16T17:33:45Z
+Language: TypeScript | GitHub Stars: 98840 | Starred at: 2026-06-16T17:33:45Z
 
 Topics: agent-skills, ai-design, byok, claude-code-for-design, claude-design, codex-design, coding-agents, cursor-design, deepseek, deepseek-harness, design-systems, desktop-app, dsh, dsh-plugin, figma-alternative, hermes-agent, local-first, prototyping, ui-generator, vibe-coding
 
@@ -980,7 +980,7 @@ Language: JavaScript | GitHub Stars: 2051 | Starred at: 2026-06-16T17:15:43Z
 
 Public repository for Agent Skills
 
-Language: Python | GitHub Stars: 178914 | Starred at: 2026-06-16T07:18:42Z
+Language: Python | GitHub Stars: 179076 | Starred at: 2026-06-16T07:18:42Z
 
 Topics: agent-skills
 
@@ -996,13 +996,13 @@ Topics: agentic-ai, agentic-workflow, ai-agents, course, system-design, tutorial
 
 My Codex Skills
 
-Language: Shell | GitHub Stars: 3983 | Starred at: 2026-06-16T07:04:14Z
+Language: Shell | GitHub Stars: 3988 | Starred at: 2026-06-16T07:04:14Z
 
 ## [openai/skills](https://github.com/openai/skills)
 
 Skills Catalog for Codex
 
-Language: Python | GitHub Stars: 27802 | Starred at: 2026-06-16T07:03:34Z
+Language: Python | GitHub Stars: 27819 | Starred at: 2026-06-16T07:03:34Z
 
 ## [Salomondiei08/oh-my-hermes](https://github.com/Salomondiei08/oh-my-hermes)
 
@@ -1014,7 +1014,7 @@ Language: Shell | GitHub Stars: 867 | Starred at: 2026-06-16T07:01:57Z
 
 Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 
-Language: Python | GitHub Stars: 77787 | Starred at: 2026-06-16T06:57:58Z
+Language: Python | GitHub Stars: 77833 | Starred at: 2026-06-16T06:57:58Z
 
 Topics: agent, agent-development, ai-agent, claude, claude-code, educational, llm, python, teaching, tutorial
 
@@ -1022,7 +1022,7 @@ Topics: agent, agent-development, ai-agent, claude, claude-code, educational, ll
 
 Framework for AI agents to build and maintain a digital brain through Obsidian wiki | Memory System for Agents
 
-Language: Python | GitHub Stars: 3506 | Starred at: 2026-06-16T06:54:14Z
+Language: Python | GitHub Stars: 3508 | Starred at: 2026-06-16T06:54:14Z
 
 Topics: agent-skills, brain, knowledge-base, knowledge-graph, llm-tools, memory, obsidian, obsidian-brain, wiki
 
@@ -1030,13 +1030,13 @@ Topics: agent-skills, brain, knowledge-base, knowledge-graph, llm-tools, memory,
 
 AI CMO Prompts Collection and Knowledge Base
 
-GitHub Stars: 225 | Starred at: 2026-06-16T06:53:38Z
+GitHub Stars: 227 | Starred at: 2026-06-16T06:53:38Z
 
 ## [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui)
 
 Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 
-Language: Python | GitHub Stars: 18664 | Starred at: 2026-06-16T06:52:16Z
+Language: Python | GitHub Stars: 18685 | Starred at: 2026-06-16T06:52:16Z
 
 Topics: agent, ai-agents, hermes, hermes-agent, nous-research
 
@@ -1044,13 +1044,13 @@ Topics: agent, ai-agents, hermes, hermes-agent, nous-research
 
 Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for Nous Research's open-source Hermes Agent.
 
-GitHub Stars: 5762 | Starred at: 2026-06-16T06:52:14Z
+GitHub Stars: 5768 | Starred at: 2026-06-16T06:52:14Z
 
 Topics: agent-skills, ai-agents, ai-tools, awesome, awesome-list, hermes-agent, mcp, memory, nous-research, skills
 
 ## [Felo-Inc/felo-skills](https://github.com/Felo-Inc/felo-skills)
 
-Language: JavaScript | GitHub Stars: 247 | Starred at: 2026-06-16T06:52:12Z
+Language: JavaScript | GitHub Stars: 248 | Starred at: 2026-06-16T06:52:12Z
 
 ## [aliyun/hermes-tablestore-memory](https://github.com/aliyun/hermes-tablestore-memory)
 
@@ -1068,7 +1068,7 @@ Topics: ai, ai-agents, ai-memory, anthropic, artificial-intelligence, claude, cl
 
 An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 
-Language: JavaScript | GitHub Stars: 28110 | Starred at: 2026-06-16T06:47:33Z
+Language: JavaScript | GitHub Stars: 28112 | Starred at: 2026-06-16T06:47:33Z
 
 Topics: ai, cursor, cursor-ai, cursorai, lovable, lovable-dev, roocode, task-manager, tasks, tasks-list, windsurf, windsurf-ai
 
@@ -1076,7 +1076,7 @@ Topics: ai, cursor, cursor-ai, cursorai, lovable, lovable-dev, roocode, task-man
 
 A collection of MCP servers.
 
-GitHub Stars: 95657 | Starred at: 2026-06-16T06:47:21Z
+GitHub Stars: 95698 | Starred at: 2026-06-16T06:47:21Z
 
 Topics: ai, mcp
 
@@ -1084,7 +1084,7 @@ Topics: ai, mcp
 
 Agents that use the browser.
 
-Language: Python | GitHub Stars: 116677 | Starred at: 2026-06-16T06:47:11Z
+Language: Python | GitHub Stars: 116781 | Starred at: 2026-06-16T06:47:11Z
 
 Topics: ai-agents, ai-tools, browser-automation, browser-use, llm, playwright, python
 
@@ -1092,7 +1092,7 @@ Topics: ai-agents, ai-tools, browser-automation, browser-use, llm, playwright, p
 
 Build resilient agents.
 
-Language: Python | GitHub Stars: 42451 | Starred at: 2026-06-16T06:47:06Z
+Language: Python | GitHub Stars: 42505 | Starred at: 2026-06-16T06:47:06Z
 
 Topics: agents, ai, ai-agents, chatgpt, deepagents, enterprise, framework, gemini, generative-ai, langchain, langgraph, llm, multiagent, open-source, openai, pydantic, python, rag
 
@@ -1100,7 +1100,7 @@ Topics: agents, ai, ai-agents, chatgpt, deepagents, enterprise, framework, gemin
 
 Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
-Language: TypeScript | GitHub Stars: 206242 | Starred at: 2026-06-16T06:47:04Z
+Language: TypeScript | GitHub Stars: 206329 | Starred at: 2026-06-16T06:47:04Z
 
 Topics: ai, apis, automation, cli, data-flow, development, integration-framework, integrations, ipaas, low-code, low-code-platform, mcp, mcp-client, mcp-server, n8n, no-code, self-hosted, typescript, workflow, workflow-automation
 
@@ -1108,7 +1108,7 @@ Topics: ai, apis, automation, cli, data-flow, development, integration-framework
 
 aider is AI pair programming in your terminal
 
-Language: Python | GitHub Stars: 49261 | Starred at: 2026-06-16T06:47:02Z
+Language: Python | GitHub Stars: 49290 | Starred at: 2026-06-16T06:47:02Z
 
 Topics: anthropic, chatgpt, claude-3, cli, command-line, gemini, gpt-3, gpt-35-turbo, gpt-4, gpt-4o, llama, openai, sonnet
 
@@ -1116,7 +1116,7 @@ Topics: anthropic, chatgpt, claude-3, cli, command-line, gemini, gpt-3, gpt-35-t
 
 Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 
-Language: Python | GitHub Stars: 59163 | Starred at: 2026-06-16T06:46:59Z
+Language: Python | GitHub Stars: 59211 | Starred at: 2026-06-16T06:46:59Z
 
 Topics: agents, ai, ai-agents, aiagentframework, llms
 
@@ -1124,7 +1124,7 @@ Topics: agents, ai, ai-agents, aiagentframework, llms
 
 The agent that grows with you
 
-Language: Python | GitHub Stars: 249923 | Starred at: 2026-06-16T06:46:58Z
+Language: Python | GitHub Stars: 250194 | Starred at: 2026-06-16T06:46:58Z
 
 Topics: ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, codex, hermes, hermes-agent, llm, nous-research, openai
 
@@ -1132,7 +1132,7 @@ Topics: ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, codex,
 
 🙌 OpenHands: AI-Driven Development
 
-Language: TypeScript | GitHub Stars: 89466 | Starred at: 2026-06-16T06:46:56Z
+Language: TypeScript | GitHub Stars: 89580 | Starred at: 2026-06-16T06:46:56Z
 
 Topics: agent, artificial-intelligence, chatgpt, claude-ai, cli, developer-tools, gpt, llm, openai
 
@@ -1140,15 +1140,15 @@ Topics: agent, artificial-intelligence, chatgpt, claude-ai, cli, developer-tools
 
 Memory that AI Agents Love!
 
-Language: Python | GitHub Stars: 2297 | Starred at: 2026-06-15T18:12:25Z
+Language: Python | GitHub Stars: 2303 | Starred at: 2026-06-15T18:12:25Z
 
-Topics: agent-memory, ai-agents, crewai, langchain, llm-memory, long-term-memory, memanto, memory, moorcheh, rag, semantic-memory, stateful-ai
+Topics: agent-memory, ai-agents, ai-memory, ai-memory-system, hermes-agent, long-term-memory, memanto, memory, memory-management, moorcheh, multi-agent, rag, semantic-memory, stateful-ai
 
 ## [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)
 
 Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
 
-Language: TypeScript | GitHub Stars: 84618 | Starred at: 2026-06-15T18:08:34Z
+Language: TypeScript | GitHub Stars: 84770 | Starred at: 2026-06-15T18:08:34Z
 
 Topics: antigravity-skills, business-knowledge, claude-code, claude-skills, codebase-analysis, codex, codex-skills, developer-tools-ai-agent, gemini-cli-skills, karpathy-llm-wiki, knowledge-base, knowledge-graph, memory, opencode-skills, pi-agent, understandcode, vibe-coding
 
@@ -1156,7 +1156,7 @@ Topics: antigravity-skills, business-knowledge, claude-code, claude-skills, code
 
 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
 
-Language: Python | GitHub Stars: 9522 | Starred at: 2026-06-13T13:51:56Z
+Language: Python | GitHub Stars: 9532 | Starred at: 2026-06-13T13:51:56Z
 
 Topics: aggregator, feishu-bot, llm, mcp, news, openclaw, python, webhook
 
@@ -1164,7 +1164,7 @@ Topics: aggregator, feishu-bot, llm, mcp, news, openclaw, python, webhook
 
 Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 
-Language: Python | GitHub Stars: 86097 | Starred at: 2026-06-13T13:39:45Z
+Language: Python | GitHub Stars: 86266 | Starred at: 2026-06-13T13:39:45Z
 
 Topics: agent-infrastructure, ai-agent, ai-search, automation, bilibili, claude-code, cli, cursor, free-api, llm-tools, mcp, python, reddit-scraper, twitter-scraper, web-scraper, xiaohongshu, youtube-transcript
 
@@ -1186,13 +1186,13 @@ Topics: creative-coding, dataflow, generative-art, node-editor, touchdesigner, t
 
 GPT Image 2/2.5 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing
 
-Language: Python | GitHub Stars: 5596 | Starred at: 2026-06-10T17:01:32Z
+Language: Python | GitHub Stars: 5606 | Starred at: 2026-06-10T17:01:32Z
 
 Topics: agent-skills, ai-image-prompts, claude-code-skill, cli, codex-skill, gpt-image, gpt-image-2, gpt-image-2-prompts, image-editing, image-generation, image-prompt, openai, prompt-library, prompt-templates, research-figures, text-to-image
 
 ## [vibeshotclub/vsc-skills](https://github.com/vibeshotclub/vsc-skills)
 
-Language: Python | GitHub Stars: 865 | Starred at: 2026-06-10T16:51:09Z
+Language: Python | GitHub Stars: 868 | Starred at: 2026-06-10T16:51:09Z
 
 ## [liyue-aigc/female-portrait-director](https://github.com/liyue-aigc/female-portrait-director)
 
@@ -1206,7 +1206,7 @@ Topics: ai-image-generation, codex, codex-skill, open-source, prompt-engineering
 
 "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
 
-Language: Python | GitHub Stars: 12522 | Starred at: 2026-06-09T16:06:22Z
+Language: Python | GitHub Stars: 12532 | Starred at: 2026-06-09T16:06:22Z
 
 Topics: agentic-aigc, video-generation
 
@@ -1220,7 +1220,7 @@ Language: Python | GitHub Stars: 651 | Starred at: 2026-06-08T16:56:25Z
 
 Connect your agents & product to 1,000 APIs.
 
-Language: TypeScript | GitHub Stars: 12412 | Starred at: 2026-06-08T16:32:02Z
+Language: TypeScript | GitHub Stars: 12440 | Starred at: 2026-06-08T16:32:02Z
 
 Topics: access-token, api, api-client, api-integration, api-integrations, integrations, oauth, oauth1, oauth2, product-integration, refresh-token, unified-api
 
@@ -1228,7 +1228,7 @@ Topics: access-token, api, api-client, api-integration, api-integrations, integr
 
 Production-grade engineering skills for AI coding agents.
 
-Language: JavaScript | GitHub Stars: 99765 | Starred at: 2026-06-08T16:31:39Z
+Language: JavaScript | GitHub Stars: 100010 | Starred at: 2026-06-08T16:31:39Z
 
 Topics: agent-skills, antigravity, claude-code, codex, cursor, skills
 
@@ -1236,7 +1236,7 @@ Topics: agent-skills, antigravity, claude-code, codex, cursor, skills
 
 Build and deploy AI Agents on Cloudflare 
 
-Language: TypeScript | GitHub Stars: 5669 | Starred at: 2026-06-08T16:31:08Z
+Language: TypeScript | GitHub Stars: 5680 | Starred at: 2026-06-08T16:31:08Z
 
 Topics: agents, ai, cloudflare, durable-objects, workflows
 
@@ -1244,13 +1244,13 @@ Topics: agents, ai, cloudflare, durable-objects, workflows
 
 A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 
-Language: Shell | GitHub Stars: 155208 | Starred at: 2026-06-08T09:19:33Z
+Language: Shell | GitHub Stars: 155415 | Starred at: 2026-06-08T09:19:33Z
 
 ## [NarratorAI-Studio/narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill)
 
 AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用
 
-GitHub Stars: 2764 | Starred at: 2026-06-08T04:46:23Z
+GitHub Stars: 2975 | Starred at: 2026-06-08T04:46:23Z
 
 Topics: agent-skills, ai-agent, ai-video, claude-code, claude-code-skill, content-creation, cursor, film-commentary, narrator-ai, openclaw, openclaw-skill, short-drama, skill-md, video-narration, windsurf
 
@@ -1258,13 +1258,13 @@ Topics: agent-skills, ai-agent, ai-video, claude-code, claude-code-skill, conten
 
 Self-hosted AI workspace. 
 
-Language: Python | GitHub Stars: 87671 | Starred at: 2026-06-08T04:28:29Z
+Language: Python | GitHub Stars: 87735 | Starred at: 2026-06-08T04:28:29Z
 
 ## [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
 
 Comfortably monitor your network traffic 🕵️‍♂️
 
-Language: Rust | GitHub Stars: 41293 | Starred at: 2026-06-08T04:12:45Z
+Language: Rust | GitHub Stars: 41304 | Starred at: 2026-06-08T04:12:45Z
 
 Topics: app, application, gui, iced, ip-geolocation, ipfix, linux, macos, network, network-monitoring, networking, packet-capture, packet-sniffer, pcap, rust, rust-crate, security, tool, utility, windows
 
@@ -1272,7 +1272,7 @@ Topics: app, application, gui, iced, ip-geolocation, ipfix, linux, macos, networ
 
 An agentic skills framework & software development methodology that works.
 
-Language: Shell | GitHub Stars: 292657 | Starred at: 2026-06-08T04:11:27Z
+Language: Shell | GitHub Stars: 293194 | Starred at: 2026-06-08T04:11:27Z
 
 Topics: ai, brainstorming, coding, obra, sdlc, skills, subagent-driven-development, superpowers
 
@@ -1280,7 +1280,7 @@ Topics: ai, brainstorming, coding, obra, sdlc, skills, subagent-driven-developme
 
 Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation.
 
-Language: Python | GitHub Stars: 12957 | Starred at: 2026-06-07T16:30:20Z
+Language: Python | GitHub Stars: 12964 | Starred at: 2026-06-07T16:30:20Z
 
 Topics: audiobook, faster-whisper, gradio, karaoke, podcasts, speech-recognition, speech-synthesis, speech-to-text, subtitles, text-to-speech, transcription, translator, tts, voice-cloning, voice-conversion, webui, whisper, whisperx, yt-dlp
 
@@ -1292,7 +1292,7 @@ GitHub Stars: 2 | Starred at: 2026-06-07T14:13:10Z
 
 AI code reviews grounded in 12 classic engineering books — decay risk diagnostics with book citations, severity labels, and 6 analysis modes including full-sweep auto-fix
 
-Language: HTML | GitHub Stars: 1500 | Starred at: 2026-06-07T10:22:24Z
+Language: HTML | GitHub Stars: 1501 | Starred at: 2026-06-07T10:22:24Z
 
 Topics: agent-skills, ai-code-review, architecture-review, auto-fix, claude-code, claude-code-plugin, clean-architecture, code-health, code-quality, code-review, code-smells, codex-cli-plugin, deepseek-harness, developer-tools, dsh-plugin, gemini-cli-extension, refactoring, static-analysis, tech-debt, test-quality
 
@@ -1300,31 +1300,31 @@ Topics: agent-skills, ai-code-review, architecture-review, auto-fix, claude-code
 
 dontbesilent 的商业诊断 Skills
 
-Language: JavaScript | GitHub Stars: 10361 | Starred at: 2026-06-07T10:15:42Z
+Language: JavaScript | GitHub Stars: 10379 | Starred at: 2026-06-07T10:15:42Z
 
 ## [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh)
 
 Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 
-Language: Python | GitHub Stars: 18702 | Starred at: 2026-06-07T10:15:33Z
+Language: Python | GitHub Stars: 18765 | Starred at: 2026-06-07T10:15:33Z
 
 ## [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)
 
 紫微斗数开源排盘引擎 — 基于倪海夏《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
 
-Language: TypeScript | GitHub Stars: 4235 | Starred at: 2026-06-07T07:26:14Z
+Language: TypeScript | GitHub Stars: 4313 | Starred at: 2026-06-07T07:26:14Z
 
 Topics: bazi, chinese-astrology, divination, fortune-telling, nextjs, open-source, purple-star-astrology, typescript, zi-wei-dou-shu, ziwei-doushu
 
 ## [baojie/shiji-kb](https://github.com/baojie/shiji-kb)
 
-Language: HTML | GitHub Stars: 3352 | Starred at: 2026-06-06T22:10:25Z
+Language: HTML | GitHub Stars: 3355 | Starred at: 2026-06-06T22:10:25Z
 
 ## [nexu-io/html-video](https://github.com/nexu-io/html-video)
 
 Programmatic video for coding agents — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An official project by the Open Design team.
 
-Language: HTML | GitHub Stars: 4623 | Starred at: 2026-06-06T22:08:26Z
+Language: HTML | GitHub Stars: 4629 | Starred at: 2026-06-06T22:08:26Z
 
 Topics: ai-agent, apache-2, coding-agent, css, ffmpeg, html, html-to-video, hyperframes, mp4, open-design, open-source, programmatic-video, video, video-as-code, video-generation
 
@@ -1332,7 +1332,7 @@ Topics: ai-agent, apache-2, coding-agent, css, ffmpeg, html, html-to-video, hype
 
 OpenWiki — Mac desktop AI knowledge management tool. Capture clipboard, build personal wiki, get AI insights.
 
-Language: Rust | GitHub Stars: 645 | Starred at: 2026-06-06T21:45:33Z
+Language: Rust | GitHub Stars: 646 | Starred at: 2026-06-06T21:45:33Z
 
 Topics: ai, clipboard, desktop-app, knowledge-management, macos, react, rust, sqlite, tauri
 
@@ -1340,7 +1340,7 @@ Topics: ai, clipboard, desktop-app, knowledge-management, macos, react, rust, sq
 
 Agent Skills for Google products and technologies
 
-Language: Python | GitHub Stars: 20463 | Starred at: 2026-06-06T20:34:56Z
+Language: Python | GitHub Stars: 20518 | Starred at: 2026-06-06T20:34:56Z
 
 Topics: google, googlecloud, skills
 
@@ -1356,7 +1356,7 @@ Topics: chinese-colors, chinese-traditional-colors, color-palette, color-referen
 
 VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 
-Language: Python | GitHub Stars: 45923 | Starred at: 2026-06-06T20:29:45Z
+Language: Python | GitHub Stars: 49402 | Starred at: 2026-06-06T20:29:45Z
 
 Topics: ai, audiobook, cuda, dubbing, elevenlabs-alternative, huggingface, local-first, mlx, omnivoice-studio, speech-to-text, tauri, text-to-speech, transcription, translate, tts, voice-ai, voice-cloning, voice-generation, voicestudio, workflow
 
@@ -1364,7 +1364,7 @@ Topics: ai, audiobook, cuda, dubbing, elevenlabs-alternative, huggingface, local
 
 Read it. See it. Get it. Built at GDG AI Hack Milan 2026 for "Learn Different" track.
 
-Language: JavaScript | GitHub Stars: 962 | Starred at: 2026-06-06T17:42:48Z
+Language: JavaScript | GitHub Stars: 963 | Starred at: 2026-06-06T17:42:48Z
 
 Topics: agents, ai, codex, edtech, feynman-technique, flashcards, gdg-ai-hack-2026, hackathon, knowledge-graph, learning, llm, nextjs, openai, pdf, react, spaced-repetition, study-tools, threejs, typescript, visualization
 
@@ -1372,7 +1372,7 @@ Topics: agents, ai, codex, edtech, feynman-technique, flashcards, gdg-ai-hack-20
 
 AI-Powered Photos App 🌈💎✨
 
-Language: Go | GitHub Stars: 40254 | Starred at: 2026-06-06T17:36:22Z
+Language: Go | GitHub Stars: 40257 | Starred at: 2026-06-06T17:36:22Z
 
 Topics: ai, golang, google-photos, machine-learning, photography, private-cloud, self-hosted, tensorflow
 
@@ -1380,7 +1380,7 @@ Topics: ai, golang, google-photos, machine-learning, photography, private-cloud,
 
 A contact solver for physics-based simulations involving 👚 shells, 🪵 solids, 🪢 rods, 🧱 rigid bodies and ⏳ sand.
 
-Language: Python | GitHub Stars: 4507 | Starred at: 2026-06-06T17:36:10Z
+Language: Python | GitHub Stars: 4512 | Starred at: 2026-06-06T17:36:10Z
 
 Topics: cloth, collision, contact, physics, simulation
 
@@ -1388,13 +1388,13 @@ Topics: cloth, collision, contact, physics, simulation
 
 Simulation platform for general-purpose robotics & embodied AI learning.
 
-Language: Python | GitHub Stars: 29998 | Starred at: 2026-06-06T17:35:51Z
+Language: Python | GitHub Stars: 30010 | Starred at: 2026-06-06T17:35:51Z
 
 ## [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
 
 NVR with realtime local object detection for IP cameras
 
-Language: TypeScript | GitHub Stars: 36172 | Starred at: 2026-06-06T17:35:34Z
+Language: Python | GitHub Stars: 36185 | Starred at: 2026-06-06T17:35:34Z
 
 Topics: ai, camera, google-coral, home-assistant, home-automation, homeautomation, mqtt, nvr, object-detection, realtime, rtsp, tensorflow
 
@@ -1402,7 +1402,7 @@ Topics: ai, camera, google-coral, home-assistant, home-automation, homeautomatio
 
 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
 
-Language: TypeScript | GitHub Stars: 49773 | Starred at: 2026-06-06T17:35:16Z
+Language: TypeScript | GitHub Stars: 49855 | Starred at: 2026-06-06T17:35:16Z
 
 Topics: ai-companion, ai-vtuber, airi, digital-life, grok-companion, live2d, neuro-sama, neurosama, openclaw, vrm, vtuber
 
@@ -1414,7 +1414,7 @@ Language: Python | GitHub Stars: 231 | Starred at: 2026-06-06T17:34:09Z
 
 A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
 
-Language: TypeScript | GitHub Stars: 36071 | Starred at: 2026-06-06T17:23:08Z
+Language: TypeScript | GitHub Stars: 36080 | Starred at: 2026-06-06T17:23:08Z
 
 Topics: ai, diagrams, productivity
 
@@ -1422,13 +1422,13 @@ Topics: ai, diagrams, productivity
 
 本仓库包含三个面向学术科研人员的Skills，覆盖从文献阅读、论文写作到科学计算的完整研究工作流。office-academic-skill 负责论文阅读报告与学术 PPT/Word 文档生成；research-writing-skill 提供论文写作、润色与审稿回复辅助；scientific-toolkit-skill 整合 MATLAB/Python 科学计算与期刊级图表生成。三个 Skill 专为中文科研用户设计，可在 Claude Code 和 codex 中一键调用。
 
-Language: Python | GitHub Stars: 4403 | Starred at: 2026-06-06T17:11:23Z
+Language: Python | GitHub Stars: 4431 | Starred at: 2026-06-06T17:11:23Z
 
 ## [joeseesun/qiaomu-anything-to-notebooklm](https://github.com/joeseesun/qiaomu-anything-to-notebooklm)
 
 Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.
 
-Language: Python | GitHub Stars: 6164 | Starred at: 2026-06-06T17:07:40Z
+Language: Python | GitHub Stars: 6166 | Starred at: 2026-06-06T17:07:40Z
 
 Topics: automation, claude, mcp, notebooklm, skill
 
@@ -1436,7 +1436,7 @@ Topics: automation, claude, mcp, notebooklm, skill
 
 A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.
 
-Language: TypeScript | GitHub Stars: 9036 | Starred at: 2026-06-06T17:05:44Z
+Language: TypeScript | GitHub Stars: 9057 | Starred at: 2026-06-06T17:05:44Z
 
 Topics: investigation, osint, python, recon
 
@@ -1444,7 +1444,7 @@ Topics: investigation, osint, python, recon
 
 VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
 
-Language: Python | GitHub Stars: 38124 | Starred at: 2026-06-06T17:05:27Z
+Language: Python | GitHub Stars: 38228 | Starred at: 2026-06-06T17:05:27Z
 
 Topics: audio, deeplearning, minicpm, multilingual, python, pytorch, speech, speech-synthesis, text-to-speech, tts, tts-model, voice-cloning, voice-design, voxcpm
 
@@ -1452,13 +1452,13 @@ Topics: audio, deeplearning, minicpm, multilingual, python, pytorch, speech, spe
 
 A self-hosted email client with an AI agent, running entirely on Cloudflare Workers
 
-Language: TypeScript | GitHub Stars: 8127 | Starred at: 2026-06-06T17:04:49Z
+Language: TypeScript | GitHub Stars: 8132 | Starred at: 2026-06-06T17:04:49Z
 
 ## [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)
 
 FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
 
-Language: C++ | GitHub Stars: 32081 | Starred at: 2026-06-06T17:04:35Z
+Language: C++ | GitHub Stars: 32102 | Starred at: 2026-06-06T17:04:35Z
 
 Topics: ai-agents, algorithmic-trading, bloomberg-terminal, cpp, finance, financial-markets, fintech, good-first-issue, investment, investment-research, machine-learning, opensource, python, qt, quantitative-finance, stock-market, trading
 
@@ -1466,7 +1466,7 @@ Topics: ai-agents, algorithmic-trading, bloomberg-terminal, cpp, finance, financ
 
 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
 
-Language: Python | GitHub Stars: 126790 | Starred at: 2026-06-06T17:04:18Z
+Language: Python | GitHub Stars: 127212 | Starred at: 2026-06-06T17:04:18Z
 
 Topics: ai-video-generator, content-creation, ffmpeg, instagram-reels, llm, python, short-video, subtitles, text-to-speech, tiktok, video-automation, video-workflow, workflow-automation, youtube-shorts
 
@@ -1474,7 +1474,7 @@ Topics: ai-video-generator, content-creation, ffmpeg, instagram-reels, llm, pyth
 
 Write HTML. Render video. Built for agents.
 
-Language: TypeScript | GitHub Stars: 54036 | Starred at: 2026-06-06T17:04:08Z
+Language: TypeScript | GitHub Stars: 54375 | Starred at: 2026-06-06T17:04:08Z
 
 Topics: ai, animation, ffmpeg, framework, gsap, html, mcp, puppeteer, rendering, typescript, video
 
@@ -1482,7 +1482,7 @@ Topics: ai, animation, ffmpeg, framework, gsap, html, mcp, puppeteer, rendering,
 
 Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active
 
-Language: TypeScript | GitHub Stars: 45096 | Starred at: 2026-06-06T17:03:57Z
+Language: TypeScript | GitHub Stars: 45143 | Starred at: 2026-06-06T17:03:57Z
 
 Topics: ai, anthropic, artifacts, aws, azure, chatgpt, chatgpt-clone, claude, clone, deepseek, gemini, google, gpt-5, librechat, mcp, o1, openai, responses-api, vision, webui
 
@@ -1490,7 +1490,7 @@ Topics: ai, anthropic, artifacts, aws, azure, chatgpt, chatgpt-clone, claude, cl
 
 TradingAgents: Multi-Agents LLM Financial Trading Framework
 
-Language: Python | GitHub Stars: 109180 | Starred at: 2026-06-06T17:03:37Z
+Language: Python | GitHub Stars: 109311 | Starred at: 2026-06-06T17:03:37Z
 
 Topics: agent, finance, llm, multiagent, trading
 
@@ -1504,7 +1504,7 @@ GitHub Stars: 53 | Starred at: 2026-06-06T17:02:22Z
 
 AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
 
-Language: HTML | GitHub Stars: 27079 | Starred at: 2026-06-06T14:02:37Z
+Language: HTML | GitHub Stars: 27120 | Starred at: 2026-06-06T14:02:37Z
 
 Topics: ai-agent, claude-code, codex, html-deck, image-generation, ppt, presentation, skill, skills, swiss-design, web-ppt
 
@@ -1518,7 +1518,7 @@ GitHub Stars: 195 | Starred at: 2026-06-06T14:00:56Z
 
 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. OpenAI's next-gen image model with pixel-perfect text rendering, cross-image consistency, and commercial-grade illustration. Free & open source.
 
-Language: TypeScript | GitHub Stars: 9971 | Starred at: 2026-06-06T14:00:41Z
+Language: TypeScript | GitHub Stars: 9982 | Starred at: 2026-06-06T14:00:41Z
 
 Topics: ai-image-generation, ai-prompts, awesome, awesome-list, commercial-illustration, duct-tape, gpt, gpt-image, gpt-image-2, image-generation, multilingual, openai, openai-image, prompt-engineering, prompts, text-rendering
 
@@ -1526,7 +1526,7 @@ Topics: ai-image-generation, ai-prompts, awesome, awesome-list, commercial-illus
 
 GPT-Image-2 API and Prompts
 
-Language: Python | GitHub Stars: 17258 | Starred at: 2026-06-06T14:00:32Z
+Language: Python | GitHub Stars: 17263 | Starred at: 2026-06-06T14:00:32Z
 
 Topics: ai-art, api, awesome-list, awesome-lists, chatgpt, creative-tools, generative-ai, gpt-image-2, gpt-image-2-api, gpt-image-2-prompts, gptimage2, image-generation, image-models, image-prompt, image-to-image, openai, prompt-collection, prompt-engineering, text-to-image, visual-ai
 
@@ -1540,23 +1540,23 @@ Language: PHP | GitHub Stars: 7 | Starred at: 2026-06-06T14:00:18Z
 
 HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations
 
-Language: HTML | GitHub Stars: 8545 | Starred at: 2026-06-06T14:00:04Z
+Language: HTML | GitHub Stars: 8556 | Starred at: 2026-06-06T14:00:04Z
 
 ## [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
 
 A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 
-Language: Jupyter Notebook | GitHub Stars: 53058 | Starred at: 2026-06-06T13:59:51Z
+Language: Jupyter Notebook | GitHub Stars: 53081 | Starred at: 2026-06-06T13:59:51Z
 
 ## [anthropics/financial-services](https://github.com/anthropics/financial-services)
 
-Language: Python | GitHub Stars: 38141 | Starred at: 2026-06-06T13:59:44Z
+Language: Python | GitHub Stars: 38305 | Starred at: 2026-06-06T13:59:44Z
 
 ## [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
 
 Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
 
-Language: JavaScript | GitHub Stars: 91067 | Starred at: 2026-06-06T13:59:35Z
+Language: JavaScript | GitHub Stars: 91384 | Starred at: 2026-06-06T13:59:35Z
 
 Topics: agent, ai, claude, claude-code, codex, coding, design, frontend, lowcode, nocode, skill, skills, vibecoding
 
@@ -1564,7 +1564,7 @@ Topics: agent, ai, claude, claude-code, codex, coding, design, frontend, lowcode
 
 A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
 
-Language: Python | GitHub Stars: 16710 | Starred at: 2026-06-06T13:58:18Z
+Language: Python | GitHub Stars: 16729 | Starred at: 2026-06-06T13:58:18Z
 
 Topics: awesome, awesome-lists, awesome-resources, codex, codex-cli, codex-skills, coding-agent-skills, coding-agents, gpt-5-1-codex, gpt-5-codex, llm, skills
 
@@ -1572,7 +1572,7 @@ Topics: awesome, awesome-lists, awesome-resources, codex, codex-cli, codex-skill
 
 AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He
 
-Language: Python | GitHub Stars: 56935 | Starred at: 2026-06-06T13:57:47Z
+Language: Python | GitHub Stars: 57098 | Starred at: 2026-06-06T13:57:47Z
 
 Topics: ai-agent, aippt, office, powerpoint, powerpoint-generation, ppt, pptx, presentation, slide, slides
 
@@ -1580,6 +1580,6 @@ Topics: ai-agent, aippt, office, powerpoint, powerpoint-generation, ppt, pptx, p
 
 skill to create best prompts for generating videos with seedance2.0
 
-GitHub Stars: 4042 | Starred at: 2026-06-06T13:55:51Z
+GitHub Stars: 4069 | Starred at: 2026-06-06T13:55:51Z
 
 Topics: prompt, seedance, seedance-2, video-prompt
