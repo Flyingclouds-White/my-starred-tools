@@ -3,7 +3,7 @@
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
 - Repository 數：**221**
-- 產生時間（UTC）：`2026-09-30T09:37:42.863259Z`
+- 產生時間（UTC）：`2026-10-01T10:03:17.016361Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -91,7 +91,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [typesafe-ai/skills](https://github.com/typesafe-ai/skills) | 主要能力：Agent Skill／提示工作流。依專案描述：Agent skills for building with TypeSafe's System One API | 自動化與整合、Agent Skill／提示工作流 | Agent Skill 安裝 | 4/5（高） | 活躍 | 中 |
 | [vibe-motion/skills](https://github.com/vibe-motion/skills) | 主要能力：Agent Skill／提示工作流、程式開發、理解與審查。依專案描述：agent skills for vibe motion | 開發與程式碼工具、Agent Skill／提示工作流、程式開發、理解與審查 | Agent Skill 安裝、Python 環境 | 4/5（高） | 活躍 | 中 |
 | [vibeshotclub/vsc-skills](https://github.com/vibeshotclub/vsc-skills) | 主要能力：Agent Skill／提示工作流。metadata 描述不足，需閱讀 README 進一步確認。 | Agent Skill／提示工作流 | Agent Skill 安裝、Python 環境 | 4/5（高） | 活躍 | 中 |
-| [yang0/handraw-style](https://github.com/yang0/handraw-style) | 主要能力：一般工具／待確認。依專案描述：手绘风格编号画廊与双语提示词 Skill | Web、桌面與平台、一般工具／待確認 | 靜態網頁／Web 專案 | 3/5（中等） | 活躍 | 無明顯提示 |
+| [yang0/handraw-style](https://github.com/yang0/handraw-style) | 主要能力：一般工具／待確認。依專案描述：手绘风格编号画廊与双语提示词 Skill | Web、桌面與平台、一般工具／待確認 | 靜態網頁／Web 專案 | 3/5（中等） | 活躍 | 中 |
 | [yaojingang/yao-meta-skill](https://github.com/yaojingang/yao-meta-skill) | 主要能力：Agent Skill／提示工作流、AI Agent 建構與編排、工作流程自動化。依專案描述：YAO = Yielding AI Outcomes. A rigorous engineering, evaluation, governance, and portability system for reusable agent skills. | 自動化與整合、Agent Skill／提示工作流、AI Agent 建構與編排、工作流程自動化 | Agent Skill 安裝、Python 環境 | 4/5（高） | 活躍 | 資訊 |
 
 <a id="category-web-platform"></a>
@@ -118,7 +118,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 
 | Repository | 能力摘要 | 多標籤 | 安裝推定 | ChatGPT | 維護 | 最高風險 |
 |---|---|---|---|---:|---|---|
-| [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) | 主要能力：工作流程自動化。依專案描述：NVR with realtime local object detection for IP cameras | 自動化與整合、工作流程自動化 | Python 環境 | 3/5（中等） | 活躍 | 高 |
+| [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) | 主要能力：工作流程自動化。依專案描述：NVR with realtime local object detection for IP cameras | 自動化與整合、工作流程自動化 | Node.js／TypeScript | 3/5（中等） | 活躍 | 高 |
 
 <a id="category-image-creative"></a>
 ## 影像與創意生成
