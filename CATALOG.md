@@ -3,7 +3,7 @@
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
 - Repository 數：**221**
-- 產生時間（UTC）：`2026-10-01T10:03:17.016361Z`
+- 產生時間（UTC）：`2026-10-02T09:41:25.555420Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -118,7 +118,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 
 | Repository | 能力摘要 | 多標籤 | 安裝推定 | ChatGPT | 維護 | 最高風險 |
 |---|---|---|---|---:|---|---|
-| [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) | 主要能力：工作流程自動化。依專案描述：NVR with realtime local object detection for IP cameras | 自動化與整合、工作流程自動化 | Node.js／TypeScript | 3/5（中等） | 活躍 | 高 |
+| [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) | 主要能力：工作流程自動化。依專案描述：NVR with realtime local object detection for IP cameras | 自動化與整合、工作流程自動化 | Python 環境 | 3/5（中等） | 活躍 | 高 |
 
 <a id="category-image-creative"></a>
 ## 影像與創意生成
@@ -176,7 +176,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [nevertoday/xxd-panel-173](https://github.com/nevertoday/xxd-panel-173) | 主要能力：一般工具／待確認。metadata 描述不足，需閱讀 README 進一步確認。 | 一般工具／待確認 | Python 環境 | 3/5（中等） | 活躍 | 中 |
 | [Nutlope/logocreator](https://github.com/Nutlope/logocreator) | 主要能力：一般工具／待確認。依專案描述：A free + OSS logo generator powered by Flux on Together AI | 一般工具／待確認 | Node.js／TypeScript | 3/5（中等） | 活躍 | 中 |
 | [nuxt/nuxt](https://github.com/nuxt/nuxt) | 主要能力：一般工具／待確認。依專案描述：The full-stack Vue framework. | 一般工具／待確認 | Node.js／TypeScript | 3/5（中等） | 活躍 | 無明顯提示 |
-| [Paidax01/math-curve-loaders](https://github.com/Paidax01/math-curve-loaders) | 主要能力：一般工具／待確認。依專案描述：A lightweight gallery of mathematical curve based loading animations with modal previews, formulas, and copyable code snippets. | 一般工具／待確認 | Node.js／JavaScript | 3/5（中等） | 活躍 | 中 |
+| [Paidax01/math-curve-loaders](https://github.com/Paidax01/math-curve-loaders) | 主要能力：一般工具／待確認。依專案描述：A lightweight gallery of mathematical curve based loading animations with modal previews, formulas, and copyable code snippets. | 一般工具／待確認 | Node.js／JavaScript | 3/5（中等） | 近期維護 | 中 |
 | [Sac-Y/Jev-cu](https://github.com/Sac-Y/Jev-cu) | 主要能力：一般工具／待確認。metadata 描述不足，需閱讀 README 進一步確認。 | 一般工具／待確認 | Node.js／JavaScript | 3/5（中等） | 活躍 | 低 |
 | [YIAN6557/eian-collage-broll](https://github.com/YIAN6557/eian-collage-broll) | 主要能力：一般工具／待確認。metadata 描述不足，需閱讀 README 進一步確認。 | 一般工具／待確認 | 依 README 判斷 | 3/5（中等） | 活躍 | 低 |
 | [zhongerxin/Cowart](https://github.com/zhongerxin/Cowart) | 主要能力：一般工具／待確認。metadata 描述不足，需閱讀 README 進一步確認。 | 一般工具／待確認 | Node.js／JavaScript | 3/5（中等） | 活躍 | 低 |
@@ -354,7 +354,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 
 | Repository | 能力摘要 | 多標籤 | 安裝推定 | ChatGPT | 維護 | 最高風險 |
 |---|---|---|---|---:|---|---|
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 主要能力：Agent Skill／提示工作流、資料分析、視覺化與預測、設計系統與原型製作。依專案描述：Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. | AI Agent 與 Agent Skills、設計、UI 與前端、Web、桌面與平台、Agent Skill／提示工作流、資料分析、視覺化與預測 | Agent Skill 安裝、靜態網頁／Web 專案 | 4/5（高） | 活躍 | 中 |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 主要能力：Agent Skill／提示工作流、資料分析、視覺化與預測、設計系統與原型製作。依專案描述：Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. | AI Agent 與 Agent Skills、設計、UI 與前端、Web、桌面與平台、Agent Skill／提示工作流、資料分析、視覺化與預測 | Agent Skill 安裝、靜態網頁／Web 專案 | 4/5（高） | 活躍 | 中 |
 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 主要能力：一般工具／待確認。依專案描述：The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world. | 自動化與整合、一般工具／待確認 | Python 環境 | 2/5（有限） | 活躍 | 高 |
 | [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | 主要能力：資料分析、視覺化與預測。依專案描述：A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visua… | 生產力與工作管理、Web、桌面與平台、資料分析、視覺化與預測 | Node.js／TypeScript | 3/5（中等） | 活躍 | 資訊 |
 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 主要能力：瀏覽器操作與資料蒐集、AI Agent 建構與編排。依專案描述：🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources. | AI Agent 與 Agent Skills、自動化與整合、Web、桌面與平台、瀏覽器操作與資料蒐集、AI Agent 建構與編排 | Node.js／TypeScript | 3/5（中等） | 活躍 | 高 |
