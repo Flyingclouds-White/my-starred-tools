@@ -3,7 +3,7 @@
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
 - Repository 數：**223**
-- 產生時間（UTC）：`2026-10-11T09:55:52.872792Z`
+- 產生時間（UTC）：`2026-10-12T10:41:19.968372Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -346,7 +346,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [laramies/theHarvester](https://github.com/laramies/theHarvester) | 主要能力：安全檢查與調查、瀏覽器操作與資料蒐集。依專案描述：E-mails, subdomains and names Harvester - OSINT | 生產力與工作管理、安全檢查與調查、瀏覽器操作與資料蒐集 | Python 環境 | 2/5（有限） | 活躍 | 高 |
 | [nczz/freego-wp](https://github.com/nczz/freego-wp) | 主要能力：安全檢查與調查、工作流程自動化。依專案描述：WordPress accessibility assistant aligned with Freego checks, with repair, audit workflow, AAA targets, and GitHub updates. | 自動化與整合、安全檢查與調查、工作流程自動化 | PHP／WordPress | 3/5（中等） | 活躍 | 高 |
 | [reconurge/flowsint](https://github.com/reconurge/flowsint) | 主要能力：安全檢查與調查、瀏覽器操作與資料蒐集。依專案描述：A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators. | 資料、機器學習與分析、安全檢查與調查、瀏覽器操作與資料蒐集 | Node.js／TypeScript | 2/5（有限） | 活躍 | 高 |
-| [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) | 主要能力：安全檢查與調查、瀏覽器操作與資料蒐集。依專案描述：SpiderFoot automates OSINT for threat intelligence and mapping your attack surface. | 安全檢查與調查、瀏覽器操作與資料蒐集 | Python 環境 | 2/5（有限） | 活躍 | 高 |
+| [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) | 主要能力：安全檢查與調查、瀏覽器操作與資料蒐集。依專案描述：SpiderFoot automates OSINT for threat intelligence and mapping your attack surface. | 安全檢查與調查、瀏覽器操作與資料蒐集 | Python 環境 | 2/5（有限） | 近期維護 | 高 |
 | [soxoj/maigret](https://github.com/soxoj/maigret) | 主要能力：安全檢查與調查、瀏覽器操作與資料蒐集。依專案描述：🕵️‍♂️ Collect a dossier on a person by username from 6K websites | 開發與程式碼工具、安全檢查與調查、瀏覽器操作與資料蒐集 | Python 環境 | 2/5（有限） | 活躍 | 高 |
 | [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) | 主要能力：安全檢查與調查。依專案描述：WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com | 安全檢查與調查 | 依 README 判斷 | 2/5（有限） | 活躍 | 高 |
 
