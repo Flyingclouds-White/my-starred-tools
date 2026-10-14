@@ -2,8 +2,8 @@
 
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
-- Repository 數：**223**
-- 產生時間（UTC）：`2026-10-13T10:29:11.044814Z`
+- Repository 數：**224**
+- 產生時間（UTC）：`2026-10-14T08:37:57.512696Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -29,7 +29,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 
 | 主分類 | Repository 數 |
 |---|---:|
-| [AI Agent 與 Agent Skills](#category-ai-agents) | 37 |
+| [AI Agent 與 Agent Skills](#category-ai-agents) | 38 |
 | [知識、研究與記憶](#category-knowledge-research) | 29 |
 | [影片與媒體製作](#category-video-media) | 18 |
 | [設計、UI 與前端](#category-design-ui) | 17 |
@@ -81,6 +81,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [mattpocock/skills](https://github.com/mattpocock/skills) | 主要能力：Agent Skill／提示工作流。依專案描述：Skills for Real Engineers. Straight from my .agents directory. | Agent Skill／提示工作流 | Agent Skill 安裝、Shell 腳本／設定檔 | 4/5（高） | 活躍 | 資訊 |
 | [maylogger/AGI](https://github.com/maylogger/AGI) | 主要能力：AI Agent 建構與編排。依專案描述：Agentic Guideline Intelligence | AI Agent 建構與編排 | 直接閱讀／複製範例、Python 環境 | 3/5（中等） | 活躍 | 資訊 |
 | [Ming-H/yinyuan-skills](https://github.com/Ming-H/yinyuan-skills) | 主要能力：Agent Skill／提示工作流。依專案描述：yinyuan-skills | Agent Skill／提示工作流 | Agent Skill 安裝 | 4/5（高） | 近期維護 | 中 |
+| [morluto/rea](https://github.com/morluto/rea) | 主要能力：Agent Skill／提示工作流、AI Agent 建構與編排、MCP／工具整合。依專案描述：Reverse engineer anything with agents, from app behavior down to native binaries. | 開發與程式碼工具、Agent Skill／提示工作流、AI Agent 建構與編排、MCP／工具整合 | Agent Skill 安裝、MCP server 設定 | 4/5（高） | 活躍 | 中 |
 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 主要能力：Agent Skill／提示工作流、程式開發、理解與審查。依專案描述：A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. | 開發與程式碼工具、Agent Skill／提示工作流、程式開發、理解與審查 | Agent Skill 安裝 | 4/5（高） | 活躍 | 中 |
 | [obra/superpowers](https://github.com/obra/superpowers) | 主要能力：Agent Skill／提示工作流、AI Agent 建構與編排、程式開發、理解與審查。依專案描述：An agentic skills framework & software development methodology that works. | 開發與程式碼工具、Agent Skill／提示工作流、AI Agent 建構與編排、程式開發、理解與審查 | Agent Skill 安裝、Shell 腳本／設定檔 | 4/5（高） | 活躍 | 資訊 |
 | [ollama/ollama](https://github.com/ollama/ollama) | 主要能力：一般工具／待確認。依專案描述：Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. | 一般工具／待確認 | Go 專案 | 3/5（中等） | 活躍 | 資訊 |
@@ -307,13 +308,13 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 主要能力：AI Agent 建構與編排、程式開發、理解與審查、Agent Skill／提示工作流。依專案描述：Clone any website with one command using AI coding agents | AI Agent 與 Agent Skills、開發與程式碼工具、Web、桌面與平台、自動化與整合、AI Agent 建構與編排 | Agent Skill 安裝、Node.js／TypeScript | 4/5（高） | 活躍 | 高 |
 | [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design) | 主要能力：Agent Skill／提示工作流、設計系統與原型製作。依專案描述：Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/desi… | AI Agent 與 Agent Skills、Web、桌面與平台、Agent Skill／提示工作流、設計系統與原型製作 | Agent Skill 安裝、Node.js／JavaScript | 4/5（高） | 活躍 | 中 |
 | [jinggreen15/ai-design-team](https://github.com/jinggreen15/ai-design-team) | 主要能力：設計系統與原型製作、研究、學習與教學。依專案描述：A multi-role AI design team skill for research, planning, scripting, design, and content production. | AI Agent 與 Agent Skills、知識、研究與記憶、設計系統與原型製作、研究、學習與教學 | 依 README 判斷 | 3/5（中等） | 近期維護 | 中 |
-| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 主要能力：設計系統與原型製作、Agent Skill／提示工作流、程式開發、理解與審查。依專案描述：Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop | AI Agent 與 Agent Skills、開發與程式碼工具、設計系統與原型製作、Agent Skill／提示工作流、程式開發、理解與審查 | Agent Skill 安裝、Node.js／JavaScript | 4/5（高） | 活躍 | 中 |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 主要能力：Agent Skill／提示工作流、設計系統與原型製作、AI Agent 建構與編排。依專案描述：Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages | AI Agent 與 Agent Skills、開發與程式碼工具、Web、桌面與平台、資源清單與參考素材、Agent Skill／提示工作流 | 直接閱讀／複製範例、Agent Skill 安裝 | 4/5（高） | 活躍 | 中 |
 | [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) | 主要能力：程式開發、理解與審查、設計系統與原型製作。依專案描述：Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts. | Web、桌面與平台、開發與程式碼工具、程式開發、理解與審查、設計系統與原型製作 | Node.js／TypeScript | 4/5（高） | 活躍 | 資訊 |
 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 主要能力：設計系統與原型製作。依專案描述：A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes,… | 設計系統與原型製作 | Shell 腳本／設定檔 | 3/5（中等） | 活躍 | 資訊 |
 | [nevertoday/350-layout-compositions](https://github.com/nevertoday/350-layout-compositions) | 主要能力：設計系統與原型製作、影片生成、剪輯與轉檔、簡報與文件生成。依專案描述：350 layout composition references across visual principles, editorial design, typography, grids, web UI, film, Chinese art, and presentations. | 影片與媒體製作、簡報與文件、資料、機器學習與分析、Web、桌面與平台、資源清單與參考素材 | 直接閱讀／複製範例、Python 環境 | 4/5（高） | 活躍 | 中 |
 | [nevertoday/zhongguo-traditional-colors](https://github.com/nevertoday/zhongguo-traditional-colors) | 主要能力：設計系統與原型製作、範例、模板與資源索引。依專案描述：中华传统色演示、色卡浏览与颜色知识科普开源项目 | Web、桌面與平台、資源清單與參考素材、設計系統與原型製作、範例、模板與資源索引 | 直接閱讀／複製範例、靜態網頁／Web 專案 | 4/5（高） | 活躍 | 無明顯提示 |
 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 主要能力：設計系統與原型製作、Agent Skill／提示工作流。依專案描述：An AI skill that provides design intelligence for building professional UI/UX across multiple platforms. | AI Agent 與 Agent Skills、Web、桌面與平台、設計系統與原型製作、Agent Skill／提示工作流 | Agent Skill 安裝、Python 環境 | 4/5（高） | 活躍 | 中 |
-| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 主要能力：設計系統與原型製作、Agent Skill／提示工作流、簡報與文件生成。依專案描述：🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, la… | AI Agent 與 Agent Skills、簡報與文件、影片與媒體製作、Web、桌面與平台、開發與程式碼工具 | Agent Skill 安裝、Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
+| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 主要能力：設計系統與原型製作、Agent Skill／提示工作流、本機或自架應用。依專案描述：The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create prototypes, websites, apps, dashboards, presentations, images, and videos with your tea… | AI Agent 與 Agent Skills、開發與程式碼工具、影片與媒體製作、簡報與文件、生產力與工作管理 | Agent Skill 安裝、Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
 | [opitaru-sys/deck-dna](https://github.com/opitaru-sys/deck-dna) | 主要能力：設計系統與原型製作、簡報與文件生成。依專案描述：A Claude skill that builds PPTX decks matching your real designer decks: extracted design DNA, measured word budget, render-QA loop. | AI Agent 與 Agent Skills、簡報與文件、設計系統與原型製作、簡報與文件生成 | 依 README 判斷 | 4/5（高） | 活躍 | 中 |
 | [Paidax01/web-to-design-md](https://github.com/Paidax01/web-to-design-md) | 主要能力：設計系統與原型製作、簡報與文件生成。依專案描述：Convert any official website to design.md document | 簡報與文件、知識、研究與記憶、設計系統與原型製作、簡報與文件生成 | Node.js／JavaScript | 4/5（高） | 活躍 | 中 |
 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 主要能力：設計系統與原型製作。依專案描述：An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | 設計系統與原型製作 | Rust 專案 | 3/5（中等） | 活躍 | 無明顯提示 |
@@ -325,7 +326,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | Repository | 能力摘要 | 多標籤 | 安裝推定 | ChatGPT | 維護 | 最高風險 |
 |---|---|---|---|---:|---|---|
 | [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) | 主要能力：語音生成、辨識與轉錄、影片生成、剪輯與轉檔、內容企劃與社群發布。依專案描述：Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube down… | 影片與媒體製作、Web、桌面與平台、語音生成、辨識與轉錄、影片生成、剪輯與轉檔、內容企劃與社群發布 | Python 環境 | 2/5（有限） | 活躍 | 高 |
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 主要能力：語音生成、辨識與轉錄、工作流程自動化、設計系統與原型製作。依專案描述：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. | 自動化與整合、設計、UI 與前端、影片與媒體製作、Web、桌面與平台、語音生成、辨識與轉錄 | Python 環境 | 3/5（中等） | 活躍 | 高 |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 主要能力：語音生成、辨識與轉錄、工作流程自動化、設計系統與原型製作。依專案描述：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. | 自動化與整合、設計、UI 與前端、影片與媒體製作、語音生成、辨識與轉錄、工作流程自動化 | Python 環境 | 3/5（中等） | 活躍 | 高 |
 | [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) | 主要能力：語音生成、辨識與轉錄。依專案描述：High-Quality Voice Cloning TTS for 600+ Languages | 語音生成、辨識與轉錄 | Python 環境 | 2/5（有限） | 活躍 | 高 |
 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 主要能力：語音生成、辨識與轉錄。依專案描述：Open-Source Frontier Voice AI | 語音生成、辨識與轉錄 | Python 環境 | 3/5（中等） | 活躍 | 資訊 |
 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | 主要能力：語音生成、辨識與轉錄。依專案描述：💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minec… | Web、桌面與平台、語音生成、辨識與轉錄 | Node.js／TypeScript | 3/5（中等） | 活躍 | 資訊 |
