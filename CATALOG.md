@@ -2,8 +2,8 @@
 
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
-- Repository 數：**224**
-- 產生時間（UTC）：`2026-10-14T08:37:57.512696Z`
+- Repository 數：**225**
+- 產生時間（UTC）：`2026-10-15T08:13:01.488067Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -36,7 +36,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [簡報與文件](#category-presentation-docs) | 16 |
 | [待分類](#category-uncategorized) | 14 |
 | [資安、隱私與稽核](#category-security-privacy) | 13 |
-| [影像與創意生成](#category-image-creative) | 11 |
+| [影像與創意生成](#category-image-creative) | 12 |
 | [資料、機器學習與分析](#category-data-ai) | 11 |
 | [生產力與工作管理](#category-productivity) | 9 |
 | [資源清單與參考素材](#category-reference-collection) | 9 |
@@ -59,9 +59,9 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [0xNyk/council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) | 主要能力：AI Agent 建構與編排、Agent Skill／提示工作流。依專案描述：Structured multi-perspective deliberation for hard decisions. Run full councils, focused triads, or duo debates across Claude Code, Codex, Gemini CLI, and OpenCode. | 開發與程式碼工具、AI Agent 建構與編排、Agent Skill／提示工作流 | Agent Skill 安裝、Shell 腳本／設定檔 | 4/5（高） | 活躍 | 中 |
 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 主要能力：Agent Skill／提示工作流、程式開發、理解與審查。依專案描述：Production-grade engineering skills for AI coding agents. | 開發與程式碼工具、Agent Skill／提示工作流、程式開發、理解與審查 | Agent Skill 安裝、Node.js／JavaScript | 4/5（高） | 活躍 | 中 |
 | [anthropics/skills](https://github.com/anthropics/skills) | 主要能力：Agent Skill／提示工作流。依專案描述：Public repository for Agent Skills | Agent Skill／提示工作流 | Agent Skill 安裝、Python 環境 | 4/5（高） | 活躍 | 中 |
-| [b-nnett/codex-plusplus](https://github.com/b-nnett/codex-plusplus) | 主要能力：一般工具／待確認。依專案描述：Codex++ tweak system for the Codex desktop app | 一般工具／待確認 | Node.js／JavaScript | 3/5（中等） | 已封存 | 高 |
+| [b-nnett/codex-plusplus](https://github.com/b-nnett/codex-plusplus) | 主要能力：一般工具／待確認。依專案描述：Codex++ tweak system for the Codex desktop app | 一般工具／待確認 | Node.js／JavaScript | 3/5（中等） | 活躍 | 無明顯提示 |
 | [binghe1980/AI-Canvas](https://github.com/binghe1980/AI-Canvas) | 主要能力：一般工具／待確認。依專案描述：Codex-integrated infinite canvas for AI image generation, annotation, and iterative editing. | 一般工具／待確認 | Node.js／TypeScript | 3/5（中等） | 活躍 | 資訊 |
-| [browser-use/browser-use](https://github.com/browser-use/browser-use) | 主要能力：AI Agent 建構與編排、瀏覽器操作與資料蒐集、工作流程自動化。依專案描述：Agents that use the browser. | 自動化與整合、Web、桌面與平台、AI Agent 建構與編排、瀏覽器操作與資料蒐集、工作流程自動化 | Python 環境 | 4/5（高） | 活躍 | 資訊 |
+| [browser-use/browser-use](https://github.com/browser-use/browser-use) | 主要能力：瀏覽器操作與資料蒐集、AI Agent 建構與編排、MCP／工具整合。依專案描述：Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API. | 自動化與整合、Web、桌面與平台、瀏覽器操作與資料蒐集、AI Agent 建構與編排、MCP／工具整合 | MCP server 設定、Python 環境 | 4/5（高） | 活躍 | 高 |
 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 主要能力：MCP／工具整合、瀏覽器操作與資料蒐集。依專案描述：The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra | 自動化與整合、Web、桌面與平台、MCP／工具整合、瀏覽器操作與資料蒐集 | MCP server 設定、Node.js／TypeScript | 3/5（中等） | 活躍 | 資訊 |
 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | 主要能力：AI Agent 建構與編排、MCP／工具整合、工作流程自動化。依專案描述：Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agen… | 自動化與整合、Web、桌面與平台、AI Agent 建構與編排、MCP／工具整合、工作流程自動化 | MCP server 設定、Node.js／TypeScript | 4/5（高） | 活躍 | 資訊 |
 | [DavidBB-L/cinema-manager](https://github.com/DavidBB-L/cinema-manager) | 主要能力：Agent Skill／提示工作流。依專案描述：Hermes Agent skill - Movie/TV resource search + Quark cloud drive auto-save | Agent Skill／提示工作流 | Agent Skill 安裝、Python 環境 | 4/5（高） | 活躍 | 中 |
@@ -127,6 +127,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | Repository | 能力摘要 | 多標籤 | 安裝推定 | ChatGPT | 維護 | 最高風險 |
 |---|---|---|---|---:|---|---|
 | [ahujasid/camera-to-blender](https://github.com/ahujasid/camera-to-blender) | 主要能力：圖片生成、編輯與參考。依專案描述：Take a photo of real objects, and paste them in Blender | 家庭、自動化與 IoT、圖片生成、編輯與參考 | Node.js／JavaScript | 2/5（有限） | 活躍 | 高 |
+| [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) | 主要能力：Agent Skill／提示工作流、圖片生成、編輯與參考。依專案描述：Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw | AI Agent 與 Agent Skills、Agent Skill／提示工作流、圖片生成、編輯與參考 | Agent Skill 安裝、Python 環境 | 4/5（高） | 活躍 | 中 |
 | [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) | 主要能力：圖片生成、編輯與參考。依專案描述：A Patch for GIMP 3+ for Photoshop Users | 圖片生成、編輯與參考 | Python 環境 | 3/5（中等） | 活躍 | 無明顯提示 |
 | [EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts) | 主要能力：圖片生成、編輯與參考、範例、模板與資源索引。依專案描述：GPT-Image-2 API and Prompts | 資源清單與參考素材、自動化與整合、圖片生成、編輯與參考、範例、模板與資源索引 | 直接閱讀／複製範例、Python 環境 | 4/5（高） | 活躍 | 中 |
 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 主要能力：工作流程自動化、圖片生成、編輯與參考、Agent Skill／提示工作流。依專案描述：Prompt as Code \| GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。 | 自動化與整合、AI Agent 與 Agent Skills、資源清單與參考素材、工作流程自動化、圖片生成、編輯與參考 | 直接閱讀／複製範例、Agent Skill 安裝 | 4/5（高） | 活躍 | 資訊 |
