@@ -3,7 +3,7 @@
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
 - Repository 數：**225**
-- 產生時間（UTC）：`2026-10-15T08:13:01.488067Z`
+- 產生時間（UTC）：`2026-10-16T08:06:02.695612Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -29,12 +29,12 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 
 | 主分類 | Repository 數 |
 |---|---:|
-| [AI Agent 與 Agent Skills](#category-ai-agents) | 38 |
+| [AI Agent 與 Agent Skills](#category-ai-agents) | 39 |
 | [知識、研究與記憶](#category-knowledge-research) | 29 |
 | [影片與媒體製作](#category-video-media) | 18 |
 | [設計、UI 與前端](#category-design-ui) | 17 |
 | [簡報與文件](#category-presentation-docs) | 16 |
-| [待分類](#category-uncategorized) | 14 |
+| [待分類](#category-uncategorized) | 13 |
 | [資安、隱私與稽核](#category-security-privacy) | 13 |
 | [影像與創意生成](#category-image-creative) | 12 |
 | [資料、機器學習與分析](#category-data-ai) | 11 |
@@ -65,6 +65,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 主要能力：MCP／工具整合、瀏覽器操作與資料蒐集。依專案描述：The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra | 自動化與整合、Web、桌面與平台、MCP／工具整合、瀏覽器操作與資料蒐集 | MCP server 設定、Node.js／TypeScript | 3/5（中等） | 活躍 | 資訊 |
 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | 主要能力：AI Agent 建構與編排、MCP／工具整合、工作流程自動化。依專案描述：Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agen… | 自動化與整合、Web、桌面與平台、AI Agent 建構與編排、MCP／工具整合、工作流程自動化 | MCP server 設定、Node.js／TypeScript | 4/5（高） | 活躍 | 資訊 |
 | [DavidBB-L/cinema-manager](https://github.com/DavidBB-L/cinema-manager) | 主要能力：Agent Skill／提示工作流。依專案描述：Hermes Agent skill - Movie/TV resource search + Quark cloud drive auto-save | Agent Skill／提示工作流 | Agent Skill 安裝、Python 環境 | 4/5（高） | 活躍 | 中 |
+| [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | 主要能力：MCP／工具整合。依專案描述：Draw and edit draw.io diagrams by chatting with an AI. Web app, desktop app, and an MCP server for Claude Code, Cursor, Codex and VS Code. | Web、桌面與平台、MCP／工具整合 | MCP server 設定、Node.js／TypeScript | 3/5（中等） | 活躍 | 中 |
 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 主要能力：Agent Skill／提示工作流、AI Agent 建構與編排、程式開發、理解與審查。依專案描述：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. | 開發與程式碼工具、Agent Skill／提示工作流、AI Agent 建構與編排、程式開發、理解與審查 | Agent Skill 安裝、Node.js／JavaScript | 4/5（高） | 活躍 | 中 |
 | [Dimillian/Skills](https://github.com/Dimillian/Skills) | 主要能力：Agent Skill／提示工作流。依專案描述：My Codex Skills | Agent Skill／提示工作流 | Agent Skill 安裝、Shell 腳本／設定檔 | 4/5（高） | 近期維護 | 無明顯提示 |
 | [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill) | 主要能力：Agent Skill／提示工作流。依專案描述：dontbesilent 的商业诊断 Skills | Agent Skill／提示工作流 | Agent Skill 安裝、Python 環境 | 4/5（高） | 活躍 | 中 |
@@ -180,7 +181,6 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [nuxt/nuxt](https://github.com/nuxt/nuxt) | 主要能力：一般工具／待確認。依專案描述：The full-stack Vue framework. | 一般工具／待確認 | Node.js／TypeScript | 3/5（中等） | 活躍 | 無明顯提示 |
 | [Paidax01/math-curve-loaders](https://github.com/Paidax01/math-curve-loaders) | 主要能力：一般工具／待確認。依專案描述：A lightweight gallery of mathematical curve based loading animations with modal previews, formulas, and copyable code snippets. | 一般工具／待確認 | Node.js／JavaScript | 3/5（中等） | 近期維護 | 中 |
 | [Sac-Y/Jev-cu](https://github.com/Sac-Y/Jev-cu) | 主要能力：一般工具／待確認。metadata 描述不足，需閱讀 README 進一步確認。 | 一般工具／待確認 | Node.js／JavaScript | 3/5（中等） | 活躍 | 低 |
-| [YIAN6557/eian-collage-broll](https://github.com/YIAN6557/eian-collage-broll) | 主要能力：一般工具／待確認。metadata 描述不足，需閱讀 README 進一步確認。 | 一般工具／待確認 | 依 README 判斷 | 3/5（中等） | 活躍 | 低 |
 | [zhongerxin/Cowart](https://github.com/zhongerxin/Cowart) | 主要能力：一般工具／待確認。metadata 描述不足，需閱讀 README 進一步確認。 | 一般工具／待確認 | Node.js／JavaScript | 3/5（中等） | 活躍 | 低 |
 
 <a id="category-culture-divination"></a>
@@ -233,7 +233,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [aliyun/hermes-tablestore-memory](https://github.com/aliyun/hermes-tablestore-memory) | 主要能力：知識庫、RAG 與記憶。metadata 描述不足，需閱讀 README 進一步確認。 | 知識庫、RAG 與記憶 | Python 環境 | 3/5（中等） | 活躍 | 低 |
 | [Ar9av/obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) | 主要能力：知識庫、RAG 與記憶、Agent Skill／提示工作流、MCP／工具整合。依專案描述：Framework for AI agents to build and maintain a digital brain through Obsidian wiki \| Memory System for Agents | AI Agent 與 Agent Skills、資料、機器學習與分析、知識庫、RAG 與記憶、Agent Skill／提示工作流、MCP／工具整合 | Agent Skill 安裝、MCP server 設定 | 4/5（高） | 活躍 | 中 |
 | [beltromatti/get-it](https://github.com/beltromatti/get-it) | 主要能力：知識庫、RAG 與記憶、研究、學習與教學、簡報與文件生成。依專案描述：Read it. See it. Get it. Built at GDG AI Hack Milan 2026 for "Learn Different" track. | 學習與教學、AI Agent 與 Agent Skills、資料、機器學習與分析、Web、桌面與平台、簡報與文件 | Node.js／JavaScript | 4/5（高） | 活躍 | 中 |
-| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 主要能力：程式開發、理解與審查、MCP／工具整合、知識庫、RAG 與記憶。依專案描述：High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer toke… | 開發與程式碼工具、AI Agent 與 Agent Skills、資料、機器學習與分析、程式開發、理解與審查、MCP／工具整合 | MCP server 設定、原生編譯／Release | 4/5（高） | 活躍 | 中 |
+| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 主要能力：程式開發、理解與審查、MCP／工具整合、知識庫、RAG 與記憶。依專案描述：High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 162 languages, sub-ms queries, 99% fewer toke… | 開發與程式碼工具、AI Agent 與 Agent Skills、資料、機器學習與分析、程式開發、理解與審查、MCP／工具整合 | MCP server 設定、原生編譯／Release | 4/5（高） | 活躍 | 中 |
 | [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | 主要能力：知識庫、RAG 與記憶、程式開發、理解與審查、Agent Skill／提示工作流。依專案描述：Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Co… | AI Agent 與 Agent Skills、開發與程式碼工具、資料、機器學習與分析、知識庫、RAG 與記憶、程式開發、理解與審查 | Agent Skill 安裝、Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
 | [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) | 主要能力：知識庫、RAG 與記憶、範例、模板與資源索引。依專案描述：Google Cloud Knowledge Catalog Tools and Samples | 資源清單與參考素材、知識庫、RAG 與記憶、範例、模板與資源索引 | 直接閱讀／複製範例、Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 主要能力：程式開發、理解與審查、知識庫、RAG 與記憶、AI Agent 建構與編排。依專案描述：Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: loca… | AI Agent 與 Agent Skills、開發與程式碼工具、資料、機器學習與分析、程式開發、理解與審查、知識庫、RAG 與記憶 | Agent Skill 安裝、MCP server 設定 | 4/5（高） | 活躍 | 中 |
@@ -360,13 +360,13 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 主要能力：Agent Skill／提示工作流、資料分析、視覺化與預測、設計系統與原型製作。依專案描述：Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. | AI Agent 與 Agent Skills、設計、UI 與前端、Web、桌面與平台、Agent Skill／提示工作流、資料分析、視覺化與預測 | Agent Skill 安裝、靜態網頁／Web 專案 | 4/5（高） | 活躍 | 中 |
 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 主要能力：一般工具／待確認。依專案描述：The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world. | 自動化與整合、一般工具／待確認 | Python 環境 | 2/5（有限） | 活躍 | 高 |
 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 主要能力：瀏覽器操作與資料蒐集、MCP／工具整合、工作流程自動化。依專案描述：🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here fo… | 自動化與整合、AI Agent 與 Agent Skills、Web、桌面與平台、瀏覽器操作與資料蒐集、MCP／工具整合 | MCP server 設定、Python 環境 | 4/5（高） | 活躍 | 高 |
-| [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | 主要能力：資料分析、視覺化與預測。依專案描述：A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visua… | 生產力與工作管理、Web、桌面與平台、資料分析、視覺化與預測 | Node.js／TypeScript | 3/5（中等） | 活躍 | 資訊 |
 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 主要能力：瀏覽器操作與資料蒐集、AI Agent 建構與編排。依專案描述：Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥 | AI Agent 與 Agent Skills、自動化與整合、Web、桌面與平台、瀏覽器操作與資料蒐集、AI Agent 建構與編排 | Node.js／TypeScript | 3/5（中等） | 活躍 | 高 |
 | [google-research/timesfm](https://github.com/google-research/timesfm) | 主要能力：資料分析、視覺化與預測、研究、學習與教學。依專案描述：TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. | 知識、研究與記憶、資料分析、視覺化與預測、研究、學習與教學 | Python 環境 | 3/5（中等） | 活躍 | 資訊 |
 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 主要能力：工作流程自動化、MCP／工具整合、本機或自架應用。依專案描述：Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | 自動化與整合、AI Agent 與 Agent Skills、開發與程式碼工具、Web、桌面與平台、工作流程自動化 | MCP server 設定、容器／自架部署 | 4/5（高） | 活躍 | 中 |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 主要能力：本機或自架應用。依專案描述：The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 | 本機或自架應用 | Node.js／TypeScript | 3/5（中等） | 活躍 | 資訊 |
 | [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | 主要能力：一般工具／待確認。依專案描述：A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks. | Web、桌面與平台、一般工具／待確認 | Node.js／TypeScript | 3/5（中等） | 活躍 | 無明顯提示 |
 | [supabase/supabase](https://github.com/supabase/supabase) | 主要能力：一般工具／待確認。依專案描述：The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. | Web、桌面與平台、自動化與整合、一般工具／待確認 | Node.js／TypeScript | 3/5（中等） | 活躍 | 資訊 |
+| [YIAN6557/eian-collage-broll](https://github.com/YIAN6557/eian-collage-broll) | 主要能力：Agent Skill／提示工作流、工作流程自動化。依專案描述：网点纸张拼贴风 B-roll 工作流：配音 → 视觉隐喻 → 动画素材包 · Editorial paper-collage B-roll workflow for AI agents | AI Agent 與 Agent Skills、自動化與整合、Agent Skill／提示工作流、工作流程自動化 | Agent Skill 安裝 | 4/5（高） | 活躍 | 中 |
 | [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) | 主要能力：程式開發、理解與審查、工作流程自動化。依專案描述：Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns. | AI Agent 與 Agent Skills、開發與程式碼工具、自動化與整合、程式開發、理解與審查、工作流程自動化 | Python 環境 | 4/5（高） | 活躍 | 中 |
 
 <a id="category-reference-collection"></a>
