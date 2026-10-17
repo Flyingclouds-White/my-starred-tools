@@ -3,7 +3,7 @@
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
 - Repository 數：**225**
-- 產生時間（UTC）：`2026-10-16T08:06:02.695612Z`
+- 產生時間（UTC）：`2026-10-17T07:43:32.855226Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -87,7 +87,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [obra/superpowers](https://github.com/obra/superpowers) | 主要能力：Agent Skill／提示工作流、AI Agent 建構與編排、程式開發、理解與審查。依專案描述：An agentic skills framework & software development methodology that works. | 開發與程式碼工具、Agent Skill／提示工作流、AI Agent 建構與編排、程式開發、理解與審查 | Agent Skill 安裝、Shell 腳本／設定檔 | 4/5（高） | 活躍 | 資訊 |
 | [ollama/ollama](https://github.com/ollama/ollama) | 主要能力：一般工具／待確認。依專案描述：Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. | 一般工具／待確認 | Go 專案 | 3/5（中等） | 活躍 | 資訊 |
 | [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) | 主要能力：Agent Skill／提示工作流。依專案描述：Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。 | Agent Skill／提示工作流 | Agent Skill 安裝、Python 環境 | 4/5（高） | 活躍 | 中 |
-| [stablyai/orca](https://github.com/stablyai/orca) | 主要能力：AI Agent 建構與編排、程式開發、理解與審查。依專案描述：Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. | 開發與程式碼工具、AI Agent 建構與編排、程式開發、理解與審查 | Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
+| [stablyai/orca](https://github.com/stablyai/orca) | 主要能力：AI Agent 建構與編排、程式開發、理解與審查、工作流程自動化。依專案描述：Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. | 開發與程式碼工具、自動化與整合、AI Agent 建構與編排、程式開發、理解與審查、工作流程自動化 | Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
 | [TanShilongMario/clipshot](https://github.com/TanShilongMario/clipshot) | 主要能力：一般工具／待確認。依專案描述：A Skill for creating clipshot | 一般工具／待確認 | 依 README 判斷 | 3/5（中等） | 活躍 | 無明顯提示 |
 | [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | 主要能力：監控、可觀測性與情報、MCP／工具整合、工作流程自動化。依專案描述：📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. \| 用 AI 构建你专属的新闻雷达 | 自動化與整合、監控、可觀測性與情報、MCP／工具整合、工作流程自動化 | MCP server 設定、Python 環境 | 4/5（高） | 活躍 | 資訊 |
 | [typesafe-ai/skills](https://github.com/typesafe-ai/skills) | 主要能力：Agent Skill／提示工作流。依專案描述：Agent skills for building with TypeSafe's System One API | 自動化與整合、Agent Skill／提示工作流 | Agent Skill 安裝 | 4/5（高） | 活躍 | 中 |
@@ -317,7 +317,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 主要能力：設計系統與原型製作、Agent Skill／提示工作流。依專案描述：An AI skill that provides design intelligence for building professional UI/UX across multiple platforms. | AI Agent 與 Agent Skills、Web、桌面與平台、設計系統與原型製作、Agent Skill／提示工作流 | Agent Skill 安裝、Python 環境 | 4/5（高） | 活躍 | 中 |
 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 主要能力：設計系統與原型製作、Agent Skill／提示工作流、本機或自架應用。依專案描述：The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create prototypes, websites, apps, dashboards, presentations, images, and videos with your tea… | AI Agent 與 Agent Skills、開發與程式碼工具、影片與媒體製作、簡報與文件、生產力與工作管理 | Agent Skill 安裝、Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
 | [opitaru-sys/deck-dna](https://github.com/opitaru-sys/deck-dna) | 主要能力：設計系統與原型製作、簡報與文件生成。依專案描述：A Claude skill that builds PPTX decks matching your real designer decks: extracted design DNA, measured word budget, render-QA loop. | AI Agent 與 Agent Skills、簡報與文件、設計系統與原型製作、簡報與文件生成 | 依 README 判斷 | 4/5（高） | 活躍 | 中 |
-| [Paidax01/web-to-design-md](https://github.com/Paidax01/web-to-design-md) | 主要能力：設計系統與原型製作、簡報與文件生成。依專案描述：Convert any official website to design.md document | 簡報與文件、知識、研究與記憶、設計系統與原型製作、簡報與文件生成 | Node.js／JavaScript | 4/5（高） | 活躍 | 中 |
+| [Paidax01/web-to-design-md](https://github.com/Paidax01/web-to-design-md) | 主要能力：設計系統與原型製作、簡報與文件生成。依專案描述：Convert any official website to design.md document | 簡報與文件、知識、研究與記憶、設計系統與原型製作、簡報與文件生成 | Node.js／JavaScript | 4/5（高） | 近期維護 | 中 |
 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 主要能力：設計系統與原型製作。依專案描述：An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | 設計系統與原型製作 | Rust 專案 | 3/5（中等） | 活躍 | 無明顯提示 |
 | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 主要能力：設計系統與原型製作、範例、模板與資源索引、程式開發、理解與審查。依專案描述：A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. | 資源清單與參考素材、開發與程式碼工具、設計系統與原型製作、範例、模板與資源索引、程式開發、理解與審查 | 直接閱讀／複製範例 | 4/5（高） | 活躍 | 資訊 |
 
