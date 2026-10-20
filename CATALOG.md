@@ -3,7 +3,7 @@
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
 - Repository 數：**226**
-- 產生時間（UTC）：`2026-10-19T08:46:03.154924Z`
+- 產生時間（UTC）：`2026-10-20T08:26:47.784981Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -154,7 +154,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [duixcom/Duix-Avatar](https://github.com/duixcom/Duix-Avatar) | 主要能力：影片生成、剪輯與轉檔。依專案描述：🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning. | 影片生成、剪輯與轉檔 | 原生編譯／Release | 3/5（中等） | 近期維護 | 中 |
 | [Hao0321/video-autopilot-kit](https://github.com/Hao0321/video-autopilot-kit) | 主要能力：影片生成、剪輯與轉檔、內容企劃與社群發布、工作流程自動化。依專案描述：Fill-in-your-own-data framework for YouTube / short-form video automation: CapCut JSON + ffmpeg tooling + an onboarding questionnaire. Ships with zero private data. | 社群、行銷與內容、自動化與整合、資料、機器學習與分析、影片生成、剪輯與轉檔、內容企劃與社群發布 | Python 環境 | 4/5（高） | 活躍 | 資訊 |
 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 主要能力：影片生成、剪輯與轉檔、內容企劃與社群發布、工作流程自動化。依專案描述：利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. | 自動化與整合、語音、音訊與轉錄、社群、行銷與內容、AI Agent 與 Agent Skills、影片生成、剪輯與轉檔 | Python 環境 | 4/5（高） | 活躍 | 資訊 |
-| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 主要能力：影片生成、剪輯與轉檔、MCP／工具整合。依專案描述：Write HTML. Render video. Built for agents. | AI Agent 與 Agent Skills、Web、桌面與平台、影片生成、剪輯與轉檔、MCP／工具整合 | MCP server 設定、Node.js／TypeScript | 3/5（中等） | 活躍 | 資訊 |
+| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 主要能力：AI Agent 建構與編排、影片生成、剪輯與轉檔、MCP／工具整合。依專案描述：Write HTML. Render video. Built for agents. | AI Agent 與 Agent Skills、資料、機器學習與分析、Web、桌面與平台、AI Agent 建構與編排、影片生成、剪輯與轉檔 | MCP server 設定、Node.js／TypeScript | 3/5（中等） | 活躍 | 中 |
 | [HKUDS/ViMax](https://github.com/HKUDS/ViMax) | 主要能力：影片生成、剪輯與轉檔、AI Agent 建構與編排。依專案描述："ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)" | AI Agent 與 Agent Skills、影片生成、剪輯與轉檔、AI Agent 建構與編排 | Python 環境 | 3/5（中等） | 活躍 | 中 |
 | [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | 主要能力：影片生成、剪輯與轉檔、AI Agent 建構與編排、工作流程自動化。依專案描述：Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views. | AI Agent 與 Agent Skills、自動化與整合、開發與程式碼工具、影片生成、剪輯與轉檔、AI Agent 建構與編排 | Node.js／TypeScript | 3/5（中等） | 活躍 | 高 |
 | [NarratorAI-Studio/narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) | 主要能力：Agent Skill／提示工作流、影片生成、剪輯與轉檔、AI Agent 建構與編排。依專案描述：AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用 | AI Agent 與 Agent Skills、社群、行銷與內容、Agent Skill／提示工作流、影片生成、剪輯與轉檔、AI Agent 建構與編排 | Agent Skill 安裝 | 4/5（高） | 活躍 | 中 |
@@ -255,7 +255,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | 主要能力：本機或自架應用、MCP／工具整合、知識庫、RAG 與記憶。依專案描述：User-friendly AI Interface (Supports Ollama, OpenAI API, ...) | AI Agent 與 Agent Skills、Web、桌面與平台、自動化與整合、本機或自架應用、MCP／工具整合 | MCP server 設定、容器／自架部署 | 2/5（有限） | 活躍 | 高 |
 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 主要能力：Agent Skill／提示工作流、知識庫、RAG 與記憶、範例、模板與資源索引。依專案描述：100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. | AI Agent 與 Agent Skills、資源清單與參考素材、Agent Skill／提示工作流、知識庫、RAG 與記憶、範例、模板與資源索引 | 直接閱讀／複製範例、Agent Skill 安裝 | 4/5（高） | 活躍 | 資訊 |
 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 主要能力：AI Agent 建構與編排、知識庫、RAG 與記憶、Agent Skill／提示工作流。依專案描述：Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back… | AI Agent 與 Agent Skills、AI Agent 建構與編排、知識庫、RAG 與記憶、Agent Skill／提示工作流 | Agent Skill 安裝、Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
-| [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 主要能力：瀏覽器操作與資料蒐集、AI Agent 建構與編排、MCP／工具整合。依專案描述：Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. | AI Agent 與 Agent Skills、自動化與整合、資料、機器學習與分析、Web、桌面與平台、瀏覽器操作與資料蒐集 | MCP server 設定、Python 環境 | 3/5（中等） | 活躍 | 高 |
+| [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 主要能力：瀏覽器操作與資料蒐集、AI Agent 建構與編排、MCP／工具整合。依專案描述：Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord… | AI Agent 與 Agent Skills、自動化與整合、資料、機器學習與分析、Web、桌面與平台、瀏覽器操作與資料蒐集 | MCP server 設定、Python 環境 | 3/5（中等） | 活躍 | 高 |
 | [xr843/Master-skill](https://github.com/xr843/Master-skill) | 主要能力：Agent Skill／提示工作流、知識庫、RAG 與記憶、文化、宗教與命理內容。依專案描述：FoJin-powered Buddhist AI persona framework — source-grounded, boundary-aware, fidelity-tested, runtime-ready. | AI Agent 與 Agent Skills、文化、命理與宗教、Agent Skill／提示工作流、知識庫、RAG 與記憶、文化、宗教與命理內容 | Agent Skill 安裝、Python 環境 | 4/5（高） | 活躍 | 中 |
 
 <a id="category-social-content"></a>

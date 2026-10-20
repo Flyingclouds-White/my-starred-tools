@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-19T08:46:03.154924Z",
+  "generated_at": "2026-10-20T08:26:47.784981Z",
   "source": {
     "file": "data/starred-repositories.json",
     "repository_count": 226,
@@ -29,7 +29,7 @@
       "knowledge-research": 47,
       "automation-integration": 41,
       "developer-tools": 41,
-      "data-ai": 30,
+      "data-ai": 31,
       "design-ui": 26,
       "presentation-docs": 23,
       "reference-collection": 23,
@@ -48,7 +48,7 @@
     },
     "capabilities": {
       "agent-skill": 68,
-      "agent-orchestration": 44,
+      "agent-orchestration": 45,
       "code-quality": 31,
       "general-resource": 30,
       "knowledge-memory": 29,
@@ -102,8 +102,8 @@
       "2": 25
     },
     "highest_risk_levels": {
-      "medium": 106,
-      "info": 50,
+      "medium": 107,
+      "info": 49,
       "high": 45,
       "none": 21,
       "low": 4
@@ -323,6 +323,7 @@
         "google-research/timesfm",
         "Graphify-Labs/graphify",
         "Hao0321/video-autopilot-kit",
+        "heygen-com/hyperframes",
         "hugohe3/ppt-master",
         "langchain-ai/langgraph",
         "microsoft/qlib",
@@ -741,6 +742,7 @@
         "firecrawl/firecrawl",
         "Graphify-Labs/graphify",
         "Hao0321/claude-skill-social-post",
+        "heygen-com/hyperframes",
         "HKUDS/ViMax",
         "hugohe3/ppt-master",
         "hypit-ai/hypit",
@@ -2057,7 +2059,6 @@
         "google/skills",
         "Hao0321/video-autopilot-kit",
         "harry0703/MoneyPrinterTurbo",
-        "heygen-com/hyperframes",
         "heyjunpenn/awesome-jev",
         "hugohe3/ppt-master",
         "icgma/slide-skill",
@@ -2143,6 +2144,7 @@
         "GoogleCloudPlatform/knowledge-catalog",
         "GordenSun/GordenSuperPPTSkills",
         "Graphify-Labs/graphify",
+        "heygen-com/hyperframes",
         "HKUDS/ViMax",
         "hyhmrright/brooks-lint",
         "JimLiu/baoyu-design",
@@ -2252,6 +2254,7 @@
         "firecrawl/firecrawl",
         "Graphify-Labs/graphify",
         "Hao0321/claude-skill-social-post",
+        "heygen-com/hyperframes",
         "HKUDS/ViMax",
         "hugohe3/ppt-master",
         "hypit-ai/hypit",
@@ -2985,6 +2988,7 @@
         "google-research/timesfm",
         "Graphify-Labs/graphify",
         "Hao0321/video-autopilot-kit",
+        "heygen-com/hyperframes",
         "hugohe3/ppt-master",
         "langchain-ai/langgraph",
         "microsoft/qlib",
@@ -3914,7 +3918,6 @@
         "google/skills",
         "Hao0321/video-autopilot-kit",
         "harry0703/MoneyPrinterTurbo",
-        "heygen-com/hyperframes",
         "heyjunpenn/awesome-jev",
         "hugohe3/ppt-master",
         "icgma/slide-skill",
@@ -4000,6 +4003,7 @@
         "GoogleCloudPlatform/knowledge-catalog",
         "GordenSun/GordenSuperPPTSkills",
         "Graphify-Labs/graphify",
+        "heygen-com/hyperframes",
         "HKUDS/ViMax",
         "hyhmrright/brooks-lint",
         "JimLiu/baoyu-design",
@@ -4264,6 +4268,7 @@
         "Fincept-Corporation/FinceptTerminal",
         "firecrawl/firecrawl",
         "Graphify-Labs/graphify",
+        "heygen-com/hyperframes",
         "hypit-ai/hypit",
         "JCodesMore/ai-website-cloner-template",
         "langchain-ai/langgraph",
@@ -4747,6 +4752,7 @@
         "Egonex-AI/Understand-Anything",
         "Graphify-Labs/graphify",
         "Hao0321/claude-skill-social-post",
+        "heygen-com/hyperframes",
         "hyhmrright/brooks-lint",
         "JCodesMore/ai-website-cloner-template",
         "JimLiu/baoyu-design",
@@ -5710,6 +5716,7 @@
         "firecrawl/firecrawl"
       ],
       "topic:html-to-video": [
+        "heygen-com/hyperframes",
         "nexu-io/html-video"
       ],
       "topic:html5": [
@@ -6170,6 +6177,7 @@
         "moorcheh-ai/memanto"
       ],
       "topic:motion-graphics": [
+        "heygen-com/hyperframes",
         "YIAN6557/eian-collage-broll"
       ],
       "topic:mp4": [
@@ -7331,7 +7339,6 @@
         "VoltAgent/awesome-design-md"
       ],
       "topic:video": [
-        "heygen-com/hyperframes",
         "hypit-ai/hypit",
         "nexu-io/html-video"
       ],
@@ -7348,6 +7355,9 @@
       ],
       "topic:video-editing": [
         "hypit-ai/hypit"
+      ],
+      "topic:video-editor": [
+        "heygen-com/hyperframes"
       ],
       "topic:video-generation": [
         "calesthio/OpenMontage",
@@ -7614,12 +7624,12 @@
         "prompt-engineering",
         "structured-debate"
       ],
-      "stars": 4674,
-      "forks": 454,
+      "stars": 4682,
+      "forks": 461,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-07-02T22:05:24Z",
-      "updated_at": "2026-10-19T08:45:20Z",
+      "updated_at": "2026-10-20T08:00:33Z",
       "pushed_at": "2026-10-19T05:29:20Z",
       "archived": false,
       "disabled": false,
@@ -7717,8 +7727,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 0,
-        "reason": "距離最近 push 約 0 天。"
+        "days_since_push": 1,
+        "reason": "距離最近 push 約 1 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -7778,12 +7788,12 @@
         "cursor",
         "skills"
       ],
-      "stars": 108357,
-      "forks": 11291,
+      "stars": 108736,
+      "forks": 11338,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-08T16:31:39Z",
-      "updated_at": "2026-10-19T08:40:25Z",
+      "updated_at": "2026-10-20T08:24:24Z",
       "pushed_at": "2026-10-13T20:24:07Z",
       "archived": false,
       "disabled": false,
@@ -7879,8 +7889,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 5,
-        "reason": "距離最近 push 約 5 天。"
+        "days_since_push": 6,
+        "reason": "距離最近 push 約 6 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -7927,12 +7937,12 @@
       "topics": [
         "agent-skills"
       ],
-      "stars": 182083,
-      "forks": 21582,
+      "stars": 182340,
+      "forks": 21603,
       "license": null,
       "default_branch": "main",
       "starred_at": "2026-06-16T07:18:42Z",
-      "updated_at": "2026-10-19T08:39:34Z",
+      "updated_at": "2026-10-20T08:26:16Z",
       "pushed_at": "2026-10-09T18:45:52Z",
       "archived": false,
       "disabled": false,
@@ -8008,8 +8018,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 9,
-        "reason": "距離最近 push 約 9 天。"
+        "days_since_push": 10,
+        "reason": "距離最近 push 約 10 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -8053,12 +8063,12 @@
       "description": "Codex++ tweak system for the Codex desktop app",
       "language": "JavaScript",
       "topics": [],
-      "stars": 3760,
+      "stars": 3761,
       "forks": 212,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-20T17:47:20Z",
-      "updated_at": "2026-10-18T21:14:49Z",
+      "updated_at": "2026-10-19T22:21:36Z",
       "pushed_at": "2026-10-15T18:50:49Z",
       "archived": false,
       "disabled": false,
@@ -8117,8 +8127,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 3,
-        "reason": "距離最近 push 約 3 天。"
+        "days_since_push": 4,
+        "reason": "距離最近 push 約 4 天。"
       },
       "risks": {
         "highest_level": "none",
@@ -8206,8 +8216,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 116,
-        "reason": "距離最近 push 約 116 天。"
+        "days_since_push": 117,
+        "reason": "距離最近 push 約 117 天。"
       },
       "risks": {
         "highest_level": "info",
@@ -8256,13 +8266,13 @@
         "web-automation",
         "web-scraping"
       ],
-      "stars": 118471,
-      "forks": 13151,
+      "stars": 118594,
+      "forks": 13163,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-16T06:47:11Z",
-      "updated_at": "2026-10-19T08:26:21Z",
-      "pushed_at": "2026-10-17T20:02:49Z",
+      "updated_at": "2026-10-20T08:23:33Z",
+      "pushed_at": "2026-10-20T06:00:24Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -8387,8 +8397,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 1,
-        "reason": "距離最近 push 約 1 天。"
+        "days_since_push": 0,
+        "reason": "距離最近 push 約 0 天。"
       },
       "risks": {
         "highest_level": "high",
@@ -8468,12 +8478,12 @@
         "vision",
         "vlm"
       ],
-      "stars": 39324,
-      "forks": 3994,
+      "stars": 39341,
+      "forks": 3997,
       "license": "Apache-2.0",
       "default_branch": "main",
       "starred_at": "2026-06-16T18:20:12Z",
-      "updated_at": "2026-10-19T08:23:38Z",
+      "updated_at": "2026-10-20T06:42:57Z",
       "pushed_at": "2026-10-09T01:29:53Z",
       "archived": false,
       "disabled": false,
@@ -8568,8 +8578,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 10,
-        "reason": "距離最近 push 約 10 天。"
+        "days_since_push": 11,
+        "reason": "距離最近 push 約 11 天。"
       },
       "risks": {
         "highest_level": "info",
@@ -8625,13 +8635,13 @@
         "generative-ui",
         "mcp"
       ],
-      "stars": 6655,
-      "forks": 919,
+      "stars": 6696,
+      "forks": 931,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-09-22T21:38:04Z",
-      "updated_at": "2026-10-19T08:27:32Z",
-      "pushed_at": "2026-10-19T02:47:54Z",
+      "updated_at": "2026-10-20T08:17:31Z",
+      "pushed_at": "2026-10-19T23:41:15Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -8794,12 +8804,12 @@
       "description": "Hermes Agent skill - Movie/TV resource search + Quark cloud drive auto-save",
       "language": "Python",
       "topics": [],
-      "stars": 271,
+      "stars": 272,
       "forks": 18,
       "license": null,
       "default_branch": "main",
       "starred_at": "2026-06-30T18:13:50Z",
-      "updated_at": "2026-10-16T10:28:09Z",
+      "updated_at": "2026-10-20T06:07:03Z",
       "pushed_at": "2026-06-10T15:46:59Z",
       "archived": false,
       "disabled": false,
@@ -8868,8 +8878,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 130,
-        "reason": "距離最近 push 約 130 天。"
+        "days_since_push": 131,
+        "reason": "距離最近 push 約 131 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -8921,13 +8931,13 @@
         "mcp-server",
         "nextjs"
       ],
-      "stars": 36320,
-      "forks": 3850,
+      "stars": 36329,
+      "forks": 3848,
       "license": "Apache-2.0",
       "default_branch": "main",
       "starred_at": "2026-06-06T17:23:08Z",
-      "updated_at": "2026-10-19T07:50:17Z",
-      "pushed_at": "2026-10-18T08:22:16Z",
+      "updated_at": "2026-10-20T08:19:12Z",
+      "pushed_at": "2026-10-19T08:59:56Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -9009,8 +9019,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 1,
-        "reason": "距離最近 push 約 1 天。"
+        "days_since_push": 0,
+        "reason": "距離最近 push 約 0 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -9073,12 +9083,12 @@
         "prompt-engineering",
         "yagni"
       ],
-      "stars": 167375,
-      "forks": 9085,
+      "stars": 168445,
+      "forks": 9160,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-17T17:45:03Z",
-      "updated_at": "2026-10-19T08:46:00Z",
+      "updated_at": "2026-10-20T08:26:11Z",
       "pushed_at": "2026-10-18T01:55:14Z",
       "archived": false,
       "disabled": false,
@@ -9188,8 +9198,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 1,
-        "reason": "距離最近 push 約 1 天。"
+        "days_since_push": 2,
+        "reason": "距離最近 push 約 2 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -9239,12 +9249,12 @@
       "description": "My Codex Skills",
       "language": "Shell",
       "topics": [],
-      "stars": 4005,
+      "stars": 4006,
       "forks": 207,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-16T07:04:14Z",
-      "updated_at": "2026-10-17T15:12:50Z",
+      "updated_at": "2026-10-19T17:17:22Z",
       "pushed_at": "2026-03-29T15:28:02Z",
       "archived": false,
       "disabled": false,
@@ -9313,8 +9323,8 @@
       "maintenance": {
         "status": "maintained",
         "label": "近期維護",
-        "days_since_push": 203,
-        "reason": "距離最近 push 約 203 天。"
+        "days_since_push": 204,
+        "reason": "距離最近 push 約 204 天。"
       },
       "risks": {
         "highest_level": "none",
@@ -9338,12 +9348,12 @@
       "description": "dontbesilent 的商业诊断 Skills",
       "language": "Python",
       "topics": [],
-      "stars": 10801,
-      "forks": 1227,
+      "stars": 10817,
+      "forks": 1228,
       "license": "NOASSERTION",
       "default_branch": "main",
       "starred_at": "2026-06-07T10:15:42Z",
-      "updated_at": "2026-10-19T08:08:16Z",
+      "updated_at": "2026-10-20T06:55:07Z",
       "pushed_at": "2026-10-19T08:03:19Z",
       "archived": false,
       "disabled": false,
@@ -9410,8 +9420,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 0,
-        "reason": "距離最近 push 約 0 天。"
+        "days_since_push": 1,
+        "reason": "距離最近 push 約 1 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -9442,12 +9452,12 @@
       "description": "AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
       "language": "JavaScript",
       "topics": [],
-      "stars": 4789,
-      "forks": 661,
+      "stars": 4856,
+      "forks": 670,
       "license": "Apache-2.0",
       "default_branch": "main",
       "starred_at": "2026-09-06T06:21:35Z",
-      "updated_at": "2026-10-19T08:29:25Z",
+      "updated_at": "2026-10-20T08:19:50Z",
       "pushed_at": "2026-10-15T02:36:58Z",
       "archived": false,
       "disabled": false,
@@ -9519,8 +9529,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 4,
-        "reason": "距離最近 push 約 4 天。"
+        "days_since_push": 5,
+        "reason": "距離最近 push 約 5 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -9629,8 +9639,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 88,
-        "reason": "距離最近 push 約 88 天。"
+        "days_since_push": 89,
+        "reason": "距離最近 push 約 89 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -9671,13 +9681,13 @@
         "googlecloud",
         "skills"
       ],
-      "stars": 21409,
-      "forks": 1805,
+      "stars": 21429,
+      "forks": 1807,
       "license": "Apache-2.0",
       "default_branch": "main",
       "starred_at": "2026-06-06T20:34:56Z",
-      "updated_at": "2026-10-19T07:18:09Z",
-      "pushed_at": "2026-10-16T20:05:04Z",
+      "updated_at": "2026-10-20T06:49:01Z",
+      "pushed_at": "2026-10-19T18:44:23Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -9746,8 +9756,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 2,
-        "reason": "距離最近 push 約 2 天。"
+        "days_since_push": 0,
+        "reason": "距離最近 push 約 0 天。"
       },
       "risks": {
         "highest_level": "info",
@@ -9802,13 +9812,13 @@
         "tech-debt",
         "test-quality"
       ],
-      "stars": 1534,
+      "stars": 1537,
       "forks": 79,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-07T10:22:24Z",
-      "updated_at": "2026-10-19T03:18:28Z",
-      "pushed_at": "2026-10-16T03:56:06Z",
+      "updated_at": "2026-10-20T03:53:21Z",
+      "pushed_at": "2026-10-19T08:55:04Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -9915,8 +9925,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 3,
-        "reason": "距離最近 push 約 3 天。"
+        "days_since_push": 0,
+        "reason": "距離最近 push 約 0 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -10040,8 +10050,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 41,
-        "reason": "距離最近 push 約 41 天。"
+        "days_since_push": 42,
+        "reason": "距離最近 push 約 42 天。"
       },
       "risks": {
         "highest_level": "info",
@@ -10077,12 +10087,12 @@
         "codex-skills",
         "openclaw-skills"
       ],
-      "stars": 26766,
-      "forks": 2937,
+      "stars": 26786,
+      "forks": 2941,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-09-06T06:41:16Z",
-      "updated_at": "2026-10-19T08:37:17Z",
+      "updated_at": "2026-10-20T08:15:51Z",
       "pushed_at": "2026-09-10T15:13:43Z",
       "archived": false,
       "disabled": false,
@@ -10158,8 +10168,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 38,
-        "reason": "距離最近 push 約 38 天。"
+        "days_since_push": 39,
+        "reason": "距離最近 push 約 39 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -10278,8 +10288,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 44,
-        "reason": "距離最近 push 約 44 天。"
+        "days_since_push": 45,
+        "reason": "距離最近 push 約 45 天。"
       },
       "risks": {
         "highest_level": "low",
@@ -10314,12 +10324,12 @@
         "ai",
         "skills"
       ],
-      "stars": 1711,
-      "forks": 182,
+      "stars": 1723,
+      "forks": 183,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-09-10T19:20:11Z",
-      "updated_at": "2026-10-19T07:44:28Z",
+      "updated_at": "2026-10-20T07:02:53Z",
       "pushed_at": "2026-10-03T01:36:20Z",
       "archived": false,
       "disabled": false,
@@ -10389,8 +10399,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 16,
-        "reason": "距離最近 push 約 16 天。"
+        "days_since_push": 17,
+        "reason": "距離最近 push 約 17 天。"
       },
       "risks": {
         "highest_level": "info",
@@ -10434,12 +10444,12 @@
         "skill",
         "tokens"
       ],
-      "stars": 113545,
-      "forks": 6571,
+      "stars": 113739,
+      "forks": 6578,
       "license": "Apache-2.0",
       "default_branch": "main",
       "starred_at": "2026-07-10T06:49:22Z",
-      "updated_at": "2026-10-19T08:45:47Z",
+      "updated_at": "2026-10-20T08:23:33Z",
       "pushed_at": "2026-10-19T08:07:31Z",
       "archived": false,
       "disabled": false,
@@ -10513,8 +10523,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 0,
-        "reason": "距離最近 push 約 0 天。"
+        "days_since_push": 1,
+        "reason": "距離最近 push 約 1 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -10583,13 +10593,13 @@
         "vision",
         "webui"
       ],
-      "stars": 45959,
-      "forks": 9453,
+      "stars": 46042,
+      "forks": 9463,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-06T17:03:57Z",
-      "updated_at": "2026-10-19T08:25:21Z",
-      "pushed_at": "2026-10-19T07:33:42Z",
+      "updated_at": "2026-10-20T08:07:42Z",
+      "pushed_at": "2026-10-20T07:54:12Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -10762,13 +10772,13 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "topics": [],
-      "stars": 296684,
-      "forks": 24912,
+      "stars": 297912,
+      "forks": 25022,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-07-10T06:47:47Z",
-      "updated_at": "2026-10-19T08:45:20Z",
-      "pushed_at": "2026-10-13T08:46:40Z",
+      "updated_at": "2026-10-20T08:25:20Z",
+      "pushed_at": "2026-10-19T15:52:15Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -10834,8 +10844,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 5,
-        "reason": "距離最近 push 約 5 天。"
+        "days_since_push": 0,
+        "reason": "距離最近 push 約 0 天。"
       },
       "risks": {
         "highest_level": "info",
@@ -10938,8 +10948,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 118,
-        "reason": "距離最近 push 約 118 天。"
+        "days_since_push": 119,
+        "reason": "距離最近 push 約 119 天。"
       },
       "risks": {
         "highest_level": "info",
@@ -10970,12 +10980,12 @@
       "description": "yinyuan-skills",
       "language": null,
       "topics": [],
-      "stars": 467,
+      "stars": 468,
       "forks": 85,
       "license": null,
       "default_branch": "main",
       "starred_at": "2026-08-25T06:27:55Z",
-      "updated_at": "2026-10-19T06:58:29Z",
+      "updated_at": "2026-10-19T11:40:31Z",
       "pushed_at": "2026-04-05T08:09:38Z",
       "archived": false,
       "disabled": false,
@@ -11037,8 +11047,8 @@
       "maintenance": {
         "status": "maintained",
         "label": "近期維護",
-        "days_since_push": 197,
-        "reason": "距離最近 push 約 197 天。"
+        "days_since_push": 198,
+        "reason": "距離最近 push 約 198 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -11089,13 +11099,13 @@
         "static-analysis",
         "touhou"
       ],
-      "stars": 328200,
-      "forks": 83094,
+      "stars": 340947,
+      "forks": 86019,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-10-13T19:28:43Z",
-      "updated_at": "2026-10-19T08:45:49Z",
-      "pushed_at": "2026-10-19T08:43:02Z",
+      "updated_at": "2026-10-20T08:26:44Z",
+      "pushed_at": "2026-10-20T08:14:06Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -11283,12 +11293,12 @@
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": null,
       "topics": [],
-      "stars": 221054,
-      "forks": 22203,
+      "stars": 221312,
+      "forks": 22232,
       "license": null,
       "default_branch": "main",
       "starred_at": "2026-06-17T07:24:39Z",
-      "updated_at": "2026-10-19T08:45:19Z",
+      "updated_at": "2026-10-20T08:24:58Z",
       "pushed_at": "2026-04-20T10:05:04Z",
       "archived": false,
       "disabled": false,
@@ -11371,8 +11381,8 @@
       "maintenance": {
         "status": "maintained",
         "label": "近期維護",
-        "days_since_push": 181,
-        "reason": "距離最近 push 約 181 天。"
+        "days_since_push": 182,
+        "reason": "距離最近 push 約 182 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -11425,13 +11435,13 @@
         "subagent-driven-development",
         "superpowers"
       ],
-      "stars": 301807,
-      "forks": 26950,
+      "stars": 302298,
+      "forks": 26992,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-08T04:11:27Z",
-      "updated_at": "2026-10-19T08:44:12Z",
-      "pushed_at": "2026-10-10T03:03:30Z",
+      "updated_at": "2026-10-20T08:24:18Z",
+      "pushed_at": "2026-10-20T06:37:50Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -11530,8 +11540,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 9,
-        "reason": "距離最近 push 約 9 天。"
+        "days_since_push": 0,
+        "reason": "距離最近 push 約 0 天。"
       },
       "risks": {
         "highest_level": "info",
@@ -11589,13 +11599,13 @@
         "ollama",
         "qwen"
       ],
-      "stars": 183791,
-      "forks": 18398,
+      "stars": 183918,
+      "forks": 18430,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-09-15T21:18:03Z",
-      "updated_at": "2026-10-19T08:38:54Z",
-      "pushed_at": "2026-10-18T18:44:30Z",
+      "updated_at": "2026-10-20T08:20:34Z",
+      "pushed_at": "2026-10-20T01:51:51Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -11700,12 +11710,12 @@
       "description": "Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。",
       "language": "Python",
       "topics": [],
-      "stars": 20045,
-      "forks": 1278,
+      "stars": 20154,
+      "forks": 1283,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-07T10:15:33Z",
-      "updated_at": "2026-10-19T08:43:29Z",
+      "updated_at": "2026-10-20T08:09:09Z",
       "pushed_at": "2026-09-23T02:24:28Z",
       "archived": false,
       "disabled": false,
@@ -11772,8 +11782,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 26,
-        "reason": "距離最近 push 約 26 天。"
+        "days_since_push": 27,
+        "reason": "距離最近 push 約 27 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -11831,13 +11841,13 @@
         "worktrees",
         "yc-backed"
       ],
-      "stars": 97282,
-      "forks": 6201,
+      "stars": 98787,
+      "forks": 6297,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-07-07T20:13:43Z",
-      "updated_at": "2026-10-19T08:45:39Z",
-      "pushed_at": "2026-10-19T08:44:42Z",
+      "updated_at": "2026-10-20T08:26:27Z",
+      "pushed_at": "2026-10-20T08:26:08Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -12071,8 +12081,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 28,
-        "reason": "距離最近 push 約 28 天。"
+        "days_since_push": 29,
+        "reason": "距離最近 push 約 29 天。"
       },
       "risks": {
         "highest_level": "none",
@@ -12104,13 +12114,13 @@
         "python",
         "webhook"
       ],
-      "stars": 10772,
-      "forks": 1634,
+      "stars": 10858,
+      "forks": 1648,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-13T13:51:56Z",
-      "updated_at": "2026-10-19T08:44:29Z",
-      "pushed_at": "2026-10-19T06:58:51Z",
+      "updated_at": "2026-10-20T08:22:29Z",
+      "pushed_at": "2026-10-20T00:02:59Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -12252,12 +12262,12 @@
       "description": "Agent skills for building with TypeSafe's System One API",
       "language": null,
       "topics": [],
-      "stars": 2741,
+      "stars": 2747,
       "forks": 170,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-09-22T21:37:10Z",
-      "updated_at": "2026-10-19T07:54:05Z",
+      "updated_at": "2026-10-20T07:55:20Z",
       "pushed_at": "2026-09-12T05:42:06Z",
       "archived": false,
       "disabled": false,
@@ -12330,8 +12340,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 37,
-        "reason": "距離最近 push 約 37 天。"
+        "days_since_push": 38,
+        "reason": "距離最近 push 約 38 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -12373,12 +12383,12 @@
         "vibe-coding",
         "vibe-motion"
       ],
-      "stars": 1372,
+      "stars": 1379,
       "forks": 85,
       "license": null,
       "default_branch": "main",
       "starred_at": "2026-09-15T21:11:49Z",
-      "updated_at": "2026-10-19T07:48:22Z",
+      "updated_at": "2026-10-20T05:11:30Z",
       "pushed_at": "2026-10-05T15:06:13Z",
       "archived": false,
       "disabled": false,
@@ -12467,8 +12477,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 13,
-        "reason": "距離最近 push 約 13 天。"
+        "days_since_push": 14,
+        "reason": "距離最近 push 約 14 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -12511,12 +12521,12 @@
       "description": null,
       "language": "Python",
       "topics": [],
-      "stars": 881,
+      "stars": 883,
       "forks": 138,
       "license": null,
       "default_branch": "main",
       "starred_at": "2026-06-10T16:51:09Z",
-      "updated_at": "2026-10-18T08:50:07Z",
+      "updated_at": "2026-10-20T05:53:27Z",
       "pushed_at": "2026-09-11T15:17:19Z",
       "archived": false,
       "disabled": false,
@@ -12583,8 +12593,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 37,
-        "reason": "距離最近 push 約 37 天。"
+        "days_since_push": 38,
+        "reason": "距離最近 push 約 38 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -12621,13 +12631,13 @@
       "description": "手绘风格编号画廊与双语提示词 Skill",
       "language": "HTML",
       "topics": [],
-      "stars": 5732,
-      "forks": 664,
+      "stars": 5829,
+      "forks": 669,
       "license": "NOASSERTION",
       "default_branch": "master",
       "starred_at": "2026-09-10T17:37:36Z",
-      "updated_at": "2026-10-19T08:34:29Z",
-      "pushed_at": "2026-10-18T05:08:44Z",
+      "updated_at": "2026-10-20T08:25:46Z",
+      "pushed_at": "2026-10-19T14:42:20Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -12693,8 +12703,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 1,
-        "reason": "距離最近 push 約 1 天。"
+        "days_since_push": 0,
+        "reason": "距離最近 push 約 0 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -12735,12 +12745,12 @@
         "skill-engineering",
         "workflow-automation"
       ],
-      "stars": 2706,
-      "forks": 263,
+      "stars": 2705,
+      "forks": 267,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-07-02T14:53:20Z",
-      "updated_at": "2026-10-18T17:21:46Z",
+      "updated_at": "2026-10-20T02:11:10Z",
       "pushed_at": "2026-08-17T09:19:43Z",
       "archived": false,
       "disabled": false,
@@ -12853,8 +12863,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 62,
-        "reason": "距離最近 push 約 62 天。"
+        "days_since_push": 63,
+        "reason": "距離最近 push 約 63 天。"
       },
       "risks": {
         "highest_level": "info",
@@ -12916,12 +12926,12 @@
         "whisperx",
         "yt-dlp"
       ],
-      "stars": 13222,
-      "forks": 1905,
+      "stars": 13267,
+      "forks": 1915,
       "license": "GPL-3.0",
       "default_branch": "main",
       "starred_at": "2026-06-07T16:30:20Z",
-      "updated_at": "2026-10-19T08:41:19Z",
+      "updated_at": "2026-10-20T07:52:21Z",
       "pushed_at": "2026-07-13T01:28:10Z",
       "archived": false,
       "disabled": false,
@@ -13047,8 +13057,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 98,
-        "reason": "距離最近 push 約 98 天。"
+        "days_since_push": 99,
+        "reason": "距離最近 push 約 99 天。"
       },
       "risks": {
         "highest_level": "high",
@@ -13141,13 +13151,13 @@
         "voicestudio",
         "workflow"
       ],
-      "stars": 76333,
-      "forks": 8349,
+      "stars": 78005,
+      "forks": 8556,
       "license": "AGPL-3.0",
       "default_branch": "main",
       "starred_at": "2026-06-06T20:29:45Z",
-      "updated_at": "2026-10-19T08:45:36Z",
-      "pushed_at": "2026-10-19T07:27:06Z",
+      "updated_at": "2026-10-20T08:25:05Z",
+      "pushed_at": "2026-10-20T07:39:09Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -13364,13 +13374,13 @@
       "description": "High-Quality Voice Cloning TTS for 600+ Languages",
       "language": "Python",
       "topics": [],
-      "stars": 14779,
-      "forks": 2205,
+      "stars": 15126,
+      "forks": 2234,
       "license": "Apache-2.0",
       "default_branch": "master",
       "starred_at": "2026-09-08T19:00:18Z",
-      "updated_at": "2026-10-19T08:44:49Z",
-      "pushed_at": "2026-10-12T23:05:28Z",
+      "updated_at": "2026-10-20T08:20:05Z",
+      "pushed_at": "2026-10-19T23:04:15Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -13435,8 +13445,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 6,
-        "reason": "距離最近 push 約 6 天。"
+        "days_since_push": 0,
+        "reason": "距離最近 push 約 0 天。"
       },
       "risks": {
         "highest_level": "high",
@@ -13467,12 +13477,12 @@
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
       "topics": [],
-      "stars": 54873,
-      "forks": 6168,
+      "stars": 54884,
+      "forks": 6175,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-07-28T16:53:38Z",
-      "updated_at": "2026-10-19T08:19:19Z",
+      "updated_at": "2026-10-20T08:19:36Z",
       "pushed_at": "2026-10-08T05:29:29Z",
       "archived": false,
       "disabled": false,
@@ -13534,8 +13544,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 11,
-        "reason": "距離最近 push 約 11 天。"
+        "days_since_push": 12,
+        "reason": "距離最近 push 約 12 天。"
       },
       "risks": {
         "highest_level": "info",
@@ -13578,13 +13588,13 @@
         "vrm",
         "vtuber"
       ],
-      "stars": 50491,
-      "forks": 5067,
+      "stars": 50513,
+      "forks": 5071,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-06T17:35:16Z",
-      "updated_at": "2026-10-19T08:37:53Z",
-      "pushed_at": "2026-10-19T08:43:09Z",
+      "updated_at": "2026-10-20T07:45:52Z",
+      "pushed_at": "2026-10-20T01:28:23Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -13712,12 +13722,12 @@
         "voice-design",
         "voxcpm"
       ],
-      "stars": 39564,
-      "forks": 4485,
+      "stars": 39607,
+      "forks": 4493,
       "license": "Apache-2.0",
       "default_branch": "main",
       "starred_at": "2026-06-06T17:05:27Z",
-      "updated_at": "2026-10-19T08:36:54Z",
+      "updated_at": "2026-10-20T08:19:22Z",
       "pushed_at": "2026-10-08T03:26:41Z",
       "archived": false,
       "disabled": false,
@@ -13830,8 +13840,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 11,
-        "reason": "距離最近 push 約 11 天。"
+        "days_since_push": 12,
+        "reason": "距離最近 push 約 12 天。"
       },
       "risks": {
         "highest_level": "high",
@@ -13892,13 +13902,13 @@
         "durable-objects",
         "workflows"
       ],
-      "stars": 5848,
-      "forks": 785,
+      "stars": 5854,
+      "forks": 787,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-08T16:31:08Z",
-      "updated_at": "2026-10-19T08:22:46Z",
-      "pushed_at": "2026-10-18T11:34:14Z",
+      "updated_at": "2026-10-20T02:23:22Z",
+      "pushed_at": "2026-10-19T17:09:55Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -14024,13 +14034,13 @@
         "refresh-token",
         "unified-api"
       ],
-      "stars": 12829,
-      "forks": 1456,
+      "stars": 12873,
+      "forks": 1461,
       "license": "NOASSERTION",
       "default_branch": "master",
       "starred_at": "2026-06-08T16:32:02Z",
-      "updated_at": "2026-10-19T08:42:27Z",
-      "pushed_at": "2026-10-19T08:10:31Z",
+      "updated_at": "2026-10-20T08:26:12Z",
+      "pushed_at": "2026-10-20T08:20:17Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -14154,12 +14164,12 @@
       "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫",
       "language": "Python",
       "topics": [],
-      "stars": 67168,
-      "forks": 12832,
+      "stars": 67323,
+      "forks": 12855,
       "license": "NOASSERTION",
       "default_branch": "main",
       "starred_at": "2026-06-24T18:53:44Z",
-      "updated_at": "2026-10-19T08:42:57Z",
+      "updated_at": "2026-10-20T08:24:49Z",
       "pushed_at": "2026-10-15T04:53:41Z",
       "archived": false,
       "disabled": false,
@@ -14222,8 +14232,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 4,
-        "reason": "距離最近 push 約 4 天。"
+        "days_since_push": 5,
+        "reason": "距離最近 push 約 5 天。"
       },
       "risks": {
         "highest_level": "high",
@@ -14327,8 +14337,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 26,
-        "reason": "距離最近 push 約 26 天。"
+        "days_since_push": 27,
+        "reason": "距離最近 push 約 27 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -14370,7 +14380,7 @@
       "license": null,
       "default_branch": "main",
       "starred_at": "2026-10-02T15:26:27Z",
-      "updated_at": "2026-10-18T16:54:48Z",
+      "updated_at": "2026-10-20T02:36:10Z",
       "pushed_at": "2026-10-10T08:30:58Z",
       "archived": false,
       "disabled": false,
@@ -14488,12 +14498,12 @@
       "description": "AI 塔罗占卜 Agent Skill — 78 牌完整牌义、6 种牌阵、牌间关系理论体系、真随机抽牌脚本",
       "language": "Python",
       "topics": [],
-      "stars": 269,
+      "stars": 270,
       "forks": 38,
       "license": null,
       "default_branch": "main",
       "starred_at": "2026-08-25T06:28:14Z",
-      "updated_at": "2026-10-19T04:13:22Z",
+      "updated_at": "2026-10-20T05:39:04Z",
       "pushed_at": "2026-05-28T05:42:33Z",
       "archived": false,
       "disabled": false,
@@ -14583,8 +14593,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 144,
-        "reason": "距離最近 push 約 144 天。"
+        "days_since_push": 145,
+        "reason": "距離最近 push 約 145 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -14629,12 +14639,12 @@
       "description": "🔮 An engineering framework to stop LLM hallucinations in Chinese astrology. / 给“赛博半仙”戴上紧箍咒：减少幻觉、固定排盘步骤的奇门遁甲与紫微斗数 AI skills。",
       "language": "Python",
       "topics": [],
-      "stars": 1472,
+      "stars": 1474,
       "forks": 239,
       "license": null,
       "default_branch": "main",
       "starred_at": "2026-08-25T06:27:36Z",
-      "updated_at": "2026-10-19T07:18:02Z",
+      "updated_at": "2026-10-20T07:29:47Z",
       "pushed_at": "2026-10-16T12:01:29Z",
       "archived": false,
       "disabled": false,
@@ -14724,8 +14734,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 2,
-        "reason": "距離最近 push 約 2 天。"
+        "days_since_push": 3,
+        "reason": "距離最近 push 約 3 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -14770,12 +14780,12 @@
       "description": "四柱八字命理分析",
       "language": "Python",
       "topics": [],
-      "stars": 3524,
-      "forks": 547,
+      "stars": 3533,
+      "forks": 548,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-08-25T06:27:47Z",
-      "updated_at": "2026-10-19T07:02:39Z",
+      "updated_at": "2026-10-20T06:41:48Z",
       "pushed_at": "2026-08-17T17:53:04Z",
       "archived": false,
       "disabled": false,
@@ -14851,8 +14861,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 62,
-        "reason": "距離最近 push 約 62 天。"
+        "days_since_push": 63,
+        "reason": "距離最近 push 約 63 天。"
       },
       "risks": {
         "highest_level": "info",
@@ -14895,13 +14905,13 @@
         "zi-wei-dou-shu",
         "ziwei-doushu"
       ],
-      "stars": 5216,
-      "forks": 1016,
+      "stars": 5256,
+      "forks": 1027,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-07T07:26:14Z",
-      "updated_at": "2026-10-19T08:45:37Z",
-      "pushed_at": "2026-10-15T15:57:52Z",
+      "updated_at": "2026-10-20T08:20:16Z",
+      "pushed_at": "2026-10-20T08:20:05Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -14985,8 +14995,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 3,
-        "reason": "距離最近 push 約 3 天。"
+        "days_since_push": 0,
+        "reason": "距離最近 push 約 0 天。"
       },
       "risks": {
         "highest_level": "info",
@@ -15043,13 +15053,13 @@
         "mermaid",
         "svg"
       ],
-      "stars": 58010,
-      "forks": 3719,
+      "stars": 58671,
+      "forks": 3773,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-09-03T03:05:14Z",
-      "updated_at": "2026-10-19T08:45:32Z",
-      "pushed_at": "2026-10-16T19:42:46Z",
+      "updated_at": "2026-10-20T08:26:24Z",
+      "pushed_at": "2026-10-20T02:07:06Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -15170,8 +15180,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 2,
-        "reason": "距離最近 push 約 2 天。"
+        "days_since_push": 0,
+        "reason": "距離最近 push 約 0 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -15228,13 +15238,13 @@
         "pytorch",
         "stable-diffusion"
       ],
-      "stars": 139009,
-      "forks": 16520,
+      "stars": 140150,
+      "forks": 16610,
       "license": "GPL-3.0",
       "default_branch": "master",
       "starred_at": "2026-09-15T21:17:27Z",
-      "updated_at": "2026-10-19T08:45:48Z",
-      "pushed_at": "2026-10-19T06:08:24Z",
+      "updated_at": "2026-10-20T08:26:21Z",
+      "pushed_at": "2026-10-20T03:23:19Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -15373,13 +15383,13 @@
         "webscraping",
         "xpath"
       ],
-      "stars": 88564,
-      "forks": 9136,
+      "stars": 88759,
+      "forks": 9162,
       "license": "BSD-3-Clause",
       "default_branch": "main",
       "starred_at": "2026-10-02T15:27:15Z",
-      "updated_at": "2026-10-19T08:44:37Z",
-      "pushed_at": "2026-10-18T17:41:44Z",
+      "updated_at": "2026-10-20T08:26:34Z",
+      "pushed_at": "2026-10-19T15:42:52Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -15586,13 +15596,13 @@
         "web-search",
         "webscraping"
       ],
-      "stars": 192896,
-      "forks": 10185,
+      "stars": 193190,
+      "forks": 10203,
       "license": "AGPL-3.0",
       "default_branch": "main",
       "starred_at": "2026-09-06T07:10:44Z",
-      "updated_at": "2026-10-19T08:41:05Z",
-      "pushed_at": "2026-10-19T08:31:17Z",
+      "updated_at": "2026-10-20T08:25:25Z",
+      "pushed_at": "2026-10-20T07:37:50Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -15763,12 +15773,12 @@
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
       "topics": [],
-      "stars": 34614,
-      "forks": 3344,
+      "stars": 34640,
+      "forks": 3347,
       "license": "Apache-2.0",
       "default_branch": "master",
       "starred_at": "2026-06-16T18:45:07Z",
-      "updated_at": "2026-10-19T08:41:40Z",
+      "updated_at": "2026-10-20T05:51:17Z",
       "pushed_at": "2026-09-29T19:36:25Z",
       "archived": false,
       "disabled": false,
@@ -15852,8 +15862,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 19,
-        "reason": "距離最近 push 約 19 天。"
+        "days_since_push": 20,
+        "reason": "距離最近 push 約 20 天。"
       },
       "risks": {
         "highest_level": "info",
@@ -15907,13 +15917,13 @@
         "workflow",
         "workflow-automation"
       ],
-      "stars": 207974,
-      "forks": 61180,
+      "stars": 208100,
+      "forks": 61199,
       "license": "NOASSERTION",
       "default_branch": "master",
       "starred_at": "2026-06-16T06:47:04Z",
-      "updated_at": "2026-10-19T08:44:45Z",
-      "pushed_at": "2026-10-19T08:42:48Z",
+      "updated_at": "2026-10-20T08:21:37Z",
+      "pushed_at": "2026-10-20T08:26:05Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -16125,13 +16135,13 @@
         "own-your-data",
         "personal"
       ],
-      "stars": 392433,
-      "forks": 82492,
+      "stars": 392921,
+      "forks": 82543,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-17T07:24:57Z",
-      "updated_at": "2026-10-19T08:44:21Z",
-      "pushed_at": "2026-10-19T08:44:38Z",
+      "updated_at": "2026-10-20T08:25:55Z",
+      "pushed_at": "2026-10-20T08:25:56Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -16242,13 +16252,13 @@
         "maplibre-gl-js",
         "tauri-app"
       ],
-      "stars": 8040,
-      "forks": 901,
+      "stars": 8049,
+      "forks": 902,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-09-07T15:52:20Z",
-      "updated_at": "2026-10-19T06:52:13Z",
-      "pushed_at": "2026-10-18T03:30:34Z",
+      "updated_at": "2026-10-20T05:30:57Z",
+      "pushed_at": "2026-10-20T04:22:46Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -16316,8 +16326,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 1,
-        "reason": "距離最近 push 約 1 天。"
+        "days_since_push": 0,
+        "reason": "距離最近 push 約 0 天。"
       },
       "risks": {
         "highest_level": "none",
@@ -16372,13 +16382,13 @@
         "vectors",
         "websockets"
       ],
-      "stars": 111760,
-      "forks": 17172,
+      "stars": 111997,
+      "forks": 17253,
       "license": "Apache-2.0",
       "default_branch": "master",
       "starred_at": "2026-09-15T21:20:18Z",
-      "updated_at": "2026-10-19T08:34:53Z",
-      "pushed_at": "2026-10-19T08:45:18Z",
+      "updated_at": "2026-10-20T08:21:56Z",
+      "pushed_at": "2026-10-20T08:21:46Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -16511,12 +16521,12 @@
         "codex-skill",
         "motion-graphics"
       ],
-      "stars": 48,
-      "forks": 7,
+      "stars": 52,
+      "forks": 8,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-09-10T17:36:59Z",
-      "updated_at": "2026-10-19T06:46:05Z",
+      "updated_at": "2026-10-19T21:35:50Z",
       "pushed_at": "2026-10-11T17:25:34Z",
       "archived": false,
       "disabled": false,
@@ -16608,8 +16618,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 7,
-        "reason": "距離最近 push 約 7 天。"
+        "days_since_push": 8,
+        "reason": "距離最近 push 約 8 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -16659,12 +16669,12 @@
         "diagrams",
         "svg"
       ],
-      "stars": 11770,
-      "forks": 1024,
+      "stars": 11782,
+      "forks": 1042,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-09-15T07:23:07Z",
-      "updated_at": "2026-10-19T08:02:43Z",
+      "updated_at": "2026-10-20T07:57:59Z",
       "pushed_at": "2026-09-05T14:55:00Z",
       "archived": false,
       "disabled": false,
@@ -16761,8 +16771,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 43,
-        "reason": "距離最近 push 約 43 天。"
+        "days_since_push": 44,
+        "reason": "距離最近 push 約 44 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -16809,12 +16819,12 @@
       "description": "Skills for Designers and Engineers.",
       "language": "Markdown",
       "topics": [],
-      "stars": 47475,
-      "forks": 2737,
+      "stars": 47793,
+      "forks": 2759,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-07-04T02:19:55Z",
-      "updated_at": "2026-10-19T08:39:35Z",
+      "updated_at": "2026-10-20T08:18:26Z",
       "pushed_at": "2026-10-11T13:58:36Z",
       "archived": false,
       "disabled": false,
@@ -16900,8 +16910,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 7,
-        "reason": "距離最近 push 約 7 天。"
+        "days_since_push": 8,
+        "reason": "距離最近 push 約 8 天。"
       },
       "risks": {
         "highest_level": "none",
@@ -17072,8 +17082,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 14,
-        "reason": "距離最近 push 約 14 天。"
+        "days_since_push": 15,
+        "reason": "距離最近 push 約 15 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -17120,13 +17130,13 @@
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "language": "TypeScript",
       "topics": [],
-      "stars": 136892,
-      "forks": 20311,
+      "stars": 137006,
+      "forks": 20322,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-07-10T06:48:41Z",
-      "updated_at": "2026-10-19T08:39:40Z",
-      "pushed_at": "2026-10-19T08:28:33Z",
+      "updated_at": "2026-10-20T08:23:15Z",
+      "pushed_at": "2026-10-20T06:53:16Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -17245,13 +17255,13 @@
         "web-scraping",
         "website-clone"
       ],
-      "stars": 36989,
-      "forks": 5445,
+      "stars": 37024,
+      "forks": 5452,
       "license": "MIT",
       "default_branch": "master",
       "starred_at": "2026-06-25T13:45:06Z",
-      "updated_at": "2026-10-19T08:36:47Z",
-      "pushed_at": "2026-10-05T08:07:48Z",
+      "updated_at": "2026-10-20T08:06:21Z",
+      "pushed_at": "2026-10-19T22:56:31Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -17397,8 +17407,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 14,
-        "reason": "距離最近 push 約 14 天。"
+        "days_since_push": 0,
+        "reason": "距離最近 push 約 0 天。"
       },
       "risks": {
         "highest_level": "high",
@@ -17477,12 +17487,12 @@
         "prototyping",
         "ui-design"
       ],
-      "stars": 4414,
+      "stars": 4421,
       "forks": 308,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-09-06T06:41:22Z",
-      "updated_at": "2026-10-19T03:42:08Z",
+      "updated_at": "2026-10-20T07:32:17Z",
       "pushed_at": "2026-09-23T05:34:49Z",
       "archived": false,
       "disabled": false,
@@ -17592,8 +17602,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 26,
-        "reason": "距離最近 push 約 26 天。"
+        "days_since_push": 27,
+        "reason": "距離最近 push 約 27 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -17641,12 +17651,12 @@
       "description": "A multi-role AI design team skill for research, planning, scripting, design, and content production.",
       "language": null,
       "topics": [],
-      "stars": 197,
+      "stars": 196,
       "forks": 46,
       "license": null,
       "default_branch": "main",
       "starred_at": "2026-06-06T14:00:56Z",
-      "updated_at": "2026-10-16T09:23:45Z",
+      "updated_at": "2026-10-19T23:12:54Z",
       "pushed_at": "2026-03-29T21:45:18Z",
       "archived": false,
       "disabled": false,
@@ -17735,8 +17745,8 @@
       "maintenance": {
         "status": "maintained",
         "label": "近期維護",
-        "days_since_push": 203,
-        "reason": "距離最近 push 約 203 天。"
+        "days_since_push": 204,
+        "reason": "距離最近 push 約 204 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -17787,13 +17797,13 @@
         "ui-design",
         "web-design"
       ],
-      "stars": 99044,
-      "forks": 6730,
+      "stars": 99557,
+      "forks": 6772,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-06T13:59:35Z",
-      "updated_at": "2026-10-19T08:44:22Z",
-      "pushed_at": "2026-10-19T05:47:12Z",
+      "updated_at": "2026-10-20T08:24:06Z",
+      "pushed_at": "2026-10-19T22:33:28Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -18022,12 +18032,12 @@
         "react",
         "vibe-coding"
       ],
-      "stars": 9493,
-      "forks": 1026,
+      "stars": 9511,
+      "forks": 1030,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-09-05T19:47:07Z",
-      "updated_at": "2026-10-19T07:46:08Z",
+      "updated_at": "2026-10-20T07:29:05Z",
       "pushed_at": "2026-10-16T15:34:27Z",
       "archived": false,
       "disabled": false,
@@ -18118,8 +18128,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 2,
-        "reason": "距離最近 push 約 2 天。"
+        "days_since_push": 3,
+        "reason": "距離最近 push 約 3 天。"
       },
       "risks": {
         "highest_level": "info",
@@ -18161,13 +18171,13 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
       "topics": [],
-      "stars": 161366,
-      "forks": 26108,
+      "stars": 161920,
+      "forks": 26203,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-08T09:19:33Z",
-      "updated_at": "2026-10-19T08:44:31Z",
-      "pushed_at": "2026-10-15T05:33:33Z",
+      "updated_at": "2026-10-20T08:24:54Z",
+      "pushed_at": "2026-10-19T16:48:24Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -18228,8 +18238,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 4,
-        "reason": "距離最近 push 約 4 天。"
+        "days_since_push": 0,
+        "reason": "距離最近 push 約 0 天。"
       },
       "risks": {
         "highest_level": "info",
@@ -18272,12 +18282,12 @@
         "visual-design",
         "web-design"
       ],
-      "stars": 832,
+      "stars": 833,
       "forks": 96,
       "license": "NOASSERTION",
       "default_branch": "main",
       "starred_at": "2026-06-17T05:19:34Z",
-      "updated_at": "2026-10-19T01:27:54Z",
+      "updated_at": "2026-10-19T14:29:39Z",
       "pushed_at": "2026-08-31T14:54:33Z",
       "archived": false,
       "disabled": false,
@@ -18418,8 +18428,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 48,
-        "reason": "距離最近 push 約 48 天。"
+        "days_since_push": 49,
+        "reason": "距離最近 push 約 49 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -18480,12 +18490,12 @@
         "static-site",
         "traditional-colors"
       ],
-      "stars": 1213,
+      "stars": 1216,
       "forks": 122,
       "license": "GPL-3.0",
       "default_branch": "main",
       "starred_at": "2026-06-06T20:31:57Z",
-      "updated_at": "2026-10-17T05:08:58Z",
+      "updated_at": "2026-10-19T15:46:29Z",
       "pushed_at": "2026-09-16T14:45:03Z",
       "archived": false,
       "disabled": false,
@@ -18579,8 +18589,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 32,
-        "reason": "距離最近 push 約 32 天。"
+        "days_since_push": 33,
+        "reason": "距離最近 push 約 33 天。"
       },
       "risks": {
         "highest_level": "none",
@@ -18637,12 +18647,12 @@
         "uikit",
         "windsurf-ai"
       ],
-      "stars": 137386,
-      "forks": 14592,
+      "stars": 137749,
+      "forks": 14621,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-07-10T06:48:53Z",
-      "updated_at": "2026-10-19T08:42:56Z",
+      "updated_at": "2026-10-20T08:25:42Z",
       "pushed_at": "2026-10-15T02:04:34Z",
       "archived": false,
       "disabled": false,
@@ -18750,8 +18760,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 4,
-        "reason": "距離最近 push 約 4 天。"
+        "days_since_push": 5,
+        "reason": "距離最近 push 約 5 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -18831,13 +18841,13 @@
         "ui-generator",
         "vibe-coding"
       ],
-      "stars": 102321,
-      "forks": 11740,
+      "stars": 102638,
+      "forks": 11761,
       "license": "Apache-2.0",
       "default_branch": "main",
       "starred_at": "2026-06-16T17:33:45Z",
-      "updated_at": "2026-10-19T08:45:20Z",
-      "pushed_at": "2026-10-19T08:45:38Z",
+      "updated_at": "2026-10-20T08:22:30Z",
+      "pushed_at": "2026-10-20T08:23:50Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -19189,8 +19199,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 99,
-        "reason": "距離最近 push 約 99 天。"
+        "days_since_push": 100,
+        "reason": "距離最近 push 約 100 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -19229,12 +19239,12 @@
       "description": "Convert any official website to design.md document",
       "language": "JavaScript",
       "topics": [],
-      "stars": 437,
+      "stars": 436,
       "forks": 36,
       "license": null,
       "default_branch": "main",
       "starred_at": "2026-07-04T18:54:00Z",
-      "updated_at": "2026-10-17T15:35:05Z",
+      "updated_at": "2026-10-19T09:23:33Z",
       "pushed_at": "2026-04-18T13:09:31Z",
       "archived": false,
       "disabled": false,
@@ -19323,8 +19333,8 @@
       "maintenance": {
         "status": "maintained",
         "label": "近期維護",
-        "days_since_push": 183,
-        "reason": "距離最近 push 約 183 天。"
+        "days_since_push": 184,
+        "reason": "距離最近 push 約 184 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -19384,13 +19394,13 @@
         "wayland",
         "windows"
       ],
-      "stars": 126281,
-      "forks": 19821,
+      "stars": 126392,
+      "forks": 19850,
       "license": "AGPL-3.0",
       "default_branch": "master",
       "starred_at": "2026-09-15T21:18:51Z",
-      "updated_at": "2026-10-19T08:33:49Z",
-      "pushed_at": "2026-10-16T03:18:22Z",
+      "updated_at": "2026-10-20T08:17:22Z",
+      "pushed_at": "2026-10-20T08:13:14Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -19451,8 +19461,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 3,
-        "reason": "距離最近 push 約 3 天。"
+        "days_since_push": 0,
+        "reason": "距離最近 push 約 0 天。"
       },
       "risks": {
         "highest_level": "none",
@@ -19505,12 +19515,12 @@
         "vibe-design",
         "vibecoding"
       ],
-      "stars": 122177,
-      "forks": 13575,
+      "stars": 122402,
+      "forks": 13602,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-07-07T20:05:59Z",
-      "updated_at": "2026-10-19T08:40:11Z",
+      "updated_at": "2026-10-20T08:21:19Z",
       "pushed_at": "2026-10-14T05:46:48Z",
       "archived": false,
       "disabled": false,
@@ -19621,8 +19631,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 5,
-        "reason": "距離最近 push 約 5 天。"
+        "days_since_push": 6,
+        "reason": "距離最近 push 約 6 天。"
       },
       "risks": {
         "highest_level": "info",
@@ -19679,12 +19689,12 @@
         "openai",
         "sonnet"
       ],
-      "stars": 49629,
-      "forks": 5080,
+      "stars": 49652,
+      "forks": 5087,
       "license": "Apache-2.0",
       "default_branch": "main",
       "starred_at": "2026-06-16T06:47:02Z",
-      "updated_at": "2026-10-19T07:30:27Z",
+      "updated_at": "2026-10-20T07:55:26Z",
       "pushed_at": "2026-05-22T14:02:20Z",
       "archived": false,
       "disabled": false,
@@ -19747,8 +19757,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 149,
-        "reason": "距離最近 push 約 149 天。"
+        "days_since_push": 150,
+        "reason": "距離最近 push 約 150 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -19808,13 +19818,13 @@
         "llm",
         "openai"
       ],
-      "stars": 91242,
-      "forks": 12111,
+      "stars": 91342,
+      "forks": 12126,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-16T06:46:56Z",
-      "updated_at": "2026-10-19T08:36:10Z",
-      "pushed_at": "2026-10-19T08:44:45Z",
+      "updated_at": "2026-10-20T08:22:08Z",
+      "pushed_at": "2026-10-20T08:24:19Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -19940,12 +19950,12 @@
         "system-design",
         "tutorial"
       ],
-      "stars": 659,
-      "forks": 93,
+      "stars": 662,
+      "forks": 94,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-16T07:14:30Z",
-      "updated_at": "2026-10-19T06:21:09Z",
+      "updated_at": "2026-10-20T03:57:40Z",
       "pushed_at": "2026-06-22T05:48:14Z",
       "archived": false,
       "disabled": false,
@@ -20074,8 +20084,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 119,
-        "reason": "距離最近 push 約 119 天。"
+        "days_since_push": 120,
+        "reason": "距離最近 push 約 120 天。"
       },
       "risks": {
         "highest_level": "info",
@@ -20130,12 +20140,12 @@
         "microsoft-foundry",
         "semantic-kernel"
       ],
-      "stars": 77445,
-      "forks": 25400,
+      "stars": 77501,
+      "forks": 25420,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-17T07:25:26Z",
-      "updated_at": "2026-10-19T08:40:11Z",
+      "updated_at": "2026-10-20T08:26:32Z",
       "pushed_at": "2026-10-18T00:41:32Z",
       "archived": false,
       "disabled": false,
@@ -20222,8 +20232,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 1,
-        "reason": "距離最近 push 約 1 天。"
+        "days_since_push": 2,
+        "reason": "距離最近 push 約 2 天。"
       },
       "risks": {
         "highest_level": "info",
@@ -20278,12 +20288,12 @@
         "teaching",
         "tutorial"
       ],
-      "stars": 78810,
-      "forks": 12612,
+      "stars": 78877,
+      "forks": 12621,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-16T06:57:58Z",
-      "updated_at": "2026-10-19T08:29:09Z",
+      "updated_at": "2026-10-20T08:26:04Z",
       "pushed_at": "2026-09-28T13:49:16Z",
       "archived": false,
       "disabled": false,
@@ -20371,8 +20381,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 20,
-        "reason": "距離最近 push 約 20 天。"
+        "days_since_push": 21,
+        "reason": "距離最近 push 約 21 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -20421,12 +20431,12 @@
       "description": null,
       "language": "Python",
       "topics": [],
-      "stars": 40330,
-      "forks": 5654,
+      "stars": 40481,
+      "forks": 5661,
       "license": "Apache-2.0",
       "default_branch": "main",
       "starred_at": "2026-06-06T13:59:44Z",
-      "updated_at": "2026-10-19T08:30:39Z",
+      "updated_at": "2026-10-20T08:23:50Z",
       "pushed_at": "2026-09-21T21:10:41Z",
       "archived": false,
       "disabled": false,
@@ -20489,8 +20499,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 27,
-        "reason": "距離最近 push 約 27 天。"
+        "days_since_push": 28,
+        "reason": "距離最近 push 約 28 天。"
       },
       "risks": {
         "highest_level": "high",
@@ -20551,12 +20561,12 @@
         "stock-market",
         "trading"
       ],
-      "stars": 32731,
-      "forks": 4658,
+      "stars": 32777,
+      "forks": 4668,
       "license": "NOASSERTION",
       "default_branch": "main",
       "starred_at": "2026-06-06T17:04:35Z",
-      "updated_at": "2026-10-19T08:41:59Z",
+      "updated_at": "2026-10-20T07:23:46Z",
       "pushed_at": "2026-10-13T07:44:03Z",
       "archived": false,
       "disabled": false,
@@ -20728,8 +20738,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 6,
-        "reason": "距離最近 push 約 6 天。"
+        "days_since_push": 7,
+        "reason": "距離最近 push 約 7 天。"
       },
       "risks": {
         "highest_level": "high",
@@ -20824,12 +20834,12 @@
         "research-paper",
         "stock-data"
       ],
-      "stars": 49501,
-      "forks": 7824,
+      "stars": 49543,
+      "forks": 7828,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-17T07:25:57Z",
-      "updated_at": "2026-10-19T08:15:54Z",
+      "updated_at": "2026-10-20T07:30:27Z",
       "pushed_at": "2026-10-14T20:32:10Z",
       "archived": false,
       "disabled": false,
@@ -20957,8 +20967,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 4,
-        "reason": "距離最近 push 約 4 天。"
+        "days_since_push": 5,
+        "reason": "距離最近 push 約 5 天。"
       },
       "risks": {
         "highest_level": "high",
@@ -21030,12 +21040,12 @@
         "multiagent",
         "trading"
       ],
-      "stars": 111985,
-      "forks": 21641,
+      "stars": 112194,
+      "forks": 21682,
       "license": "Apache-2.0",
       "default_branch": "main",
       "starred_at": "2026-06-06T17:03:37Z",
-      "updated_at": "2026-10-19T08:45:42Z",
+      "updated_at": "2026-10-20T08:25:22Z",
       "pushed_at": "2026-10-16T21:38:46Z",
       "archived": false,
       "disabled": false,
@@ -21151,8 +21161,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 2,
-        "reason": "距離最近 push 約 2 天。"
+        "days_since_push": 3,
+        "reason": "距離最近 push 約 3 天。"
       },
       "risks": {
         "highest_level": "high",
@@ -21212,13 +21222,13 @@
         "rtsp",
         "tensorflow"
       ],
-      "stars": 36738,
-      "forks": 3720,
+      "stars": 36765,
+      "forks": 3726,
       "license": "MIT",
       "default_branch": "dev",
       "starred_at": "2026-06-06T17:35:34Z",
-      "updated_at": "2026-10-19T07:43:32Z",
-      "pushed_at": "2026-10-18T20:12:02Z",
+      "updated_at": "2026-10-20T08:09:58Z",
+      "pushed_at": "2026-10-20T06:19:47Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -21349,12 +21359,12 @@
       "description": "Take a photo of real objects, and paste them in Blender",
       "language": "JavaScript",
       "topics": [],
-      "stars": 850,
-      "forks": 85,
+      "stars": 851,
+      "forks": 86,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-09-07T15:44:28Z",
-      "updated_at": "2026-10-19T04:40:29Z",
+      "updated_at": "2026-10-19T19:41:22Z",
       "pushed_at": "2026-09-05T15:20:13Z",
       "archived": false,
       "disabled": false,
@@ -21425,8 +21435,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 43,
-        "reason": "距離最近 push 約 43 天。"
+        "days_since_push": 44,
+        "reason": "距離最近 push 約 44 天。"
       },
       "risks": {
         "highest_level": "high",
@@ -21465,13 +21475,13 @@
         "pose-control",
         "qwen-image"
       ],
-      "stars": 3219,
-      "forks": 583,
+      "stars": 3432,
+      "forks": 621,
       "license": "Apache-2.0",
       "default_branch": "main",
       "starred_at": "2026-10-15T03:13:00Z",
-      "updated_at": "2026-10-19T08:45:31Z",
-      "pushed_at": "2026-10-19T04:48:15Z",
+      "updated_at": "2026-10-20T08:19:07Z",
+      "pushed_at": "2026-10-20T07:03:30Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -21604,12 +21614,12 @@
       "description": "A Patch for GIMP 3+ for Photoshop Users",
       "language": "Python",
       "topics": [],
-      "stars": 18417,
+      "stars": 18422,
       "forks": 749,
       "license": "GPL-3.0",
       "default_branch": "master",
       "starred_at": "2026-09-14T20:37:52Z",
-      "updated_at": "2026-10-19T08:39:33Z",
+      "updated_at": "2026-10-20T06:37:57Z",
       "pushed_at": "2026-09-27T05:10:17Z",
       "archived": false,
       "disabled": false,
@@ -21671,8 +21681,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 22,
-        "reason": "距離最近 push 約 22 天。"
+        "days_since_push": 23,
+        "reason": "距離最近 push 約 23 天。"
       },
       "risks": {
         "highest_level": "none",
@@ -21717,12 +21727,12 @@
         "text-to-image",
         "visual-ai"
       ],
-      "stars": 17322,
+      "stars": 17326,
       "forks": 1742,
       "license": "CC0-1.0",
       "default_branch": "main",
       "starred_at": "2026-06-06T14:00:32Z",
-      "updated_at": "2026-10-19T08:27:11Z",
+      "updated_at": "2026-10-20T08:01:18Z",
       "pushed_at": "2026-07-18T06:23:28Z",
       "archived": false,
       "disabled": false,
@@ -21832,8 +21842,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 93,
-        "reason": "距離最近 push 約 93 天。"
+        "days_since_push": 94,
+        "reason": "距離最近 push 約 94 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -21904,12 +21914,12 @@
         "skills",
         "workflow-automation"
       ],
-      "stars": 34704,
-      "forks": 3304,
+      "stars": 34760,
+      "forks": 3309,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-09-08T05:59:58Z",
-      "updated_at": "2026-10-19T08:18:59Z",
+      "updated_at": "2026-10-20T08:21:03Z",
       "pushed_at": "2026-10-14T08:48:21Z",
       "archived": false,
       "disabled": false,
@@ -22041,8 +22051,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 4,
-        "reason": "距離最近 push 約 4 天。"
+        "days_since_push": 5,
+        "reason": "距離最近 push 約 5 天。"
       },
       "risks": {
         "highest_level": "info",
@@ -22095,12 +22105,12 @@
         "open-source",
         "prompt-engineering"
       ],
-      "stars": 1671,
+      "stars": 1673,
       "forks": 203,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-09T19:02:54Z",
-      "updated_at": "2026-10-18T10:51:51Z",
+      "updated_at": "2026-10-20T07:02:36Z",
       "pushed_at": "2026-07-15T13:22:05Z",
       "archived": false,
       "disabled": false,
@@ -22183,8 +22193,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 95,
-        "reason": "距離最近 push 約 95 天。"
+        "days_since_push": 96,
+        "reason": "距離最近 push 約 96 天。"
       },
       "risks": {
         "highest_level": "high",
@@ -22240,12 +22250,12 @@
         "skill",
         "social-media"
       ],
-      "stars": 1214,
-      "forks": 114,
+      "stars": 1216,
+      "forks": 115,
       "license": null,
       "default_branch": "main",
       "starred_at": "2026-07-09T03:58:38Z",
-      "updated_at": "2026-10-19T06:35:43Z",
+      "updated_at": "2026-10-20T01:36:46Z",
       "pushed_at": "2026-07-07T18:13:06Z",
       "archived": false,
       "disabled": false,
@@ -22360,8 +22370,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 103,
-        "reason": "距離最近 push 約 103 天。"
+        "days_since_push": 104,
+        "reason": "距離最近 push 約 104 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -22429,13 +22439,13 @@
         "self-hosted",
         "tensorflow"
       ],
-      "stars": 40324,
+      "stars": 40328,
       "forks": 2333,
       "license": "NOASSERTION",
       "default_branch": "develop",
       "starred_at": "2026-06-06T17:36:22Z",
-      "updated_at": "2026-10-19T08:36:43Z",
-      "pushed_at": "2026-10-19T08:36:38Z",
+      "updated_at": "2026-10-20T07:27:26Z",
+      "pushed_at": "2026-10-20T06:16:01Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -22636,12 +22646,12 @@
         "research-figures",
         "text-to-image"
       ],
-      "stars": 5796,
-      "forks": 470,
+      "stars": 5811,
+      "forks": 469,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-10T17:01:32Z",
-      "updated_at": "2026-10-19T08:24:15Z",
+      "updated_at": "2026-10-20T08:20:42Z",
       "pushed_at": "2026-09-30T11:54:50Z",
       "archived": false,
       "disabled": false,
@@ -22805,8 +22815,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 18,
-        "reason": "距離最近 push 約 18 天。"
+        "days_since_push": 19,
+        "reason": "距離最近 push 約 19 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -22943,8 +22953,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 97,
-        "reason": "距離最近 push 約 97 天。"
+        "days_since_push": 98,
+        "reason": "距離最近 push 約 98 天。"
       },
       "risks": {
         "highest_level": "none",
@@ -22986,13 +22996,13 @@
         "prompts",
         "text-rendering"
       ],
-      "stars": 10124,
-      "forks": 886,
+      "stars": 10134,
+      "forks": 887,
       "license": "NOASSERTION",
       "default_branch": "main",
       "starred_at": "2026-06-06T14:00:41Z",
-      "updated_at": "2026-10-19T03:02:56Z",
-      "pushed_at": "2026-10-19T02:17:15Z",
+      "updated_at": "2026-10-20T08:11:45Z",
+      "pushed_at": "2026-10-20T02:31:20Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -23146,12 +23156,12 @@
       "description": "A high-quality GPT-Image-2 prompting skill with bilingual README, structured prompting methods, templates, and examples.",
       "language": null,
       "topics": [],
-      "stars": 53,
+      "stars": 54,
       "forks": 7,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-06T17:02:22Z",
-      "updated_at": "2026-09-21T01:46:02Z",
+      "updated_at": "2026-10-20T06:40:14Z",
       "pushed_at": "2026-05-31T04:09:43Z",
       "archived": false,
       "disabled": false,
@@ -23240,8 +23250,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 141,
-        "reason": "距離最近 push 約 141 天。"
+        "days_since_push": 142,
+        "reason": "距離最近 push 約 142 天。"
       },
       "risks": {
         "highest_level": "info",
@@ -23285,12 +23295,12 @@
         "nous-research",
         "skills"
       ],
-      "stars": 5862,
-      "forks": 451,
+      "stars": 5870,
+      "forks": 460,
       "license": "NOASSERTION",
       "default_branch": "main",
       "starred_at": "2026-06-16T06:52:14Z",
-      "updated_at": "2026-10-18T16:26:54Z",
+      "updated_at": "2026-10-20T03:02:39Z",
       "pushed_at": "2026-09-22T06:26:00Z",
       "archived": false,
       "disabled": false,
@@ -23438,8 +23448,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 27,
-        "reason": "距離最近 push 約 27 天。"
+        "days_since_push": 28,
+        "reason": "距離最近 push 約 28 天。"
       },
       "risks": {
         "highest_level": "high",
@@ -23518,12 +23528,12 @@
         "rag"
       ],
       "stars": 1628,
-      "forks": 122,
+      "forks": 126,
       "license": "Apache-2.0",
       "default_branch": "main",
       "starred_at": "2026-06-16T06:49:42Z",
-      "updated_at": "2026-10-18T22:14:27Z",
-      "pushed_at": "2026-10-14T19:52:43Z",
+      "updated_at": "2026-10-20T07:22:20Z",
+      "pushed_at": "2026-10-19T17:49:20Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -23627,8 +23637,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 4,
-        "reason": "距離最近 push 約 4 天。"
+        "days_since_push": 0,
+        "reason": "距離最近 push 約 0 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -23695,13 +23705,13 @@
         "mcp",
         "productivity"
       ],
-      "stars": 283544,
-      "forks": 42115,
+      "stars": 284355,
+      "forks": 42237,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-07-10T06:47:34Z",
-      "updated_at": "2026-10-19T08:45:37Z",
-      "pushed_at": "2026-10-19T05:03:15Z",
+      "updated_at": "2026-10-20T08:26:09Z",
+      "pushed_at": "2026-10-20T03:39:21Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -23998,8 +24008,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 172,
-        "reason": "距離最近 push 約 172 天。"
+        "days_since_push": 173,
+        "reason": "距離最近 push 約 173 天。"
       },
       "risks": {
         "highest_level": "low",
@@ -24049,12 +24059,12 @@
         "second-brain",
         "wiki"
       ],
-      "stars": 3591,
-      "forks": 363,
+      "stars": 3596,
+      "forks": 364,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-16T06:54:14Z",
-      "updated_at": "2026-10-19T08:17:28Z",
+      "updated_at": "2026-10-20T07:22:58Z",
       "pushed_at": "2026-10-18T14:40:05Z",
       "archived": false,
       "disabled": false,
@@ -24183,8 +24193,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 0,
-        "reason": "距離最近 push 約 0 天。"
+        "days_since_push": 1,
+        "reason": "距離最近 push 約 1 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -24264,12 +24274,12 @@
         "typescript",
         "visualization"
       ],
-      "stars": 1117,
-      "forks": 140,
+      "stars": 1123,
+      "forks": 141,
       "license": "Apache-2.0",
       "default_branch": "main",
       "starred_at": "2026-06-06T17:42:48Z",
-      "updated_at": "2026-10-19T03:28:05Z",
+      "updated_at": "2026-10-20T05:40:40Z",
       "pushed_at": "2026-06-29T11:08:10Z",
       "archived": false,
       "disabled": false,
@@ -24413,8 +24423,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 111,
-        "reason": "距離最近 push 約 111 天。"
+        "days_since_push": 112,
+        "reason": "距離最近 push 約 112 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -24500,13 +24510,13 @@
         "tree-sitter",
         "windsurf"
       ],
-      "stars": 46895,
-      "forks": 3877,
+      "stars": 46983,
+      "forks": 3889,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-07-07T20:12:47Z",
-      "updated_at": "2026-10-19T08:30:16Z",
-      "pushed_at": "2026-10-19T05:45:45Z",
+      "updated_at": "2026-10-20T08:24:48Z",
+      "pushed_at": "2026-10-20T04:36:05Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -24729,12 +24739,12 @@
         "understandcode",
         "vibe-coding"
       ],
-      "stars": 86929,
-      "forks": 7330,
+      "stars": 87104,
+      "forks": 7352,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-15T18:08:34Z",
-      "updated_at": "2026-10-19T08:45:25Z",
+      "updated_at": "2026-10-20T08:21:56Z",
       "pushed_at": "2026-10-12T10:24:59Z",
       "archived": false,
       "disabled": false,
@@ -24874,8 +24884,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 6,
-        "reason": "距離最近 push 約 6 天。"
+        "days_since_push": 7,
+        "reason": "距離最近 push 約 7 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -24935,13 +24945,13 @@
       "description": "Google Cloud Knowledge Catalog Tools and Samples",
       "language": "TypeScript",
       "topics": [],
-      "stars": 9499,
-      "forks": 804,
+      "stars": 9506,
+      "forks": 805,
       "license": "Apache-2.0",
       "default_branch": "main",
       "starred_at": "2026-06-21T21:50:09Z",
-      "updated_at": "2026-10-19T05:32:07Z",
-      "pushed_at": "2026-10-19T06:39:28Z",
+      "updated_at": "2026-10-20T07:28:55Z",
+      "pushed_at": "2026-10-20T08:13:02Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -25081,12 +25091,12 @@
         "skills",
         "tree-sitter"
       ],
-      "stars": 128649,
-      "forks": 12398,
+      "stars": 129408,
+      "forks": 12479,
       "license": "Apache-2.0",
       "default_branch": "v8",
       "starred_at": "2026-07-10T06:49:34Z",
-      "updated_at": "2026-10-19T08:45:03Z",
+      "updated_at": "2026-10-20T08:22:46Z",
       "pushed_at": "2026-10-16T17:57:21Z",
       "archived": false,
       "disabled": false,
@@ -25243,8 +25253,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 2,
-        "reason": "距離最近 push 約 2 天。"
+        "days_since_push": 3,
+        "reason": "距離最近 push 約 3 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -25415,8 +25425,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 41,
-        "reason": "距離最近 push 約 41 天。"
+        "days_since_push": 42,
+        "reason": "距離最近 push 約 42 天。"
       },
       "risks": {
         "highest_level": "info",
@@ -25460,12 +25470,12 @@
       "description": "AI agents running research on single-GPU nanochat training automatically",
       "language": "Python",
       "topics": [],
-      "stars": 98136,
-      "forks": 13596,
+      "stars": 98199,
+      "forks": 13603,
       "license": null,
       "default_branch": "master",
       "starred_at": "2026-06-17T07:25:07Z",
-      "updated_at": "2026-10-19T08:39:32Z",
+      "updated_at": "2026-10-20T08:22:59Z",
       "pushed_at": "2026-03-26T00:07:37Z",
       "archived": false,
       "disabled": false,
@@ -25527,8 +25537,8 @@
       "maintenance": {
         "status": "maintained",
         "label": "近期維護",
-        "days_since_push": 207,
-        "reason": "距離最近 push 約 207 天。"
+        "days_since_push": 208,
+        "reason": "距離最近 push 約 208 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -25581,12 +25591,12 @@
         "sqlite",
         "tauri"
       ],
-      "stars": 654,
+      "stars": 655,
       "forks": 132,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-06T21:45:33Z",
-      "updated_at": "2026-10-18T02:04:52Z",
+      "updated_at": "2026-10-19T19:06:58Z",
       "pushed_at": "2026-10-07T16:00:56Z",
       "archived": false,
       "disabled": false,
@@ -25681,8 +25691,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 11,
-        "reason": "距離最近 push 約 11 天。"
+        "days_since_push": 12,
+        "reason": "距離最近 push 約 12 天。"
       },
       "risks": {
         "highest_level": "high",
@@ -25749,12 +25759,12 @@
         "opencode",
         "skills"
       ],
-      "stars": 49754,
-      "forks": 3521,
+      "stars": 49796,
+      "forks": 3522,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-24T18:43:28Z",
-      "updated_at": "2026-10-19T08:41:24Z",
+      "updated_at": "2026-10-20T08:21:38Z",
       "pushed_at": "2026-09-15T14:43:57Z",
       "archived": false,
       "disabled": false,
@@ -25846,8 +25856,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 33,
-        "reason": "距離最近 push 約 33 天。"
+        "days_since_push": 34,
+        "reason": "距離最近 push 約 34 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -25903,13 +25913,13 @@
       "description": "Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex)",
       "language": "Python",
       "topics": [],
-      "stars": 1139,
-      "forks": 115,
+      "stars": 1144,
+      "forks": 117,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-09-22T21:36:59Z",
-      "updated_at": "2026-10-18T12:32:39Z",
-      "pushed_at": "2026-10-19T01:42:42Z",
+      "updated_at": "2026-10-20T07:27:03Z",
+      "pushed_at": "2026-10-19T21:56:29Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -26047,12 +26057,12 @@
         "agents",
         "memory"
       ],
-      "stars": 2401,
-      "forks": 458,
+      "stars": 2404,
+      "forks": 459,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-07-03T05:09:13Z",
-      "updated_at": "2026-10-19T08:24:03Z",
+      "updated_at": "2026-10-20T04:51:58Z",
       "pushed_at": "2026-08-11T15:37:42Z",
       "archived": false,
       "disabled": false,
@@ -26123,8 +26133,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 68,
-        "reason": "距離最近 push 約 68 天。"
+        "days_since_push": 69,
+        "reason": "距離最近 push 約 69 天。"
       },
       "risks": {
         "highest_level": "high",
@@ -26183,13 +26193,13 @@
         "python",
         "rag"
       ],
-      "stars": 43491,
-      "forks": 7422,
+      "stars": 43557,
+      "forks": 7435,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-16T06:47:06Z",
-      "updated_at": "2026-10-19T08:14:07Z",
-      "pushed_at": "2026-10-18T19:18:52Z",
+      "updated_at": "2026-10-20T08:24:43Z",
+      "pushed_at": "2026-10-20T08:25:28Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -26458,8 +26468,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 125,
-        "reason": "距離最近 push 約 125 天。"
+        "days_since_push": 126,
+        "reason": "距離最近 push 約 126 天。"
       },
       "risks": {
         "highest_level": "info",
@@ -26513,7 +26523,7 @@
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-20T14:12:12Z",
-      "updated_at": "2026-10-18T19:35:11Z",
+      "updated_at": "2026-10-19T18:41:35Z",
       "pushed_at": "2026-10-04T11:03:47Z",
       "archived": false,
       "disabled": false,
@@ -26608,8 +26618,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 14,
-        "reason": "距離最近 push 約 14 天。"
+        "days_since_push": 15,
+        "reason": "距離最近 push 約 15 天。"
       },
       "risks": {
         "highest_level": "high",
@@ -26674,12 +26684,12 @@
         "memory",
         "python"
       ],
-      "stars": 59631,
-      "forks": 7563,
+      "stars": 59650,
+      "forks": 7569,
       "license": "MIT",
       "default_branch": "develop",
       "starred_at": "2026-06-17T07:24:47Z",
-      "updated_at": "2026-10-19T08:40:01Z",
+      "updated_at": "2026-10-20T08:08:32Z",
       "pushed_at": "2026-10-18T14:20:56Z",
       "archived": false,
       "disabled": false,
@@ -26766,8 +26776,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 0,
-        "reason": "距離最近 push 約 0 天。"
+        "days_since_push": 1,
+        "reason": "距離最近 push 約 1 天。"
       },
       "risks": {
         "highest_level": "info",
@@ -26820,13 +26830,13 @@
         "semantic-memory",
         "stateful-ai"
       ],
-      "stars": 2333,
-      "forks": 747,
+      "stars": 2335,
+      "forks": 750,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-15T18:12:25Z",
-      "updated_at": "2026-10-18T11:25:31Z",
-      "pushed_at": "2026-10-17T21:01:34Z",
+      "updated_at": "2026-10-20T05:36:40Z",
+      "pushed_at": "2026-10-19T20:06:44Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -26909,8 +26919,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 1,
-        "reason": "距離最近 push 約 1 天。"
+        "days_since_push": 0,
+        "reason": "距離最近 push 約 0 天。"
       },
       "risks": {
         "highest_level": "info",
@@ -26962,13 +26972,13 @@
         "hermes-agent",
         "nous-research"
       ],
-      "stars": 19029,
-      "forks": 2752,
+      "stars": 19052,
+      "forks": 2758,
       "license": "MIT",
       "default_branch": "master",
       "starred_at": "2026-06-16T06:52:16Z",
-      "updated_at": "2026-10-19T08:20:43Z",
-      "pushed_at": "2026-10-19T07:50:00Z",
+      "updated_at": "2026-10-20T08:09:35Z",
+      "pushed_at": "2026-10-20T07:01:51Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -27125,13 +27135,13 @@
         "nous-research",
         "openai"
       ],
-      "stars": 255059,
-      "forks": 55495,
+      "stars": 255376,
+      "forks": 55615,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-16T06:46:58Z",
-      "updated_at": "2026-10-19T08:45:58Z",
-      "pushed_at": "2026-10-19T08:45:00Z",
+      "updated_at": "2026-10-20T08:25:56Z",
+      "pushed_at": "2026-10-20T07:54:09Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -27280,12 +27290,12 @@
         "documentation",
         "mermaid"
       ],
-      "stars": 3165,
-      "forks": 253,
+      "stars": 3170,
+      "forks": 257,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-07-10T14:59:45Z",
-      "updated_at": "2026-10-19T08:33:31Z",
+      "updated_at": "2026-10-20T05:24:14Z",
       "pushed_at": "2026-04-07T05:23:24Z",
       "archived": false,
       "disabled": false,
@@ -27421,8 +27431,8 @@
       "maintenance": {
         "status": "maintained",
         "label": "近期維護",
-        "days_since_push": 195,
-        "reason": "距離最近 push 約 195 天。"
+        "days_since_push": 196,
+        "reason": "距離最近 push 約 196 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -27492,13 +27502,13 @@
         "ui",
         "webui"
       ],
-      "stars": 156134,
-      "forks": 22726,
+      "stars": 156232,
+      "forks": 22738,
       "license": "NOASSERTION",
       "default_branch": "main",
       "starred_at": "2026-09-15T21:18:18Z",
-      "updated_at": "2026-10-19T08:43:27Z",
-      "pushed_at": "2026-10-18T20:02:00Z",
+      "updated_at": "2026-10-20T08:21:03Z",
+      "pushed_at": "2026-10-19T14:13:24Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -27694,12 +27704,12 @@
         "python",
         "rag"
       ],
-      "stars": 142263,
-      "forks": 20919,
+      "stars": 142359,
+      "forks": 20933,
       "license": "Apache-2.0",
       "default_branch": "main",
       "starred_at": "2026-06-17T07:25:36Z",
-      "updated_at": "2026-10-19T08:44:58Z",
+      "updated_at": "2026-10-20T08:26:12Z",
       "pushed_at": "2026-10-18T16:28:46Z",
       "archived": false,
       "disabled": false,
@@ -27811,8 +27821,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 0,
-        "reason": "距離最近 push 約 0 天。"
+        "days_since_push": 1,
+        "reason": "距離最近 push 約 1 天。"
       },
       "risks": {
         "highest_level": "info",
@@ -27872,13 +27882,13 @@
         "sqlite",
         "supermemory"
       ],
-      "stars": 101686,
-      "forks": 8936,
+      "stars": 101862,
+      "forks": 8962,
       "license": "Apache-2.0",
       "default_branch": "main",
       "starred_at": "2026-09-05T20:09:27Z",
-      "updated_at": "2026-10-19T08:40:36Z",
-      "pushed_at": "2026-10-19T08:10:06Z",
+      "updated_at": "2026-10-20T08:25:46Z",
+      "pushed_at": "2026-10-20T01:28:51Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -28040,7 +28050,7 @@
       "name": "crawl4ai",
       "url": "https://github.com/unclecode/crawl4ai",
       "homepage": "https://crawl4ai.com",
-      "description": "Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.",
+      "description": "Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8mtf",
       "language": "Python",
       "topics": [
         "ai",
@@ -28059,13 +28069,13 @@
         "web-crawling",
         "web-scraping"
       ],
-      "stars": 85809,
-      "forks": 8921,
+      "stars": 85891,
+      "forks": 8935,
       "license": "Apache-2.0",
       "default_branch": "main",
       "starred_at": "2026-09-05T19:41:47Z",
-      "updated_at": "2026-10-19T08:25:51Z",
-      "pushed_at": "2026-10-19T04:42:12Z",
+      "updated_at": "2026-10-20T07:51:38Z",
+      "pushed_at": "2026-10-20T02:43:56Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -28159,7 +28169,7 @@
           ]
         }
       ],
-      "capability_summary": "主要能力：瀏覽器操作與資料蒐集、AI Agent 建構與編排、MCP／工具整合。依專案描述：Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.",
+      "capability_summary": "主要能力：瀏覽器操作與資料蒐集、AI Agent 建構與編排、MCP／工具整合。依專案描述：Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8mtf",
       "suitable_for": [
         "蒐集公開網頁資料",
         "自動化瀏覽器操作",
@@ -28258,7 +28268,7 @@
         "topic:web-crawling",
         "topic:web-scraping"
       ],
-      "search_text": "unclecode/crawl4ai open-source web crawler and scraper for llms and ai agents: any website into clean, llm-ready markdown. run it yourself, or use crawl4ai cloud with one key. python ai ai-agents crawler data-extraction llm markdown mcp open-source playwright python rag scraper web-crawler web-crawling web-scraping ai agent 與 agent skills 自動化與整合 知識、研究與記憶 資料、機器學習與分析 web、桌面與平台 瀏覽器操作與資料蒐集 ai agent 建構與編排 mcp／工具整合 知識庫、rag 與記憶 蒐集公開網頁資料 自動化瀏覽器操作 建立或編排 ai agent 設計多步驟代理流程 把外部工具接入 ai 助手 設定 mcp client/server capability:agent-orchestration capability:browser-data-collection capability:knowledge-memory capability:mcp-integration category:ai-agents category:automation-integration category:data-ai category:knowledge-research category:web-platform language:python maintenance:active risk:high topic:ai topic:ai-agents topic:crawler topic:data-extraction topic:llm topic:markdown topic:mcp topic:open-source topic:playwright topic:python topic:rag topic:scraper topic:web-crawler topic:web-crawling topic:web-scraping"
+      "search_text": "unclecode/crawl4ai open-source web crawler and scraper for llms and ai agents: any website into clean, llm-ready markdown. run it yourself, or use crawl4ai cloud with one key. join our discord https://discord.gg/vuxzm8mtf python ai ai-agents crawler data-extraction llm markdown mcp open-source playwright python rag scraper web-crawler web-crawling web-scraping ai agent 與 agent skills 自動化與整合 知識、研究與記憶 資料、機器學習與分析 web、桌面與平台 瀏覽器操作與資料蒐集 ai agent 建構與編排 mcp／工具整合 知識庫、rag 與記憶 蒐集公開網頁資料 自動化瀏覽器操作 建立或編排 ai agent 設計多步驟代理流程 把外部工具接入 ai 助手 設定 mcp client/server capability:agent-orchestration capability:browser-data-collection capability:knowledge-memory capability:mcp-integration category:ai-agents category:automation-integration category:data-ai category:knowledge-research category:web-platform language:python maintenance:active risk:high topic:ai topic:ai-agents topic:crawler topic:data-extraction topic:llm topic:markdown topic:mcp topic:open-source topic:playwright topic:python topic:rag topic:scraper topic:web-crawler topic:web-crawling topic:web-scraping"
     },
     {
       "full_name": "xr843/Master-skill",
@@ -28289,8 +28299,8 @@
       "license": "NOASSERTION",
       "default_branch": "main",
       "starred_at": "2026-08-25T06:28:04Z",
-      "updated_at": "2026-10-19T07:26:53Z",
-      "pushed_at": "2026-10-19T07:26:51Z",
+      "updated_at": "2026-10-20T05:17:14Z",
+      "pushed_at": "2026-10-20T05:17:10Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -28462,12 +28472,12 @@
       "description": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
       "language": "HTML",
       "topics": [],
-      "stars": 3459,
-      "forks": 326,
+      "stars": 3463,
+      "forks": 327,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-23T16:22:53Z",
-      "updated_at": "2026-10-19T04:46:46Z",
+      "updated_at": "2026-10-20T01:28:05Z",
       "pushed_at": "2026-08-14T15:37:20Z",
       "archived": false,
       "disabled": false,
@@ -28553,8 +28563,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 65,
-        "reason": "距離最近 push 約 65 天。"
+        "days_since_push": 66,
+        "reason": "距離最近 push 約 66 天。"
       },
       "risks": {
         "highest_level": "none",
@@ -28596,12 +28606,12 @@
         "slide-generator",
         "slides"
       ],
-      "stars": 9682,
-      "forks": 834,
+      "stars": 9721,
+      "forks": 836,
       "license": "AGPL-3.0",
       "default_branch": "main",
       "starred_at": "2026-07-08T21:04:35Z",
-      "updated_at": "2026-10-19T08:36:35Z",
+      "updated_at": "2026-10-20T08:06:35Z",
       "pushed_at": "2026-09-12T14:13:08Z",
       "archived": false,
       "disabled": false,
@@ -28732,8 +28742,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 36,
-        "reason": "距離最近 push 約 36 天。"
+        "days_since_push": 37,
+        "reason": "距離最近 push 約 37 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -28789,12 +28799,12 @@
       "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
       "language": "Python",
       "topics": [],
-      "stars": 2121,
-      "forks": 179,
+      "stars": 2131,
+      "forks": 180,
       "license": null,
       "default_branch": "main",
       "starred_at": "2026-09-06T06:41:45Z",
-      "updated_at": "2026-10-19T08:13:58Z",
+      "updated_at": "2026-10-20T06:33:19Z",
       "pushed_at": "2026-06-07T16:26:51Z",
       "archived": false,
       "disabled": false,
@@ -28883,8 +28893,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 133,
-        "reason": "距離最近 push 約 133 天。"
+        "days_since_push": 134,
+        "reason": "距離最近 push 約 134 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -28934,12 +28944,12 @@
         "slide",
         "slides"
       ],
-      "stars": 63667,
-      "forks": 5042,
+      "stars": 64085,
+      "forks": 5066,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-06T13:57:47Z",
-      "updated_at": "2026-10-19T08:44:56Z",
+      "updated_at": "2026-10-20T08:24:54Z",
       "pushed_at": "2026-10-19T03:30:11Z",
       "archived": false,
       "disabled": false,
@@ -29100,8 +29110,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 0,
-        "reason": "距離最近 push 約 0 天。"
+        "days_since_push": 1,
+        "reason": "距離最近 push 約 1 天。"
       },
       "risks": {
         "highest_level": "info",
@@ -29159,13 +29169,13 @@
         "presentation",
         "slide"
       ],
-      "stars": 5129,
-      "forks": 600,
+      "stars": 5133,
+      "forks": 601,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-09-06T06:41:34Z",
-      "updated_at": "2026-10-19T08:23:20Z",
-      "pushed_at": "2026-10-12T21:35:26Z",
+      "updated_at": "2026-10-20T07:29:30Z",
+      "pushed_at": "2026-10-19T21:35:58Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -29266,8 +29276,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 6,
-        "reason": "距離最近 push 約 6 天。"
+        "days_since_push": 0,
+        "reason": "距離最近 push 約 0 天。"
       },
       "risks": {
         "highest_level": "info",
@@ -29314,12 +29324,12 @@
         "notebooklm",
         "skill"
       ],
-      "stars": 6357,
-      "forks": 690,
+      "stars": 6361,
+      "forks": 689,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-06T17:07:40Z",
-      "updated_at": "2026-10-19T08:09:46Z",
+      "updated_at": "2026-10-20T05:14:53Z",
       "pushed_at": "2026-10-05T04:06:59Z",
       "archived": false,
       "disabled": false,
@@ -29479,8 +29489,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 14,
-        "reason": "距離最近 push 約 14 天。"
+        "days_since_push": 15,
+        "reason": "距離最近 push 約 15 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -29532,12 +29542,12 @@
       "description": "HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations",
       "language": "HTML",
       "topics": [],
-      "stars": 8739,
-      "forks": 743,
+      "stars": 8758,
+      "forks": 744,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-06T14:00:04Z",
-      "updated_at": "2026-10-19T08:43:01Z",
+      "updated_at": "2026-10-20T08:24:17Z",
       "pushed_at": "2026-09-14T07:36:59Z",
       "archived": false,
       "disabled": false,
@@ -29618,8 +29628,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 35,
-        "reason": "距離最近 push 約 35 天。"
+        "days_since_push": 36,
+        "reason": "距離最近 push 約 36 天。"
       },
       "risks": {
         "highest_level": "info",
@@ -29673,7 +29683,7 @@
         "typescript"
       ],
       "stars": 23,
-      "forks": 5,
+      "forks": 6,
       "license": "Apache-2.0",
       "default_branch": "main",
       "starred_at": "2026-09-06T06:41:57Z",
@@ -29779,8 +29789,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 102,
-        "reason": "距離最近 push 約 102 天。"
+        "days_since_push": 103,
+        "reason": "距離最近 push 約 103 天。"
       },
       "risks": {
         "highest_level": "info",
@@ -29841,12 +29851,12 @@
         "presentation",
         "slides"
       ],
-      "stars": 3874,
-      "forks": 204,
+      "stars": 3878,
+      "forks": 209,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-09-06T06:40:28Z",
-      "updated_at": "2026-10-19T00:46:06Z",
+      "updated_at": "2026-10-20T04:08:15Z",
       "pushed_at": "2026-09-08T14:24:15Z",
       "archived": false,
       "disabled": false,
@@ -29920,8 +29930,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 40,
-        "reason": "距離最近 push 約 40 天。"
+        "days_since_push": 41,
+        "reason": "距離最近 push 約 41 天。"
       },
       "risks": {
         "highest_level": "high",
@@ -29968,12 +29978,12 @@
         "openai",
         "pdf"
       ],
-      "stars": 190995,
-      "forks": 14210,
+      "stars": 191185,
+      "forks": 14232,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-09-08T16:42:51Z",
-      "updated_at": "2026-10-19T08:38:49Z",
+      "updated_at": "2026-10-20T08:24:26Z",
       "pushed_at": "2026-10-04T03:59:52Z",
       "archived": false,
       "disabled": false,
@@ -30050,8 +30060,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 15,
-        "reason": "距離最近 push 約 15 天。"
+        "days_since_push": 16,
+        "reason": "距離最近 push 約 16 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -30117,12 +30127,12 @@
         "slides",
         "typescript"
       ],
-      "stars": 944,
+      "stars": 948,
       "forks": 80,
       "license": "MIT",
       "default_branch": "master",
       "starred_at": "2026-09-06T06:42:07Z",
-      "updated_at": "2026-10-19T08:15:25Z",
+      "updated_at": "2026-10-19T13:47:37Z",
       "pushed_at": "2026-07-21T08:59:12Z",
       "archived": false,
       "disabled": false,
@@ -30327,8 +30337,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 89,
-        "reason": "距離最近 push 約 89 天。"
+        "days_since_push": 90,
+        "reason": "距離最近 push 約 90 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -30410,12 +30420,12 @@
         "swiss-design",
         "web-ppt"
       ],
-      "stars": 28215,
+      "stars": 28276,
       "forks": 1952,
       "license": "AGPL-3.0",
       "default_branch": "main",
       "starred_at": "2026-06-06T14:02:37Z",
-      "updated_at": "2026-10-19T08:45:09Z",
+      "updated_at": "2026-10-20T08:05:18Z",
       "pushed_at": "2026-08-07T03:58:08Z",
       "archived": false,
       "disabled": false,
@@ -30578,8 +30588,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 73,
-        "reason": "距離最近 push 約 73 天。"
+        "days_since_push": 74,
+        "reason": "距離最近 push 約 74 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -30647,12 +30657,12 @@
         "presentation",
         "presentation-agent"
       ],
-      "stars": 11208,
-      "forks": 1706,
+      "stars": 11234,
+      "forks": 1712,
       "license": "Apache-2.0",
       "default_branch": "main",
       "starred_at": "2026-09-06T06:42:18Z",
-      "updated_at": "2026-10-19T08:20:53Z",
+      "updated_at": "2026-10-20T08:21:19Z",
       "pushed_at": "2026-10-19T06:08:49Z",
       "archived": false,
       "disabled": false,
@@ -30744,8 +30754,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 0,
-        "reason": "距離最近 push 約 0 天。"
+        "days_since_push": 1,
+        "reason": "距離最近 push 約 1 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -30808,13 +30818,13 @@
         "pdfmerger",
         "self-hosted"
       ],
-      "stars": 94505,
-      "forks": 11751,
+      "stars": 94583,
+      "forks": 11787,
       "license": "NOASSERTION",
       "default_branch": "main",
       "starred_at": "2026-09-14T20:37:23Z",
-      "updated_at": "2026-10-19T08:35:32Z",
-      "pushed_at": "2026-10-19T06:08:42Z",
+      "updated_at": "2026-10-20T08:06:26Z",
+      "pushed_at": "2026-10-20T01:15:57Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -30966,12 +30976,12 @@
         "slides",
         "vibe-coding"
       ],
-      "stars": 30881,
-      "forks": 2390,
+      "stars": 30950,
+      "forks": 2391,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-09-06T06:40:48Z",
-      "updated_at": "2026-10-19T08:05:39Z",
+      "updated_at": "2026-10-20T08:01:07Z",
       "pushed_at": "2026-06-23T20:08:19Z",
       "archived": false,
       "disabled": false,
@@ -31106,8 +31116,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 117,
-        "reason": "距離最近 push 約 117 天。"
+        "days_since_push": 118,
+        "reason": "距離最近 push 約 118 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -31161,12 +31171,12 @@
       "description": "本仓库包含三个面向学术科研人员的Skills，覆盖从文献阅读、论文写作到科学计算的完整研究工作流。office-academic-skill 负责论文阅读报告与学术 PPT/Word 文档生成；research-writing-skill 提供论文写作、润色与审稿回复辅助；scientific-toolkit-skill 整合 MATLAB/Python 科学计算与期刊级图表生成。三个 Skill 专为中文科研用户设计，可在 Claude Code 和 codex 中一键调用。",
       "language": "Python",
       "topics": [],
-      "stars": 5063,
-      "forks": 263,
+      "stars": 5106,
+      "forks": 267,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-06T17:11:23Z",
-      "updated_at": "2026-10-19T08:41:32Z",
+      "updated_at": "2026-10-20T07:57:39Z",
       "pushed_at": "2026-05-14T09:08:48Z",
       "archived": false,
       "disabled": false,
@@ -31277,8 +31287,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 157,
-        "reason": "距離最近 push 約 157 天。"
+        "days_since_push": 158,
+        "reason": "距離最近 push 約 158 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -31319,12 +31329,12 @@
       "description": "A self-hosted email client with an AI agent, running entirely on Cloudflare Workers",
       "language": "TypeScript",
       "topics": [],
-      "stars": 8368,
-      "forks": 1084,
+      "stars": 8381,
+      "forks": 1090,
       "license": "Apache-2.0",
       "default_branch": "main",
       "starred_at": "2026-06-06T17:04:49Z",
-      "updated_at": "2026-10-19T08:22:48Z",
+      "updated_at": "2026-10-20T06:16:22Z",
       "pushed_at": "2026-04-23T21:04:17Z",
       "archived": false,
       "disabled": false,
@@ -31420,8 +31430,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 178,
-        "reason": "距離最近 push 約 178 天。"
+        "days_since_push": 179,
+        "reason": "距離最近 push 約 179 天。"
       },
       "risks": {
         "highest_level": "high",
@@ -31473,13 +31483,13 @@
         "aiagentframework",
         "llms"
       ],
-      "stars": 59859,
-      "forks": 8786,
+      "stars": 59902,
+      "forks": 8806,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-16T06:46:59Z",
-      "updated_at": "2026-10-19T08:35:35Z",
-      "pushed_at": "2026-10-19T08:26:47Z",
+      "updated_at": "2026-10-20T08:23:34Z",
+      "pushed_at": "2026-10-20T08:10:52Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -31597,13 +31607,13 @@
         "productivity",
         "whiteboard"
       ],
-      "stars": 134142,
-      "forks": 15727,
+      "stars": 134228,
+      "forks": 15757,
       "license": "MIT",
       "default_branch": "master",
       "starred_at": "2026-09-14T20:39:10Z",
-      "updated_at": "2026-10-19T08:35:24Z",
-      "pushed_at": "2026-10-18T18:24:19Z",
+      "updated_at": "2026-10-20T08:09:16Z",
+      "pushed_at": "2026-10-20T08:06:39Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -31706,12 +31716,12 @@
         "windsurf",
         "windsurf-ai"
       ],
-      "stars": 28245,
-      "forks": 2621,
+      "stars": 28254,
+      "forks": 2622,
       "license": "NOASSERTION",
       "default_branch": "main",
       "starred_at": "2026-06-16T06:47:33Z",
-      "updated_at": "2026-10-19T07:33:31Z",
+      "updated_at": "2026-10-20T05:53:59Z",
       "pushed_at": "2026-04-28T13:27:12Z",
       "archived": false,
       "disabled": false,
@@ -31775,8 +31785,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 173,
-        "reason": "距離最近 push 約 173 天。"
+        "days_since_push": 174,
+        "reason": "距離最近 push 約 174 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -31838,12 +31848,12 @@
         "notes-app",
         "self-learning"
       ],
-      "stars": 40360,
-      "forks": 4673,
+      "stars": 40402,
+      "forks": 4681,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-09-14T20:38:01Z",
-      "updated_at": "2026-10-19T08:27:13Z",
+      "updated_at": "2026-10-20T07:55:14Z",
       "pushed_at": "2026-10-18T21:45:29Z",
       "archived": false,
       "disabled": false,
@@ -31913,8 +31923,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 0,
-        "reason": "距離最近 push 約 0 天。"
+        "days_since_push": 1,
+        "reason": "距離最近 push 約 1 天。"
       },
       "risks": {
         "highest_level": "none",
@@ -32012,8 +32022,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 124,
-        "reason": "距離最近 push 約 124 天。"
+        "days_since_push": 125,
+        "reason": "距離最近 push 約 125 天。"
       },
       "risks": {
         "highest_level": "high",
@@ -32063,13 +32073,13 @@
         "latex",
         "resume"
       ],
-      "stars": 54667,
-      "forks": 17650,
+      "stars": 58511,
+      "forks": 18447,
       "license": "MIT",
       "default_branch": "master",
       "starred_at": "2026-07-10T19:31:19Z",
-      "updated_at": "2026-10-19T08:46:00Z",
-      "pushed_at": "2026-10-18T19:38:41Z",
+      "updated_at": "2026-10-20T08:26:38Z",
+      "pushed_at": "2026-10-20T06:30:43Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -32196,13 +32206,13 @@
       "description": "Self-hosted AI workspace. ",
       "language": "Python",
       "topics": [],
-      "stars": 93948,
-      "forks": 1677,
+      "stars": 94024,
+      "forks": 1693,
       "license": "AGPL-3.0",
       "default_branch": "dev",
       "starred_at": "2026-06-08T04:28:29Z",
-      "updated_at": "2026-10-19T08:43:44Z",
-      "pushed_at": "2026-10-16T19:05:32Z",
+      "updated_at": "2026-10-20T08:26:11Z",
+      "pushed_at": "2026-10-20T00:12:33Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -32276,8 +32286,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 2,
-        "reason": "距離最近 push 約 2 天。"
+        "days_since_push": 0,
+        "reason": "距離最近 push 約 0 天。"
       },
       "risks": {
         "highest_level": "info",
@@ -32309,13 +32319,13 @@
       "description": "Task-oriented AI Agent productivity platform",
       "language": "TypeScript",
       "topics": [],
-      "stars": 4759,
-      "forks": 517,
+      "stars": 4812,
+      "forks": 522,
       "license": "AGPL-3.0",
       "default_branch": "main",
       "starred_at": "2026-06-17T07:24:30Z",
-      "updated_at": "2026-10-19T08:14:02Z",
-      "pushed_at": "2026-10-19T08:29:45Z",
+      "updated_at": "2026-10-20T07:59:04Z",
+      "pushed_at": "2026-10-20T07:18:02Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -32413,12 +32423,12 @@
         "blender-addon",
         "list"
       ],
-      "stars": 7455,
-      "forks": 466,
+      "stars": 7463,
+      "forks": 470,
       "license": "CC0-1.0",
       "default_branch": "master",
       "starred_at": "2026-09-06T06:28:59Z",
-      "updated_at": "2026-10-19T07:15:17Z",
+      "updated_at": "2026-10-20T03:17:55Z",
       "pushed_at": "2026-01-22T14:37:39Z",
       "archived": false,
       "disabled": false,
@@ -32520,8 +32530,8 @@
       "maintenance": {
         "status": "maintained",
         "label": "近期維護",
-        "days_since_push": 269,
-        "reason": "距離最近 push 約 269 天。"
+        "days_since_push": 270,
+        "reason": "距離最近 push 約 270 天。"
       },
       "risks": {
         "highest_level": "none",
@@ -32671,8 +32681,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 32,
-        "reason": "距離最近 push 約 32 天。"
+        "days_since_push": 33,
+        "reason": "距離最近 push 約 33 天。"
       },
       "risks": {
         "highest_level": "info",
@@ -32707,12 +32717,12 @@
       "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
       "language": "Jupyter Notebook",
       "topics": [],
-      "stars": 53568,
-      "forks": 6451,
+      "stars": 53591,
+      "forks": 6452,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-06T13:59:51Z",
-      "updated_at": "2026-10-19T08:15:08Z",
+      "updated_at": "2026-10-20T08:13:10Z",
       "pushed_at": "2026-10-17T00:28:09Z",
       "archived": false,
       "disabled": false,
@@ -32782,8 +32792,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 2,
-        "reason": "距離最近 push 約 2 天。"
+        "days_since_push": 3,
+        "reason": "距離最近 push 約 3 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -32833,12 +32843,12 @@
         "llm",
         "skills"
       ],
-      "stars": 16956,
-      "forks": 1751,
+      "stars": 16968,
+      "forks": 1779,
       "license": null,
       "default_branch": "master",
       "starred_at": "2026-06-06T13:58:18Z",
-      "updated_at": "2026-10-19T07:37:19Z",
+      "updated_at": "2026-10-20T08:26:18Z",
       "pushed_at": "2026-07-26T01:14:54Z",
       "archived": false,
       "disabled": false,
@@ -32975,8 +32985,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 85,
-        "reason": "距離最近 push 約 85 天。"
+        "days_since_push": 86,
+        "reason": "距離最近 push 約 86 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -33056,13 +33066,13 @@
         "prompts-chat",
         "typescript"
       ],
-      "stars": 173488,
-      "forks": 22193,
+      "stars": 173614,
+      "forks": 22210,
       "license": "NOASSERTION",
       "default_branch": "main",
       "starred_at": "2026-09-07T22:52:14Z",
-      "updated_at": "2026-10-19T08:44:38Z",
-      "pushed_at": "2026-10-19T03:19:47Z",
+      "updated_at": "2026-10-20T08:14:01Z",
+      "pushed_at": "2026-10-20T06:48:50Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -33275,12 +33285,12 @@
         "jev",
         "typesafe"
       ],
-      "stars": 978,
-      "forks": 73,
+      "stars": 980,
+      "forks": 74,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-09-22T22:15:39Z",
-      "updated_at": "2026-10-19T07:16:21Z",
+      "updated_at": "2026-10-20T05:37:52Z",
       "pushed_at": "2026-10-19T02:31:37Z",
       "archived": false,
       "disabled": false,
@@ -33347,8 +33357,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 0,
-        "reason": "距離最近 push 約 0 天。"
+        "days_since_push": 1,
+        "reason": "距離最近 push 約 1 天。"
       },
       "risks": {
         "highest_level": "info",
@@ -33385,12 +33395,12 @@
       "description": "Skills Catalog for Codex",
       "language": "Python",
       "topics": [],
-      "stars": 28160,
+      "stars": 28182,
       "forks": 1941,
       "license": null,
       "default_branch": "main",
       "starred_at": "2026-06-16T07:03:34Z",
-      "updated_at": "2026-10-19T07:18:07Z",
+      "updated_at": "2026-10-20T07:59:25Z",
       "pushed_at": "2026-09-08T20:35:26Z",
       "archived": false,
       "disabled": false,
@@ -33482,8 +33492,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 40,
-        "reason": "距離最近 push 約 40 天。"
+        "days_since_push": 41,
+        "reason": "距離最近 push 約 41 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -33531,12 +33541,12 @@
         "ai",
         "mcp"
       ],
-      "stars": 96592,
-      "forks": 18004,
+      "stars": 96640,
+      "forks": 18094,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-16T06:47:21Z",
-      "updated_at": "2026-10-19T08:43:37Z",
+      "updated_at": "2026-10-20T07:40:15Z",
       "pushed_at": "2026-10-18T02:37:56Z",
       "archived": false,
       "disabled": false,
@@ -33626,8 +33636,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 1,
-        "reason": "距離最近 push 約 1 天。"
+        "days_since_push": 2,
+        "reason": "距離最近 push 約 2 天。"
       },
       "risks": {
         "highest_level": "info",
@@ -33661,12 +33671,12 @@
       "description": "An awesome collection of Jev use cases, workflows, and agent skills.",
       "language": "Python",
       "topics": [],
-      "stars": 634,
+      "stars": 638,
       "forks": 48,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-09-20T21:08:09Z",
-      "updated_at": "2026-10-19T04:36:26Z",
+      "updated_at": "2026-10-20T04:11:18Z",
       "pushed_at": "2026-10-17T20:54:30Z",
       "archived": false,
       "disabled": false,
@@ -33781,8 +33791,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 1,
-        "reason": "距離最近 push 約 1 天。"
+        "days_since_push": 2,
+        "reason": "距離最近 push 約 2 天。"
       },
       "risks": {
         "highest_level": "info",
@@ -33822,12 +33832,12 @@
         "pentesting",
         "python"
       ],
-      "stars": 9186,
-      "forks": 1085,
+      "stars": 9188,
+      "forks": 1086,
       "license": null,
       "default_branch": "main",
       "starred_at": "2026-09-25T20:51:44Z",
-      "updated_at": "2026-10-19T03:44:33Z",
+      "updated_at": "2026-10-20T07:38:32Z",
       "pushed_at": "2026-10-17T16:06:50Z",
       "archived": false,
       "disabled": false,
@@ -33915,8 +33925,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 1,
-        "reason": "距離最近 push 約 1 天。"
+        "days_since_push": 2,
+        "reason": "距離最近 push 約 2 天。"
       },
       "risks": {
         "highest_level": "high",
@@ -33991,13 +34001,13 @@
         "termux",
         "termux-tool"
       ],
-      "stars": 4431,
+      "stars": 4438,
       "forks": 512,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-09-25T20:51:13Z",
-      "updated_at": "2026-10-19T07:29:42Z",
-      "pushed_at": "2026-10-13T12:32:14Z",
+      "updated_at": "2026-10-20T07:24:06Z",
+      "pushed_at": "2026-10-20T07:24:11Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -34089,8 +34099,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 5,
-        "reason": "距離最近 push 約 5 天。"
+        "days_since_push": 0,
+        "reason": "距離最近 push 約 0 天。"
       },
       "risks": {
         "highest_level": "high",
@@ -34149,12 +34159,12 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "topics": [],
-      "stars": 31320,
-      "forks": 1960,
+      "stars": 32882,
+      "forks": 2057,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-29T19:34:23Z",
-      "updated_at": "2026-10-19T08:45:57Z",
+      "updated_at": "2026-10-20T08:26:09Z",
       "pushed_at": "2026-09-14T19:29:02Z",
       "archived": false,
       "disabled": false,
@@ -34272,8 +34282,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 34,
-        "reason": "距離最近 push 約 34 天。"
+        "days_since_push": 35,
+        "reason": "距離最近 push 約 35 天。"
       },
       "risks": {
         "highest_level": "high",
@@ -34396,8 +34406,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 117,
-        "reason": "距離最近 push 約 117 天。"
+        "days_since_push": 118,
+        "reason": "距離最近 push 約 118 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -34450,13 +34460,13 @@
         "pwa",
         "web"
       ],
-      "stars": 30906,
-      "forks": 9766,
+      "stars": 30914,
+      "forks": 9768,
       "license": "Apache-2.0",
       "default_branch": "main",
       "starred_at": "2026-09-06T07:09:19Z",
-      "updated_at": "2026-10-19T00:25:48Z",
-      "pushed_at": "2026-10-18T12:04:51Z",
+      "updated_at": "2026-10-20T07:39:41Z",
+      "pushed_at": "2026-10-20T00:46:22Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -34621,13 +34631,13 @@
         "utility",
         "windows"
       ],
-      "stars": 41626,
+      "stars": 41648,
       "forks": 1972,
       "license": "Apache-2.0",
       "default_branch": "main",
       "starred_at": "2026-06-08T04:12:45Z",
-      "updated_at": "2026-10-19T08:16:54Z",
-      "pushed_at": "2026-10-18T19:26:53Z",
+      "updated_at": "2026-10-20T07:43:13Z",
+      "pushed_at": "2026-10-19T15:29:06Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -34772,13 +34782,13 @@
         "palantir",
         "situation"
       ],
-      "stars": 88787,
-      "forks": 13618,
+      "stars": 88883,
+      "forks": 13639,
       "license": "AGPL-3.0",
       "default_branch": "main",
       "starred_at": "2026-06-24T17:31:42Z",
-      "updated_at": "2026-10-19T08:38:58Z",
-      "pushed_at": "2026-10-19T08:37:38Z",
+      "updated_at": "2026-10-20T08:19:16Z",
+      "pushed_at": "2026-10-20T08:21:06Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -34958,12 +34968,12 @@
         "redteam",
         "subdomain-enumeration"
       ],
-      "stars": 17997,
-      "forks": 2670,
+      "stars": 18004,
+      "forks": 2671,
       "license": "GPL-2.0",
       "default_branch": "master",
       "starred_at": "2026-09-25T20:52:53Z",
-      "updated_at": "2026-10-19T05:43:48Z",
+      "updated_at": "2026-10-20T08:20:33Z",
       "pushed_at": "2026-10-19T05:43:51Z",
       "archived": false,
       "disabled": false,
@@ -35048,8 +35058,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 0,
-        "reason": "距離最近 push 約 0 天。"
+        "days_since_push": 1,
+        "reason": "距離最近 push 約 1 天。"
       },
       "risks": {
         "highest_level": "high",
@@ -35194,8 +35204,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 155,
-        "reason": "距離最近 push 約 155 天。"
+        "days_since_push": 156,
+        "reason": "距離最近 push 約 156 天。"
       },
       "risks": {
         "highest_level": "high",
@@ -35245,12 +35255,12 @@
         "python",
         "recon"
       ],
-      "stars": 9842,
-      "forks": 1224,
+      "stars": 9858,
+      "forks": 1225,
       "license": "Apache-2.0",
       "default_branch": "main",
       "starred_at": "2026-06-06T17:05:44Z",
-      "updated_at": "2026-10-19T08:32:03Z",
+      "updated_at": "2026-10-20T04:21:55Z",
       "pushed_at": "2026-10-18T19:56:10Z",
       "archived": false,
       "disabled": false,
@@ -35338,8 +35348,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 0,
-        "reason": "距離最近 push 約 0 天。"
+        "days_since_push": 1,
+        "reason": "距離最近 push 約 1 天。"
       },
       "risks": {
         "highest_level": "high",
@@ -35396,12 +35406,12 @@
         "threat-intelligence",
         "threatintel"
       ],
-      "stars": 23611,
-      "forks": 3782,
+      "stars": 23637,
+      "forks": 3786,
       "license": "MIT",
       "default_branch": "master",
       "starred_at": "2026-09-25T20:52:33Z",
-      "updated_at": "2026-10-19T05:19:31Z",
+      "updated_at": "2026-10-20T07:40:19Z",
       "pushed_at": "2026-04-13T19:43:06Z",
       "archived": false,
       "disabled": false,
@@ -35481,8 +35491,8 @@
       "maintenance": {
         "status": "maintained",
         "label": "近期維護",
-        "days_since_push": 188,
-        "reason": "距離最近 push 約 188 天。"
+        "days_since_push": 189,
+        "reason": "距離最近 push 約 189 天。"
       },
       "risks": {
         "highest_level": "high",
@@ -35566,13 +35576,13 @@
         "socmint",
         "username"
       ],
-      "stars": 39207,
-      "forks": 3092,
+      "stars": 39234,
+      "forks": 3095,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-09-25T20:52:03Z",
-      "updated_at": "2026-10-19T08:36:17Z",
-      "pushed_at": "2026-10-19T08:08:13Z",
+      "updated_at": "2026-10-20T07:05:26Z",
+      "pushed_at": "2026-10-20T06:03:04Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -35737,13 +35747,13 @@
         "wpscan",
         "wpvulndb"
       ],
-      "stars": 9805,
+      "stars": 9808,
       "forks": 1349,
       "license": "NOASSERTION",
       "default_branch": "master",
       "starred_at": "2026-09-06T07:10:24Z",
-      "updated_at": "2026-10-19T03:48:17Z",
-      "pushed_at": "2026-09-28T15:01:06Z",
+      "updated_at": "2026-10-20T07:33:37Z",
+      "pushed_at": "2026-10-19T10:42:51Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -35805,8 +35815,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 20,
-        "reason": "距離最近 push 約 20 天。"
+        "days_since_push": 0,
+        "reason": "距離最近 push 約 0 天。"
       },
       "risks": {
         "highest_level": "high",
@@ -35857,12 +35867,12 @@
       "description": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
       "language": "JavaScript",
       "topics": [],
-      "stars": 1718,
-      "forks": 173,
+      "stars": 1723,
+      "forks": 174,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-09-15T20:38:04Z",
-      "updated_at": "2026-10-19T06:46:48Z",
+      "updated_at": "2026-10-20T08:02:20Z",
       "pushed_at": "2026-09-09T22:43:38Z",
       "archived": false,
       "disabled": false,
@@ -35949,8 +35959,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 39,
-        "reason": "距離最近 push 約 39 天。"
+        "days_since_push": 40,
+        "reason": "距離最近 push 約 40 天。"
       },
       "risks": {
         "highest_level": "info",
@@ -35983,13 +35993,13 @@
       "description": "Simulation platform for general-purpose robotics & embodied AI learning.",
       "language": "Python",
       "topics": [],
-      "stars": 30085,
-      "forks": 2889,
+      "stars": 30094,
+      "forks": 2893,
       "license": "Apache-2.0",
       "default_branch": "main",
       "starred_at": "2026-06-06T17:35:51Z",
-      "updated_at": "2026-10-19T08:22:14Z",
-      "pushed_at": "2026-10-17T08:56:07Z",
+      "updated_at": "2026-10-20T05:36:09Z",
+      "pushed_at": "2026-10-19T22:32:32Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -36074,8 +36084,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 1,
-        "reason": "距離最近 push 約 1 天。"
+        "days_since_push": 0,
+        "reason": "距離最近 push 約 0 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -36122,13 +36132,13 @@
         "multi-platform",
         "open-source"
       ],
-      "stars": 118661,
-      "forks": 27112,
+      "stars": 118728,
+      "forks": 27131,
       "license": "MIT",
       "default_branch": "master",
       "starred_at": "2026-09-15T21:19:43Z",
-      "updated_at": "2026-10-19T08:20:18Z",
-      "pushed_at": "2026-10-18T08:33:01Z",
+      "updated_at": "2026-10-20T07:27:45Z",
+      "pushed_at": "2026-10-20T07:16:28Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -36189,8 +36199,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 1,
-        "reason": "距離最近 push 約 1 天。"
+        "days_since_push": 0,
+        "reason": "距離最近 push 約 0 天。"
       },
       "risks": {
         "highest_level": "none",
@@ -36221,12 +36231,12 @@
       "description": "A skill that turn any brand into a scrollable 3D world landing page",
       "language": "JavaScript",
       "topics": [],
-      "stars": 10260,
-      "forks": 1128,
+      "stars": 10285,
+      "forks": 1133,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-07-08T08:18:54Z",
-      "updated_at": "2026-10-19T07:53:22Z",
+      "updated_at": "2026-10-20T07:13:36Z",
       "pushed_at": "2026-07-29T04:44:56Z",
       "archived": false,
       "disabled": false,
@@ -36296,8 +36306,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 82,
-        "reason": "距離最近 push 約 82 天。"
+        "days_since_push": 83,
+        "reason": "距離最近 push 約 83 天。"
       },
       "risks": {
         "highest_level": "none",
@@ -36329,12 +36339,12 @@
         "renderer",
         "threejs"
       ],
-      "stars": 33064,
-      "forks": 2038,
+      "stars": 33091,
+      "forks": 2041,
       "license": "MIT",
       "default_branch": "master",
       "starred_at": "2026-09-06T07:10:31Z",
-      "updated_at": "2026-10-19T06:53:41Z",
+      "updated_at": "2026-10-20T07:36:06Z",
       "pushed_at": "2026-10-17T01:54:18Z",
       "archived": false,
       "disabled": false,
@@ -36404,8 +36414,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 2,
-        "reason": "距離最近 push 約 2 天。"
+        "days_since_push": 3,
+        "reason": "距離最近 push 約 3 天。"
       },
       "risks": {
         "highest_level": "none",
@@ -36442,12 +36452,12 @@
         "physics",
         "simulation"
       ],
-      "stars": 4560,
+      "stars": 4561,
       "forks": 344,
       "license": "Apache-2.0",
       "default_branch": "main",
       "starred_at": "2026-06-06T17:36:10Z",
-      "updated_at": "2026-10-19T03:17:09Z",
+      "updated_at": "2026-10-19T13:02:00Z",
       "pushed_at": "2026-10-19T00:17:55Z",
       "archived": false,
       "disabled": false,
@@ -36514,8 +36524,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 0,
-        "reason": "距離最近 push 約 0 天。"
+        "days_since_push": 1,
+        "reason": "距離最近 push 約 1 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -36551,12 +36561,12 @@
       "description": "Modular cross-runtime WebGPU library for shaders, 3D scenes, GPU tensors, neural networks, and math viz",
       "language": "TypeScript",
       "topics": [],
-      "stars": 2562,
+      "stars": 2566,
       "forks": 131,
       "license": "MIT",
       "default_branch": "canary",
       "starred_at": "2026-09-06T16:43:24Z",
-      "updated_at": "2026-10-19T07:22:58Z",
+      "updated_at": "2026-10-19T17:44:34Z",
       "pushed_at": "2026-10-16T18:46:59Z",
       "archived": false,
       "disabled": false,
@@ -36641,8 +36651,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 2,
-        "reason": "距離最近 push 約 2 天。"
+        "days_since_push": 3,
+        "reason": "距離最近 push 約 3 天。"
       },
       "risks": {
         "highest_level": "high",
@@ -36686,12 +36696,12 @@
         "svg",
         "vizualization"
       ],
-      "stars": 16420,
-      "forks": 1255,
+      "stars": 17155,
+      "forks": 1304,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-10-17T20:09:22Z",
-      "updated_at": "2026-10-19T08:45:44Z",
+      "updated_at": "2026-10-20T08:23:45Z",
       "pushed_at": "2026-10-18T20:20:24Z",
       "archived": false,
       "disabled": false,
@@ -36802,8 +36812,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 0,
-        "reason": "距離最近 push 約 0 天。"
+        "days_since_push": 1,
+        "reason": "距離最近 push 約 1 天。"
       },
       "risks": {
         "highest_level": "info",
@@ -37125,8 +37135,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 3,
-        "reason": "距離最近 push 約 3 天。"
+        "days_since_push": 4,
+        "reason": "距離最近 push 約 4 天。"
       },
       "risks": {
         "highest_level": "high",
@@ -37190,12 +37200,12 @@
       "description": "Twitter Trend Radar",
       "language": "HTML",
       "topics": [],
-      "stars": 225,
+      "stars": 224,
       "forks": 62,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-18T18:05:30Z",
-      "updated_at": "2026-10-18T14:36:35Z",
+      "updated_at": "2026-10-19T17:51:45Z",
       "pushed_at": "2026-06-18T16:25:10Z",
       "archived": false,
       "disabled": false,
@@ -37276,8 +37286,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 122,
-        "reason": "距離最近 push 約 122 天。"
+        "days_since_push": 123,
+        "reason": "距離最近 push 約 123 天。"
       },
       "risks": {
         "highest_level": "none",
@@ -37303,12 +37313,12 @@
       "description": "The official Python library for Shodan",
       "language": "Python",
       "topics": [],
-      "stars": 3336,
+      "stars": 3338,
       "forks": 742,
       "license": "NOASSERTION",
       "default_branch": "master",
       "starred_at": "2026-09-25T20:53:35Z",
-      "updated_at": "2026-10-19T05:45:00Z",
+      "updated_at": "2026-10-20T06:14:26Z",
       "pushed_at": "2024-08-05T13:11:50Z",
       "archived": false,
       "disabled": false,
@@ -37363,8 +37373,8 @@
       "maintenance": {
         "status": "dormant",
         "label": "長期未更新",
-        "days_since_push": 804,
-        "reason": "距離最近 push 約 804 天。"
+        "days_since_push": 805,
+        "reason": "距離最近 push 約 805 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -37461,8 +37471,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 24,
-        "reason": "距離最近 push 約 24 天。"
+        "days_since_push": 25,
+        "reason": "距離最近 push 約 25 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -37559,8 +37569,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 133,
-        "reason": "距離最近 push 約 133 天。"
+        "days_since_push": 134,
+        "reason": "距離最近 push 約 134 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -37596,13 +37606,13 @@
       "description": "A hive mind communication platform",
       "language": "Rust",
       "topics": [],
-      "stars": 36139,
-      "forks": 4788,
+      "stars": 36171,
+      "forks": 4796,
       "license": "Apache-2.0",
       "default_branch": "main",
       "starred_at": "2026-09-15T21:13:17Z",
-      "updated_at": "2026-10-19T08:39:33Z",
-      "pushed_at": "2026-10-19T06:14:59Z",
+      "updated_at": "2026-10-20T08:16:00Z",
+      "pushed_at": "2026-10-20T03:07:34Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -37741,8 +37751,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 146,
-        "reason": "距離最近 push 約 146 天。"
+        "days_since_push": 147,
+        "reason": "距離最近 push 約 147 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -37839,8 +37849,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 178,
-        "reason": "距離最近 push 約 178 天。"
+        "days_since_push": 179,
+        "reason": "距離最近 push 約 179 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -37937,8 +37947,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 38,
-        "reason": "距離最近 push 約 38 天。"
+        "days_since_push": 39,
+        "reason": "距離最近 push 約 39 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -38035,8 +38045,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 38,
-        "reason": "距離最近 push 約 38 天。"
+        "days_since_push": 39,
+        "reason": "距離最近 push 約 39 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -38073,12 +38083,12 @@
       "description": "A free + OSS logo generator powered by Flux on Together AI",
       "language": "TypeScript",
       "topics": [],
-      "stars": 8866,
+      "stars": 8869,
       "forks": 824,
       "license": null,
       "default_branch": "main",
       "starred_at": "2026-09-17T05:46:16Z",
-      "updated_at": "2026-10-19T03:05:06Z",
+      "updated_at": "2026-10-19T23:16:37Z",
       "pushed_at": "2026-08-03T17:29:28Z",
       "archived": false,
       "disabled": false,
@@ -38133,8 +38143,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 76,
-        "reason": "距離最近 push 約 76 天。"
+        "days_since_push": 77,
+        "reason": "距離最近 push 約 77 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -38185,13 +38195,13 @@
         "universal",
         "vue"
       ],
-      "stars": 60969,
-      "forks": 5829,
+      "stars": 60977,
+      "forks": 5830,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-09-06T07:10:38Z",
-      "updated_at": "2026-10-19T07:52:39Z",
-      "pushed_at": "2026-10-19T07:12:23Z",
+      "updated_at": "2026-10-20T01:09:30Z",
+      "pushed_at": "2026-10-20T06:20:55Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -38283,12 +38293,12 @@
       "description": "A lightweight gallery of mathematical curve based loading animations with modal previews, formulas, and copyable code snippets.",
       "language": "JavaScript",
       "topics": [],
-      "stars": 2062,
+      "stars": 2063,
       "forks": 138,
       "license": null,
       "default_branch": "main",
       "starred_at": "2026-06-16T17:15:43Z",
-      "updated_at": "2026-10-15T09:41:02Z",
+      "updated_at": "2026-10-20T06:31:32Z",
       "pushed_at": "2026-04-04T08:18:14Z",
       "archived": false,
       "disabled": false,
@@ -38343,8 +38353,8 @@
       "maintenance": {
         "status": "maintained",
         "label": "近期維護",
-        "days_since_push": 198,
-        "reason": "距離最近 push 約 198 天。"
+        "days_since_push": 199,
+        "reason": "距離最近 push 約 199 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -38381,12 +38391,12 @@
       "description": null,
       "language": "JavaScript",
       "topics": [],
-      "stars": 625,
+      "stars": 626,
       "forks": 60,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-09-20T21:15:11Z",
-      "updated_at": "2026-10-19T07:35:53Z",
+      "updated_at": "2026-10-20T03:32:48Z",
       "pushed_at": "2026-09-22T03:08:17Z",
       "archived": false,
       "disabled": false,
@@ -38441,8 +38451,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 27,
-        "reason": "距離最近 push 約 27 天。"
+        "days_since_push": 28,
+        "reason": "距離最近 push 約 28 天。"
       },
       "risks": {
         "highest_level": "low",
@@ -38473,12 +38483,12 @@
       "description": null,
       "language": "JavaScript",
       "topics": [],
-      "stars": 6027,
+      "stars": 6028,
       "forks": 453,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-21T05:28:52Z",
-      "updated_at": "2026-10-19T01:48:52Z",
+      "updated_at": "2026-10-20T07:30:55Z",
       "pushed_at": "2026-10-08T12:07:12Z",
       "archived": false,
       "disabled": false,
@@ -38533,8 +38543,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 10,
-        "reason": "距離最近 push 約 10 天。"
+        "days_since_push": 11,
+        "reason": "距離最近 push 約 11 天。"
       },
       "risks": {
         "highest_level": "low",
@@ -38565,12 +38575,12 @@
       "description": "用 Claude Code Skills 做的视频剪辑 Agent",
       "language": "JavaScript",
       "topics": [],
-      "stars": 3100,
+      "stars": 3108,
       "forks": 392,
       "license": "Apache-2.0",
       "default_branch": "main",
       "starred_at": "2026-06-24T18:47:33Z",
-      "updated_at": "2026-10-19T08:15:22Z",
+      "updated_at": "2026-10-20T07:58:11Z",
       "pushed_at": "2026-10-10T11:04:24Z",
       "archived": false,
       "disabled": false,
@@ -38656,8 +38666,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 8,
-        "reason": "距離最近 push 約 8 天。"
+        "days_since_push": 9,
+        "reason": "距離最近 push 約 9 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -38696,12 +38706,12 @@
       "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
       "language": "HTML",
       "topics": [],
-      "stars": 10777,
-      "forks": 1607,
+      "stars": 10790,
+      "forks": 1611,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-09-06T07:45:37Z",
-      "updated_at": "2026-10-19T07:32:08Z",
+      "updated_at": "2026-10-20T08:26:13Z",
       "pushed_at": "2026-07-09T17:49:44Z",
       "archived": false,
       "disabled": false,
@@ -38790,8 +38800,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 101,
-        "reason": "距離最近 push 約 101 天。"
+        "days_since_push": 102,
+        "reason": "距離最近 push 約 102 天。"
       },
       "risks": {
         "highest_level": "high",
@@ -38824,12 +38834,12 @@
       "description": "Edit videos with coding agents",
       "language": "Python",
       "topics": [],
-      "stars": 29305,
-      "forks": 3469,
+      "stars": 29391,
+      "forks": 3479,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-09-20T21:16:31Z",
-      "updated_at": "2026-10-19T08:42:19Z",
+      "updated_at": "2026-10-20T07:50:28Z",
       "pushed_at": "2026-10-08T22:17:01Z",
       "archived": false,
       "disabled": false,
@@ -38937,8 +38947,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 10,
-        "reason": "距離最近 push 約 10 天。"
+        "days_since_push": 11,
+        "reason": "距離最近 push 約 11 天。"
       },
       "risks": {
         "highest_level": "info",
@@ -38994,12 +39004,12 @@
         "video-generation",
         "video-production"
       ],
-      "stars": 69687,
-      "forks": 9014,
+      "stars": 70091,
+      "forks": 9076,
       "license": "AGPL-3.0",
       "default_branch": "main",
       "starred_at": "2026-07-07T20:13:04Z",
-      "updated_at": "2026-10-19T08:43:25Z",
+      "updated_at": "2026-10-20T08:26:29Z",
       "pushed_at": "2026-10-16T15:07:33Z",
       "archived": false,
       "disabled": false,
@@ -39172,8 +39182,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 2,
-        "reason": "距離最近 push 約 2 天。"
+        "days_since_push": 3,
+        "reason": "距離最近 push 約 3 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -39252,12 +39262,12 @@
         "digital-human",
         "video-generation"
       ],
-      "stars": 2750,
+      "stars": 2758,
       "forks": 417,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-09-27T20:08:53Z",
-      "updated_at": "2026-10-19T07:20:01Z",
+      "updated_at": "2026-10-20T07:37:49Z",
       "pushed_at": "2026-10-11T23:54:19Z",
       "archived": false,
       "disabled": false,
@@ -39355,8 +39365,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 7,
-        "reason": "距離最近 push 約 7 天。"
+        "days_since_push": 8,
+        "reason": "距離最近 push 約 8 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -39406,12 +39416,12 @@
         "seedance-2",
         "video-prompt"
       ],
-      "stars": 4346,
-      "forks": 350,
+      "stars": 4357,
+      "forks": 351,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-06T13:55:51Z",
-      "updated_at": "2026-10-19T08:34:31Z",
+      "updated_at": "2026-10-20T07:54:32Z",
       "pushed_at": "2026-09-19T18:18:50Z",
       "archived": false,
       "disabled": false,
@@ -39481,8 +39491,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 29,
-        "reason": "距離最近 push 約 29 天。"
+        "days_since_push": 30,
+        "reason": "距離最近 push 約 30 天。"
       },
       "risks": {
         "highest_level": "none",
@@ -39519,12 +39529,12 @@
         "video-generation",
         "video-synthesis"
       ],
-      "stars": 15980,
-      "forks": 2726,
+      "stars": 15991,
+      "forks": 2728,
       "license": "NOASSERTION",
       "default_branch": "main",
       "starred_at": "2026-09-13T08:03:55Z",
-      "updated_at": "2026-10-19T06:18:45Z",
+      "updated_at": "2026-10-20T07:47:02Z",
       "pushed_at": "2026-04-21T07:06:36Z",
       "archived": false,
       "disabled": false,
@@ -39589,8 +39599,8 @@
       "maintenance": {
         "status": "maintained",
         "label": "近期維護",
-        "days_since_push": 181,
-        "reason": "距離最近 push 約 181 天。"
+        "days_since_push": 182,
+        "reason": "距離最近 push 約 182 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -39650,12 +39660,12 @@
         "video-automation",
         "youtube"
       ],
-      "stars": 2186,
-      "forks": 350,
+      "stars": 2198,
+      "forks": 357,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-07-10T11:05:49Z",
-      "updated_at": "2026-10-19T05:22:28Z",
+      "updated_at": "2026-10-20T07:23:56Z",
       "pushed_at": "2026-10-15T17:36:58Z",
       "archived": false,
       "disabled": false,
@@ -39775,8 +39785,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 3,
-        "reason": "距離最近 push 約 3 天。"
+        "days_since_push": 4,
+        "reason": "距離最近 push 約 4 天。"
       },
       "risks": {
         "highest_level": "info",
@@ -39835,13 +39845,13 @@
         "workflow-automation",
         "youtube-shorts"
       ],
-      "stars": 132942,
-      "forks": 20995,
+      "stars": 133254,
+      "forks": 21058,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-06T17:04:18Z",
-      "updated_at": "2026-10-19T08:45:30Z",
-      "pushed_at": "2026-10-19T07:44:24Z",
+      "updated_at": "2026-10-20T08:16:15Z",
+      "pushed_at": "2026-10-20T03:58:54Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -40036,24 +40046,28 @@
       "language": "TypeScript",
       "topics": [
         "ai",
+        "ai-agents",
         "animation",
+        "claude-code",
         "ffmpeg",
         "framework",
         "gsap",
         "html",
+        "html-to-video",
         "mcp",
+        "motion-graphics",
         "puppeteer",
         "rendering",
         "typescript",
-        "video"
+        "video-editor"
       ],
-      "stars": 67082,
-      "forks": 6076,
+      "stars": 67942,
+      "forks": 6136,
       "license": "Apache-2.0",
       "default_branch": "main",
       "starred_at": "2026-06-06T17:04:08Z",
-      "updated_at": "2026-10-19T08:44:53Z",
-      "pushed_at": "2026-10-19T07:10:22Z",
+      "updated_at": "2026-10-20T08:25:00Z",
+      "pushed_at": "2026-10-20T08:25:33Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -40068,6 +40082,17 @@
       },
       "categories": [
         {
+          "id": "ai-agents",
+          "label": "AI Agent 與 Agent Skills",
+          "confidence": "high",
+          "evidence": [
+            "ai-agent",
+            "ai-agents",
+            "claude-code",
+            "mcp"
+          ]
+        },
+        {
           "id": "video-media",
           "label": "影片與媒體製作",
           "confidence": "high",
@@ -40078,11 +40103,11 @@
           ]
         },
         {
-          "id": "ai-agents",
-          "label": "AI Agent 與 Agent Skills",
+          "id": "data-ai",
+          "label": "資料、機器學習與分析",
           "confidence": "low",
           "evidence": [
-            "mcp"
+            "graph"
           ]
         },
         {
@@ -40095,6 +40120,15 @@
         }
       ],
       "capabilities": [
+        {
+          "id": "agent-orchestration",
+          "label": "AI Agent 建構與編排",
+          "confidence": "medium",
+          "evidence": [
+            "ai-agent",
+            "ai-agents"
+          ]
+        },
         {
           "id": "video-production",
           "label": "影片生成、剪輯與轉檔",
@@ -40113,8 +40147,10 @@
           ]
         }
       ],
-      "capability_summary": "主要能力：影片生成、剪輯與轉檔、MCP／工具整合。依專案描述：Write HTML. Render video. Built for agents.",
+      "capability_summary": "主要能力：AI Agent 建構與編排、影片生成、剪輯與轉檔、MCP／工具整合。依專案描述：Write HTML. Render video. Built for agents.",
       "suitable_for": [
+        "建立或編排 AI Agent",
+        "設計多步驟代理流程",
         "產生、剪輯或轉檔影片",
         "建立字幕與短影音流程",
         "把外部工具接入 AI 助手",
@@ -40141,6 +40177,7 @@
         "max_score": 5,
         "level": "中等",
         "can_help_with": [
+          "設計 Agent 架構、工具介面與評估案例",
           "規劃腳本、剪輯與轉檔自動化",
           "產生設定範例並排查 MCP 連線"
         ],
@@ -40155,9 +40192,15 @@
         "reason": "距離最近 push 約 0 天。"
       },
       "risks": {
-        "highest_level": "info",
-        "highest_label": "資訊",
+        "highest_level": "medium",
+        "highest_label": "中",
         "items": [
+          {
+            "code": "external-service",
+            "level": "medium",
+            "label": "中",
+            "message": "部分功能可能需要第三方帳號、API key、付費額度或受服務條款限制。"
+          },
           {
             "code": "ai-accuracy",
             "level": "info",
@@ -40167,27 +40210,33 @@
         ]
       },
       "tags": [
+        "capability:agent-orchestration",
         "capability:mcp-integration",
         "capability:video-production",
         "category:ai-agents",
+        "category:data-ai",
         "category:video-media",
         "category:web-platform",
         "language:typescript",
         "maintenance:active",
-        "risk:info",
+        "risk:medium",
         "topic:ai",
+        "topic:ai-agents",
         "topic:animation",
+        "topic:claude-code",
         "topic:ffmpeg",
         "topic:framework",
         "topic:gsap",
         "topic:html",
+        "topic:html-to-video",
         "topic:mcp",
+        "topic:motion-graphics",
         "topic:puppeteer",
         "topic:rendering",
         "topic:typescript",
-        "topic:video"
+        "topic:video-editor"
       ],
-      "search_text": "heygen-com/hyperframes write html. render video. built for agents. typescript ai animation ffmpeg framework gsap html mcp puppeteer rendering typescript video 影片與媒體製作 ai agent 與 agent skills web、桌面與平台 影片生成、剪輯與轉檔 mcp／工具整合 產生、剪輯或轉檔影片 建立字幕與短影音流程 把外部工具接入 ai 助手 設定 mcp client/server capability:mcp-integration capability:video-production category:ai-agents category:video-media category:web-platform language:typescript maintenance:active risk:info topic:ai topic:animation topic:ffmpeg topic:framework topic:gsap topic:html topic:mcp topic:puppeteer topic:rendering topic:typescript topic:video"
+      "search_text": "heygen-com/hyperframes write html. render video. built for agents. typescript ai ai-agents animation claude-code ffmpeg framework gsap html html-to-video mcp motion-graphics puppeteer rendering typescript video-editor ai agent 與 agent skills 影片與媒體製作 資料、機器學習與分析 web、桌面與平台 ai agent 建構與編排 影片生成、剪輯與轉檔 mcp／工具整合 建立或編排 ai agent 設計多步驟代理流程 產生、剪輯或轉檔影片 建立字幕與短影音流程 把外部工具接入 ai 助手 設定 mcp client/server capability:agent-orchestration capability:mcp-integration capability:video-production category:ai-agents category:data-ai category:video-media category:web-platform language:typescript maintenance:active risk:medium topic:ai topic:ai-agents topic:animation topic:claude-code topic:ffmpeg topic:framework topic:gsap topic:html topic:html-to-video topic:mcp topic:motion-graphics topic:puppeteer topic:rendering topic:typescript topic:video-editor"
     },
     {
       "full_name": "HKUDS/ViMax",
@@ -40200,12 +40249,12 @@
         "agentic-aigc",
         "video-generation"
       ],
-      "stars": 12692,
-      "forks": 1922,
+      "stars": 12706,
+      "forks": 1925,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-09T16:06:22Z",
-      "updated_at": "2026-10-19T06:51:26Z",
+      "updated_at": "2026-10-20T07:25:30Z",
       "pushed_at": "2026-09-30T14:35:08Z",
       "archived": false,
       "disabled": false,
@@ -40289,8 +40338,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 18,
-        "reason": "距離最近 push 約 18 天。"
+        "days_since_push": 19,
+        "reason": "距離最近 push 約 19 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -40352,12 +40401,12 @@
         "video-editing",
         "video-generation"
       ],
-      "stars": 23726,
-      "forks": 2815,
+      "stars": 24153,
+      "forks": 2910,
       "license": "NOASSERTION",
       "default_branch": "main",
       "starred_at": "2026-09-15T07:25:08Z",
-      "updated_at": "2026-10-19T08:45:22Z",
+      "updated_at": "2026-10-20T08:22:17Z",
       "pushed_at": "2026-10-19T03:45:35Z",
       "archived": false,
       "disabled": false,
@@ -40482,8 +40531,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 0,
-        "reason": "距離最近 push 約 0 天。"
+        "days_since_push": 1,
+        "reason": "距離最近 push 約 1 天。"
       },
       "risks": {
         "highest_level": "high",
@@ -40578,7 +40627,7 @@
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-08T04:46:23Z",
-      "updated_at": "2026-10-19T02:09:40Z",
+      "updated_at": "2026-10-20T02:36:10Z",
       "pushed_at": "2026-07-05T14:10:21Z",
       "archived": false,
       "disabled": false,
@@ -40699,8 +40748,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 105,
-        "reason": "距離最近 push 約 105 天。"
+        "days_since_push": 106,
+        "reason": "距離最近 push 約 106 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -40772,12 +40821,12 @@
         "video-as-code",
         "video-generation"
       ],
-      "stars": 4710,
+      "stars": 4719,
       "forks": 572,
       "license": "Apache-2.0",
       "default_branch": "main",
       "starred_at": "2026-06-06T22:08:26Z",
-      "updated_at": "2026-10-19T01:25:05Z",
+      "updated_at": "2026-10-20T08:18:03Z",
       "pushed_at": "2026-06-21T16:18:31Z",
       "archived": false,
       "disabled": false,
@@ -40941,8 +40990,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 119,
-        "reason": "距離最近 push 約 119 天。"
+        "days_since_push": 120,
+        "reason": "距離最近 push 約 120 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -41008,12 +41057,12 @@
         "oss",
         "videoeditor"
       ],
-      "stars": 95294,
-      "forks": 9389,
+      "stars": 95421,
+      "forks": 9414,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-09-20T21:10:19Z",
-      "updated_at": "2026-10-19T08:37:33Z",
+      "updated_at": "2026-10-20T08:09:32Z",
       "pushed_at": "2026-09-24T09:24:44Z",
       "archived": false,
       "disabled": false,
@@ -41078,8 +41127,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 24,
-        "reason": "距離最近 push 約 24 天。"
+        "days_since_push": 25,
+        "reason": "距離最近 push 約 25 天。"
       },
       "risks": {
         "highest_level": "none",
@@ -41124,13 +41173,13 @@
         "xiaohongshu",
         "youtube-transcript"
       ],
-      "stars": 99289,
-      "forks": 8760,
+      "stars": 99965,
+      "forks": 8831,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-13T13:39:45Z",
-      "updated_at": "2026-10-19T08:40:59Z",
-      "pushed_at": "2026-10-15T11:34:42Z",
+      "updated_at": "2026-10-20T08:24:26Z",
+      "pushed_at": "2026-10-20T08:18:23Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -41274,8 +41323,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 3,
-        "reason": "距離最近 push 約 3 天。"
+        "days_since_push": 0,
+        "reason": "距離最近 push 約 0 天。"
       },
       "risks": {
         "highest_level": "high",
@@ -41352,12 +41401,12 @@
         "screen-studio",
         "windows"
       ],
-      "stars": 34435,
-      "forks": 2783,
+      "stars": 34554,
+      "forks": 2794,
       "license": "NOASSERTION",
       "default_branch": "main",
       "starred_at": "2026-09-14T20:37:08Z",
-      "updated_at": "2026-10-19T08:40:54Z",
+      "updated_at": "2026-10-20T08:26:33Z",
       "pushed_at": "2026-10-17T07:32:21Z",
       "archived": false,
       "disabled": false,
@@ -41443,8 +41492,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 2,
-        "reason": "距離最近 push 約 2 天。"
+        "days_since_push": 3,
+        "reason": "距離最近 push 約 3 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -41485,12 +41534,12 @@
       "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
       "language": "Python",
       "topics": [],
-      "stars": 659,
+      "stars": 658,
       "forks": 94,
       "license": "MIT",
       "default_branch": "main",
       "starred_at": "2026-06-08T16:56:25Z",
-      "updated_at": "2026-10-16T08:19:27Z",
+      "updated_at": "2026-10-19T14:40:44Z",
       "pushed_at": "2026-06-08T10:24:52Z",
       "archived": false,
       "disabled": false,
@@ -41560,8 +41609,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 132,
-        "reason": "距離最近 push 約 132 天。"
+        "days_since_push": 133,
+        "reason": "距離最近 push 約 133 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -41599,12 +41648,12 @@
       "description": null,
       "language": "HTML",
       "topics": [],
-      "stars": 3470,
+      "stars": 3473,
       "forks": 562,
       "license": null,
       "default_branch": "main",
       "starred_at": "2026-06-06T22:10:25Z",
-      "updated_at": "2026-10-19T06:30:16Z",
+      "updated_at": "2026-10-20T06:22:04Z",
       "pushed_at": "2026-08-31T01:54:53Z",
       "archived": false,
       "disabled": false,
@@ -41663,8 +41712,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 49,
-        "reason": "距離最近 push 約 49 天。"
+        "days_since_push": 50,
+        "reason": "距離最近 push 約 50 天。"
       },
       "risks": {
         "highest_level": "medium",
@@ -41712,13 +41761,13 @@
         "timescaledb",
         "tracing"
       ],
-      "stars": 1969,
+      "stars": 1970,
       "forks": 84,
       "license": "AGPL-3.0",
       "default_branch": "master",
       "starred_at": "2026-06-16T18:33:42Z",
-      "updated_at": "2026-10-19T05:16:15Z",
-      "pushed_at": "2026-10-19T03:37:06Z",
+      "updated_at": "2026-10-19T22:42:48Z",
+      "pushed_at": "2026-10-20T08:26:00Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -41854,13 +41903,13 @@
         "static-site-generator",
         "universal"
       ],
-      "stars": 63316,
+      "stars": 63336,
       "forks": 3860,
       "license": "NOASSERTION",
       "default_branch": "main",
       "starred_at": "2026-09-06T07:09:49Z",
-      "updated_at": "2026-10-19T07:34:38Z",
-      "pushed_at": "2026-10-19T08:18:24Z",
+      "updated_at": "2026-10-20T08:00:16Z",
+      "pushed_at": "2026-10-20T07:50:23Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -41978,8 +42027,8 @@
       "license": "NOASSERTION",
       "default_branch": "canary",
       "starred_at": "2026-09-06T07:09:41Z",
-      "updated_at": "2026-10-17T02:28:02Z",
-      "pushed_at": "2026-10-16T21:50:50Z",
+      "updated_at": "2026-10-19T17:20:10Z",
+      "pushed_at": "2026-10-19T18:12:31Z",
       "archived": false,
       "disabled": false,
       "primary_category": {
@@ -42039,8 +42088,8 @@
       "maintenance": {
         "status": "active",
         "label": "活躍",
-        "days_since_push": 2,
-        "reason": "距離最近 push 約 2 天。"
+        "days_since_push": 0,
+        "reason": "距離最近 push 約 0 天。"
       },
       "risks": {
         "highest_level": "medium",
