@@ -3,7 +3,7 @@
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
 - Repository 數：**226**
-- 產生時間（UTC）：`2026-10-20T08:26:47.784981Z`
+- 產生時間（UTC）：`2026-10-21T08:29:40.104342Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -234,7 +234,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [aliyun/hermes-tablestore-memory](https://github.com/aliyun/hermes-tablestore-memory) | 主要能力：知識庫、RAG 與記憶。metadata 描述不足，需閱讀 README 進一步確認。 | 知識庫、RAG 與記憶 | Python 環境 | 3/5（中等） | 活躍 | 低 |
 | [Ar9av/obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) | 主要能力：知識庫、RAG 與記憶、Agent Skill／提示工作流、MCP／工具整合。依專案描述：Framework for AI agents to build and maintain a digital brain through Obsidian wiki \| Memory System for Agents | AI Agent 與 Agent Skills、資料、機器學習與分析、知識庫、RAG 與記憶、Agent Skill／提示工作流、MCP／工具整合 | Agent Skill 安裝、MCP server 設定 | 4/5（高） | 活躍 | 中 |
 | [beltromatti/get-it](https://github.com/beltromatti/get-it) | 主要能力：知識庫、RAG 與記憶、研究、學習與教學、簡報與文件生成。依專案描述：Read it. See it. Get it. Built at GDG AI Hack Milan 2026 for "Learn Different" track. | 學習與教學、AI Agent 與 Agent Skills、資料、機器學習與分析、Web、桌面與平台、簡報與文件 | Node.js／JavaScript | 4/5（高） | 活躍 | 中 |
-| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 主要能力：程式開發、理解與審查、MCP／工具整合、知識庫、RAG 與記憶。依專案描述：High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 162 languages, sub-ms queries, 99% fewer toke… | 開發與程式碼工具、AI Agent 與 Agent Skills、資料、機器學習與分析、程式開發、理解與審查、MCP／工具整合 | MCP server 設定、原生編譯／Release | 4/5（高） | 活躍 | 中 |
+| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 主要能力：程式開發、理解與審查、MCP／工具整合、知識庫、RAG 與記憶。依專案描述：Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP tools, agent integrations and change-aware… | 開發與程式碼工具、AI Agent 與 Agent Skills、資料、機器學習與分析、自動化與整合、程式開發、理解與審查 | MCP server 設定、原生編譯／Release | 4/5（高） | 活躍 | 中 |
 | [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | 主要能力：知識庫、RAG 與記憶、程式開發、理解與審查、Agent Skill／提示工作流。依專案描述：Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Co… | AI Agent 與 Agent Skills、開發與程式碼工具、資料、機器學習與分析、知識庫、RAG 與記憶、程式開發、理解與審查 | Agent Skill 安裝、Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
 | [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) | 主要能力：知識庫、RAG 與記憶、範例、模板與資源索引。依專案描述：Google Cloud Knowledge Catalog Tools and Samples | 資源清單與參考素材、知識庫、RAG 與記憶、範例、模板與資源索引 | 直接閱讀／複製範例、Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 主要能力：程式開發、理解與審查、知識庫、RAG 與記憶、AI Agent 建構與編排。依專案描述：Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: loca… | AI Agent 與 Agent Skills、開發與程式碼工具、資料、機器學習與分析、程式開發、理解與審查、知識庫、RAG 與記憶 | Agent Skill 安裝、MCP server 設定 | 4/5（高） | 活躍 | 中 |
@@ -340,7 +340,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | Repository | 能力摘要 | 多標籤 | 安裝推定 | ChatGPT | 維護 | 最高風險 |
 |---|---|---|---|---:|---|---|
 | [antoniaci/blackbird](https://github.com/antoniaci/blackbird) | 主要能力：安全檢查與調查、瀏覽器操作與資料蒐集。依專案描述：An OSINT tool to search for accounts by username and email in social networks. | 生產力與工作管理、安全檢查與調查、瀏覽器操作與資料蒐集 | Python 環境 | 2/5（有限） | 活躍 | 高 |
-| [arxhr007/Aliens_eye](https://github.com/arxhr007/Aliens_eye) | 主要能力：瀏覽器操作與資料蒐集、內容企劃與社群發布、安全檢查與調查。依專案描述：Hunt down 840+ social media accounts using AI | 社群、行銷與內容、瀏覽器操作與資料蒐集、內容企劃與社群發布、安全檢查與調查 | Python 環境 | 2/5（有限） | 活躍 | 高 |
+| [arxhr007/Aliens_eye](https://github.com/arxhr007/Aliens_eye) | 主要能力：瀏覽器操作與資料蒐集、內容企劃與社群發布、安全檢查與調查。依專案描述：AI powered OSINT engine to discover and map 840+ social media identities across the web | Web、桌面與平台、社群、行銷與內容、瀏覽器操作與資料蒐集、內容企劃與社群發布、安全檢查與調查 | Python 環境 | 2/5（有限） | 活躍 | 高 |
 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 主要能力：安全檢查與調查、Agent Skill／提示工作流、程式開發、理解與審查。依專案描述：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings | AI Agent 與 Agent Skills、開發與程式碼工具、Web、桌面與平台、安全檢查與調查、Agent Skill／提示工作流 | Agent Skill 安裝、Node.js／JavaScript | 3/5（中等） | 活躍 | 高 |
 | [dongmingxuan2012-crypto/ai-copyright-self-check-skill](https://github.com/dongmingxuan2012-crypto/ai-copyright-self-check-skill) | 主要能力：安全檢查與調查。metadata 描述不足，需閱讀 README 進一步確認。 | AI Agent 與 Agent Skills、安全檢查與調查 | Shell 腳本／設定檔 | 3/5（中等） | 活躍 | 中 |
 | [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) | 主要能力：程式開發、理解與審查、監控、可觀測性與情報、安全檢查與調查。依專案描述：Automated auditing, performance metrics, and best practices for the web. | 開發與程式碼工具、Web、桌面與平台、程式開發、理解與審查、監控、可觀測性與情報、安全檢查與調查 | Node.js／JavaScript | 3/5（中等） | 活躍 | 高 |
