@@ -3,7 +3,7 @@
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
 - Repository 數：**226**
-- 產生時間（UTC）：`2026-10-21T08:29:40.104342Z`
+- 產生時間（UTC）：`2026-10-22T08:32:11.647329Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -174,7 +174,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [ayuhamaro/Startup-Contradictions](https://github.com/ayuhamaro/Startup-Contradictions) | 主要能力：一般工具／待確認。metadata 描述不足，需閱讀 README 進一步確認。 | 一般工具／待確認 | 依 README 判斷 | 3/5（中等） | 活躍 | 中 |
 | [block/buzz](https://github.com/block/buzz) | 主要能力：一般工具／待確認。依專案描述：A hive mind communication platform | 一般工具／待確認 | Rust 專案 | 3/5（中等） | 活躍 | 無明顯提示 |
 | [joeseesun/qiaomu-artist-style](https://github.com/joeseesun/qiaomu-artist-style) | 主要能力：一般工具／待確認。metadata 描述不足，需閱讀 README 進一步確認。 | 一般工具／待確認 | Node.js／TypeScript | 3/5（中等） | 活躍 | 中 |
-| [limuloo/RefineAnything](https://github.com/limuloo/RefineAnything) | 主要能力：一般工具／待確認。metadata 描述不足，需閱讀 README 進一步確認。 | 一般工具／待確認 | Python 環境 | 3/5（中等） | 活躍 | 中 |
+| [limuloo/RefineAnything](https://github.com/limuloo/RefineAnything) | 主要能力：一般工具／待確認。metadata 描述不足，需閱讀 README 進一步確認。 | 一般工具／待確認 | Python 環境 | 3/5（中等） | 近期維護 | 中 |
 | [nevertoday/xxd-panel-133](https://github.com/nevertoday/xxd-panel-133) | 主要能力：一般工具／待確認。metadata 描述不足，需閱讀 README 進一步確認。 | 一般工具／待確認 | Python 環境 | 3/5（中等） | 活躍 | 中 |
 | [nevertoday/xxd-panel-173](https://github.com/nevertoday/xxd-panel-173) | 主要能力：一般工具／待確認。metadata 描述不足，需閱讀 README 進一步確認。 | 一般工具／待確認 | Python 環境 | 3/5（中等） | 活躍 | 中 |
 | [Nutlope/logocreator](https://github.com/Nutlope/logocreator) | 主要能力：一般工具／待確認。依專案描述：A free + OSS logo generator powered by Flux on Together AI | 一般工具／待確認 | Node.js／TypeScript | 3/5（中等） | 活躍 | 中 |
@@ -213,13 +213,13 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 
 | Repository | 能力摘要 | 多標籤 | 安裝推定 | ChatGPT | 維護 | 最高風險 |
 |---|---|---|---|---:|---|---|
-| [cloudflare/agentic-inbox](https://github.com/cloudflare/agentic-inbox) | 主要能力：AI Agent 建構與編排、本機或自架應用。依專案描述：A self-hosted email client with an AI agent, running entirely on Cloudflare Workers | Web、桌面與平台、AI Agent 與 Agent Skills、AI Agent 建構與編排、本機或自架應用 | 容器／自架部署、Node.js／TypeScript | 2/5（有限） | 活躍 | 高 |
+| [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) | 主要能力：AI Agent 建構與編排。依專案描述：The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. | AI Agent 與 Agent Skills、AI Agent 建構與編排 | Python 環境 | 3/5（中等） | 活躍 | 中 |
+| [cloudflare/agentic-inbox](https://github.com/cloudflare/agentic-inbox) | 主要能力：AI Agent 建構與編排、本機或自架應用。依專案描述：A self-hosted email client with an AI agent, running entirely on Cloudflare Workers | Web、桌面與平台、AI Agent 與 Agent Skills、AI Agent 建構與編排、本機或自架應用 | 容器／自架部署、Node.js／TypeScript | 2/5（有限） | 近期維護 | 高 |
 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | 主要能力：AI Agent 建構與編排。依專案描述：Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. | AI Agent 與 Agent Skills、AI Agent 建構與編排 | Python 環境 | 3/5（中等） | 活躍 | 資訊 |
 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | 主要能力：一般工具／待確認。依專案描述：Virtual whiteboard for sketching hand-drawn like diagrams | 一般工具／待確認 | Node.js／TypeScript | 3/5（中等） | 活躍 | 無明顯提示 |
 | [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) | 主要能力：工作流程自動化。依專案描述：An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others. | 工作流程自動化 | Node.js／JavaScript | 4/5（高） | 活躍 | 中 |
 | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 主要能力：研究、學習與教學。依專案描述：An Open Source implementation of Notebook LM with more flexibility and features | 學習與教學、研究、學習與教學 | Node.js／TypeScript | 3/5（中等） | 活躍 | 無明顯提示 |
 | [lijigang/copy-notes](https://github.com/lijigang/copy-notes) | 主要能力：一般工具／待確認。依專案描述：Copy text anywhere on macOS → auto-append it to a single Apple Notes note. A tiny bun/TypeScript launchd clipboard agent. | 一般工具／待確認 | Node.js／TypeScript | 2/5（有限） | 活躍 | 高 |
-| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 主要能力：AI Agent 建構與編排。依專案描述：The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. | AI Agent 與 Agent Skills、AI Agent 建構與編排 | Python 環境 | 3/5（中等） | 活躍 | 中 |
 | [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) | 主要能力：本機或自架應用。依專案描述：Self-hosted AI workspace. | Web、桌面與平台、本機或自架應用 | 容器／自架部署、Python 環境 | 3/5（中等） | 活躍 | 資訊 |
 | [OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck) | 主要能力：一般工具／待確認。依專案描述：Task-oriented AI Agent productivity platform | 一般工具／待確認 | Node.js／TypeScript | 3/5（中等） | 活躍 | 資訊 |
 
@@ -358,7 +358,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 
 | Repository | 能力摘要 | 多標籤 | 安裝推定 | ChatGPT | 維護 | 最高風險 |
 |---|---|---|---|---:|---|---|
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 主要能力：Agent Skill／提示工作流、資料分析、視覺化與預測、設計系統與原型製作。依專案描述：Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. | AI Agent 與 Agent Skills、設計、UI 與前端、Web、桌面與平台、Agent Skill／提示工作流、資料分析、視覺化與預測 | Agent Skill 安裝、靜態網頁／Web 專案 | 4/5（高） | 活躍 | 中 |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 主要能力：Agent Skill／提示工作流、資料分析、視覺化與預測、設計系統與原型製作。依專案描述：Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Merma… | AI Agent 與 Agent Skills、設計、UI 與前端、Web、桌面與平台、Agent Skill／提示工作流、資料分析、視覺化與預測 | Agent Skill 安裝、靜態網頁／Web 專案 | 4/5（高） | 活躍 | 中 |
 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 主要能力：一般工具／待確認。依專案描述：The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world. | 自動化與整合、一般工具／待確認 | Python 環境 | 2/5（有限） | 活躍 | 高 |
 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 主要能力：瀏覽器操作與資料蒐集、MCP／工具整合、工作流程自動化。依專案描述：🕷️ A Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily ti… | 自動化與整合、AI Agent 與 Agent Skills、Web、桌面與平台、瀏覽器操作與資料蒐集、MCP／工具整合 | MCP server 設定、Python 環境 | 4/5（高） | 活躍 | 高 |
 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 主要能力：瀏覽器操作與資料蒐集、AI Agent 建構與編排。依專案描述：Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥 | AI Agent 與 Agent Skills、自動化與整合、Web、桌面與平台、瀏覽器操作與資料蒐集、AI Agent 建構與編排 | Node.js／TypeScript | 3/5（中等） | 活躍 | 高 |
