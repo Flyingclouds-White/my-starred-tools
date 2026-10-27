@@ -2,8 +2,8 @@
 
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
-- Repository 數：**226**
-- 產生時間（UTC）：`2026-10-26T08:48:25.858592Z`
+- Repository 數：**227**
+- 產生時間（UTC）：`2026-10-27T08:54:18.737931Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -34,9 +34,9 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [影片與媒體製作](#category-video-media) | 18 |
 | [設計、UI 與前端](#category-design-ui) | 17 |
 | [簡報與文件](#category-presentation-docs) | 16 |
+| [影像與創意生成](#category-image-creative) | 13 |
 | [待分類](#category-uncategorized) | 13 |
 | [資安、隱私與稽核](#category-security-privacy) | 13 |
-| [影像與創意生成](#category-image-creative) | 12 |
 | [資料、機器學習與分析](#category-data-ai) | 11 |
 | [模擬、3D 與機器人](#category-simulation-robotics) | 9 |
 | [生產力與工作管理](#category-productivity) | 9 |
@@ -132,6 +132,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) | 主要能力：圖片生成、編輯與參考。依專案描述：A Patch for GIMP 3+ for Photoshop Users | 圖片生成、編輯與參考 | Python 環境 | 3/5（中等） | 活躍 | 無明顯提示 |
 | [Evolink-AI/awesome-gpt-image-2-API-Prompts](https://github.com/Evolink-AI/awesome-gpt-image-2-API-Prompts) | 主要能力：圖片生成、編輯與參考、範例、模板與資源索引。依專案描述：GPT-Image-2 API and Prompts | 資源清單與參考素材、自動化與整合、圖片生成、編輯與參考、範例、模板與資源索引 | 直接閱讀／複製範例、Python 環境 | 4/5（高） | 活躍 | 中 |
 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 主要能力：工作流程自動化、圖片生成、編輯與參考、Agent Skill／提示工作流。依專案描述：Prompt as Code \| GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。 | 自動化與整合、AI Agent 與 Agent Skills、資源清單與參考素材、工作流程自動化、圖片生成、編輯與參考 | 直接閱讀／複製範例、Agent Skill 安裝 | 4/5（高） | 活躍 | 資訊 |
+| [Leonxlnx/napali](https://github.com/Leonxlnx/napali) | 主要能力：模擬、3D 與互動視覺。依專案描述：A drone flight over the Na Pali coast, rendered entirely in code. No textures, images or models. | AI Agent 與 Agent Skills、Web、桌面與平台、模擬、3D 與機器人、模擬、3D 與互動視覺 | 靜態網頁／Web 專案 | 3/5（中等） | 活躍 | 中 |
 | [liyue-aigc/female-portrait-director](https://github.com/liyue-aigc/female-portrait-director) | 主要能力：Agent Skill／提示工作流、圖片生成、編輯與參考。依專案描述：A modular Codex Skill for directing and expanding detailed AI female portrait prompts. | AI Agent 與 Agent Skills、Agent Skill／提示工作流、圖片生成、編輯與參考 | Agent Skill 安裝 | 3/5（中等） | 活躍 | 高 |
 | [op7418/guizang-material-illustration](https://github.com/op7418/guizang-material-illustration) | 主要能力：圖片生成、編輯與參考、資料分析、視覺化與預測、內容企劃與社群發布。依專案描述：归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。 | AI Agent 與 Agent Skills、資料、機器學習與分析、社群、行銷與內容、圖片生成、編輯與參考、資料分析、視覺化與預測 | 依 README 判斷 | 3/5（中等） | 活躍 | 中 |
 | [photoprism/photoprism](https://github.com/photoprism/photoprism) | 主要能力：圖片生成、編輯與參考、本機或自架應用、研究、學習與教學。依專案描述：AI-Powered Photos App 🌈💎✨ | 資料、機器學習與分析、Web、桌面與平台、學習與教學、圖片生成、編輯與參考、本機或自架應用 | 容器／自架部署、Go 專案 | 3/5（中等） | 活躍 | 中 |
@@ -217,7 +218,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [cloudflare/agentic-inbox](https://github.com/cloudflare/agentic-inbox) | 主要能力：AI Agent 建構與編排、本機或自架應用。依專案描述：A self-hosted email client with an AI agent, running entirely on Cloudflare Workers | Web、桌面與平台、AI Agent 與 Agent Skills、AI Agent 建構與編排、本機或自架應用 | 容器／自架部署、Node.js／TypeScript | 2/5（有限） | 近期維護 | 高 |
 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | 主要能力：AI Agent 建構與編排。依專案描述：Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. | AI Agent 與 Agent Skills、AI Agent 建構與編排 | Python 環境 | 3/5（中等） | 活躍 | 資訊 |
 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | 主要能力：一般工具／待確認。依專案描述：Virtual whiteboard for sketching hand-drawn like diagrams | 一般工具／待確認 | Node.js／TypeScript | 3/5（中等） | 活躍 | 無明顯提示 |
-| [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) | 主要能力：工作流程自動化。依專案描述：An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others. | 工作流程自動化 | Node.js／JavaScript | 4/5（高） | 活躍 | 中 |
+| [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) | 主要能力：工作流程自動化。依專案描述：An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others. | 工作流程自動化 | Node.js／JavaScript | 4/5（高） | 近期維護 | 中 |
 | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 主要能力：研究、學習與教學。依專案描述：An Open Source implementation of Notebook LM with more flexibility and features | 學習與教學、研究、學習與教學 | Node.js／TypeScript | 3/5（中等） | 活躍 | 無明顯提示 |
 | [lijigang/copy-notes](https://github.com/lijigang/copy-notes) | 主要能力：一般工具／待確認。依專案描述：Copy text anywhere on macOS → auto-append it to a single Apple Notes note. A tiny bun/TypeScript launchd clipboard agent. | 一般工具／待確認 | Node.js／TypeScript | 2/5（有限） | 活躍 | 高 |
 | [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) | 主要能力：本機或自架應用。依專案描述：Self-hosted AI workspace. | Web、桌面與平台、本機或自架應用 | 容器／自架部署、Python 環境 | 3/5（中等） | 活躍 | 資訊 |
@@ -360,7 +361,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 |---|---|---|---|---:|---|---|
 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 主要能力：Agent Skill／提示工作流、資料分析、視覺化與預測、設計系統與原型製作。依專案描述：Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Merma… | AI Agent 與 Agent Skills、設計、UI 與前端、Web、桌面與平台、Agent Skill／提示工作流、資料分析、視覺化與預測 | Agent Skill 安裝、靜態網頁／Web 專案 | 4/5（高） | 活躍 | 中 |
 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 主要能力：一般工具／待確認。依專案描述：The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world. | 自動化與整合、一般工具／待確認 | Python 環境 | 2/5（有限） | 活躍 | 高 |
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 主要能力：瀏覽器操作與資料蒐集、MCP／工具整合、工作流程自動化。依專案描述：🕷️ A Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily ti… | 自動化與整合、AI Agent 與 Agent Skills、Web、桌面與平台、瀏覽器操作與資料蒐集、MCP／工具整合 | MCP server 設定、Python 環境 | 4/5（高） | 活躍 | 高 |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 主要能力：瀏覽器操作與資料蒐集、MCP／工具整合、工作流程自動化。依專案描述：🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for d… | 自動化與整合、AI Agent 與 Agent Skills、Web、桌面與平台、瀏覽器操作與資料蒐集、MCP／工具整合 | MCP server 設定、Python 環境 | 4/5（高） | 活躍 | 高 |
 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 主要能力：瀏覽器操作與資料蒐集、AI Agent 建構與編排。依專案描述：Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥 | AI Agent 與 Agent Skills、自動化與整合、Web、桌面與平台、瀏覽器操作與資料蒐集、AI Agent 建構與編排 | Node.js／TypeScript | 3/5（中等） | 活躍 | 高 |
 | [google-research/timesfm](https://github.com/google-research/timesfm) | 主要能力：資料分析、視覺化與預測、研究、學習與教學。依專案描述：TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. | 知識、研究與記憶、資料分析、視覺化與預測、研究、學習與教學 | Python 環境 | 3/5（中等） | 活躍 | 資訊 |
 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 主要能力：工作流程自動化、MCP／工具整合、本機或自架應用。依專案描述：Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | 自動化與整合、AI Agent 與 Agent Skills、開發與程式碼工具、Web、桌面與平台、工作流程自動化 | MCP server 設定、容器／自架部署 | 4/5（高） | 活躍 | 中 |
