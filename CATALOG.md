@@ -3,7 +3,7 @@
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
 - Repository 數：**227**
-- 產生時間（UTC）：`2026-10-27T08:54:18.737931Z`
+- 產生時間（UTC）：`2026-10-28T09:34:45.668870Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -190,7 +190,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | Repository | 能力摘要 | 多標籤 | 安裝推定 | ChatGPT | 維護 | 最高風險 |
 |---|---|---|---|---:|---|---|
 | [daman-ovo-0404/tarot-skill](https://github.com/daman-ovo-0404/tarot-skill) | 主要能力：文化、宗教與命理內容、Agent Skill／提示工作流。依專案描述：AI 塔罗占卜 Agent Skill — 78 牌完整牌义、6 种牌阵、牌间关系理论体系、真随机抽牌脚本 | AI Agent 與 Agent Skills、文化、宗教與命理內容、Agent Skill／提示工作流 | Agent Skill 安裝、Python 環境 | 4/5（高） | 活躍 | 中 |
-| [FANzR-arch/Numerologist_skills](https://github.com/FANzR-arch/Numerologist_skills) | 主要能力：文化、宗教與命理內容、Agent Skill／提示工作流。依專案描述：🔮 An engineering framework to stop LLM hallucinations in Chinese astrology. / 给“赛博半仙”戴上紧箍咒：减少幻觉、固定排盘步骤的奇门遁甲与紫微斗数 AI skills。 | AI Agent 與 Agent Skills、文化、宗教與命理內容、Agent Skill／提示工作流 | Agent Skill 安裝、Python 環境 | 4/5（高） | 活躍 | 中 |
+| [FANzR-arch/Numerologist_skills](https://github.com/FANzR-arch/Numerologist_skills) | 主要能力：Agent Skill／提示工作流、文化、宗教與命理內容。依專案描述：🔮 An engineering framework to stop LLM hallucinations in Chinese astrology. / 给“赛博半仙”戴上紧箍咒：减少幻觉、固定排盘步骤的奇门遁甲与紫微斗数 AI skills。 | AI Agent 與 Agent Skills、Agent Skill／提示工作流、文化、宗教與命理內容 | Agent Skill 安裝、Python 環境 | 4/5（高） | 活躍 | 中 |
 | [jinchenma94/bazi-skill](https://github.com/jinchenma94/bazi-skill) | 主要能力：文化、宗教與命理內容。依專案描述：四柱八字命理分析 | AI Agent 與 Agent Skills、文化、宗教與命理內容 | Python 環境 | 3/5（中等） | 活躍 | 資訊 |
 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | 主要能力：文化、宗教與命理內容。依專案描述：紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 | Web、桌面與平台、文化、宗教與命理內容 | Node.js／TypeScript | 3/5（中等） | 活躍 | 資訊 |
 
@@ -232,7 +232,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) | 主要能力：Agent Skill／提示工作流、AI Agent 建構與編排、MCP／工具整合。依專案描述：Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for Nous Research's open-source Hermes Agent. | AI Agent 與 Agent Skills、資源清單與參考素材、Agent Skill／提示工作流、AI Agent 建構與編排、MCP／工具整合 | 直接閱讀／複製範例、Agent Skill 安裝 | 3/5（中等） | 活躍 | 高 |
 | [activeloopai/hivemind](https://github.com/activeloopai/hivemind) | 主要能力：AI Agent 建構與編排、知識庫、RAG 與記憶、Agent Skill／提示工作流。依專案描述：Hivemind turns your traces into reusable skills across agents | AI Agent 與 Agent Skills、AI Agent 建構與編排、知識庫、RAG 與記憶、Agent Skill／提示工作流 | Agent Skill 安裝、Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 主要能力：AI Agent 建構與編排、Agent Skill／提示工作流、MCP／工具整合。依專案描述：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and be… | AI Agent 與 Agent Skills、開發與程式碼工具、生產力與工作管理、資安、隱私與稽核、AI Agent 建構與編排 | Agent Skill 安裝、MCP server 設定 | 3/5（中等） | 活躍 | 高 |
-| [aliyun/hermes-tablestore-memory](https://github.com/aliyun/hermes-tablestore-memory) | 主要能力：知識庫、RAG 與記憶。metadata 描述不足，需閱讀 README 進一步確認。 | 知識庫、RAG 與記憶 | Python 環境 | 3/5（中等） | 活躍 | 低 |
+| [aliyun/hermes-tablestore-memory](https://github.com/aliyun/hermes-tablestore-memory) | 主要能力：知識庫、RAG 與記憶。metadata 描述不足，需閱讀 README 進一步確認。 | 知識庫、RAG 與記憶 | Python 環境 | 3/5（中等） | 近期維護 | 低 |
 | [Ar9av/obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) | 主要能力：知識庫、RAG 與記憶、Agent Skill／提示工作流、MCP／工具整合。依專案描述：Framework for AI agents to build and maintain a digital brain through Obsidian wiki \| Memory System for Agents | AI Agent 與 Agent Skills、資料、機器學習與分析、知識庫、RAG 與記憶、Agent Skill／提示工作流、MCP／工具整合 | Agent Skill 安裝、MCP server 設定 | 4/5（高） | 活躍 | 中 |
 | [beltromatti/get-it](https://github.com/beltromatti/get-it) | 主要能力：知識庫、RAG 與記憶、研究、學習與教學、簡報與文件生成。依專案描述：Read it. See it. Get it. Built at GDG AI Hack Milan 2026 for "Learn Different" track. | 學習與教學、AI Agent 與 Agent Skills、資料、機器學習與分析、Web、桌面與平台、簡報與文件 | Node.js／JavaScript | 4/5（高） | 活躍 | 中 |
 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 主要能力：程式開發、理解與審查、MCP／工具整合、知識庫、RAG 與記憶。依專案描述：Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP tools, agent integrations and change-aware… | 開發與程式碼工具、AI Agent 與 Agent Skills、資料、機器學習與分析、自動化與整合、程式開發、理解與審查 | MCP server 設定、原生編譯／Release | 4/5（高） | 活躍 | 中 |
