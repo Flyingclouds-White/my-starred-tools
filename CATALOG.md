@@ -2,8 +2,8 @@
 
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
-- Repository 數：**227**
-- 產生時間（UTC）：`2026-10-28T09:34:45.668870Z`
+- Repository 數：**228**
+- 產生時間（UTC）：`2026-10-29T09:52:06.138361Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -34,8 +34,8 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [影片與媒體製作](#category-video-media) | 18 |
 | [設計、UI 與前端](#category-design-ui) | 17 |
 | [簡報與文件](#category-presentation-docs) | 16 |
+| [待分類](#category-uncategorized) | 14 |
 | [影像與創意生成](#category-image-creative) | 13 |
-| [待分類](#category-uncategorized) | 13 |
 | [資安、隱私與稽核](#category-security-privacy) | 13 |
 | [資料、機器學習與分析](#category-data-ai) | 11 |
 | [模擬、3D 與機器人](#category-simulation-robotics) | 9 |
@@ -174,6 +174,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [andrew54068/ez100pu-apple-silicon](https://github.com/andrew54068/ez100pu-apple-silicon) | 主要能力：一般工具／待確認。依專案描述：Make a Castles EZ100PU smart-card reader work on Apple Silicon macOS (incl. Taiwan 自然人憑證 / HiPKI). Prebuilt arm64 driver + one-command installer. | 一般工具／待確認 | Shell 腳本／設定檔 | 3/5（中等） | 活躍 | 中 |
 | [ayuhamaro/Startup-Contradictions](https://github.com/ayuhamaro/Startup-Contradictions) | 主要能力：一般工具／待確認。metadata 描述不足，需閱讀 README 進一步確認。 | 一般工具／待確認 | 依 README 判斷 | 3/5（中等） | 活躍 | 中 |
 | [block/buzz](https://github.com/block/buzz) | 主要能力：一般工具／待確認。依專案描述：A hive mind communication platform | 一般工具／待確認 | Rust 專案 | 3/5（中等） | 活躍 | 無明顯提示 |
+| [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) | 主要能力：一般工具／待確認。依專案描述：一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘 | 一般工具／待確認 | Node.js／JavaScript | 3/5（中等） | 活躍 | 資訊 |
 | [joeseesun/qiaomu-artist-style](https://github.com/joeseesun/qiaomu-artist-style) | 主要能力：一般工具／待確認。metadata 描述不足，需閱讀 README 進一步確認。 | 一般工具／待確認 | Node.js／TypeScript | 3/5（中等） | 活躍 | 中 |
 | [limuloo/RefineAnything](https://github.com/limuloo/RefineAnything) | 主要能力：一般工具／待確認。metadata 描述不足，需閱讀 README 進一步確認。 | 一般工具／待確認 | Python 環境 | 3/5（中等） | 近期維護 | 中 |
 | [nevertoday/xxd-panel-133](https://github.com/nevertoday/xxd-panel-133) | 主要能力：一般工具／待確認。metadata 描述不足，需閱讀 README 進一步確認。 | 一般工具／待確認 | Python 環境 | 3/5（中等） | 活躍 | 中 |
