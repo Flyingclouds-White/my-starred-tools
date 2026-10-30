@@ -3,7 +3,7 @@
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
 - Repository 數：**228**
-- 產生時間（UTC）：`2026-10-29T09:52:06.138361Z`
+- 產生時間（UTC）：`2026-10-30T09:55:40.282811Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
