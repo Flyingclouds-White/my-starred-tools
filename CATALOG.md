@@ -3,7 +3,7 @@
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
 - Repository 數：**228**
-- 產生時間（UTC）：`2026-10-30T09:55:40.282811Z`
+- 產生時間（UTC）：`2026-10-31T09:32:39.480864Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -310,7 +310,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [frank890417/WebToe](https://github.com/frank890417/WebToe) | 主要能力：模擬、3D 與互動視覺、程式開發、理解與審查、設計系統與原型製作。依專案描述：Web-native dataflow engine for real-time visuals — patch in the browser, TouchDesigner-style, and import your .toe projects. WebGL2 + WebGPU, zero dependencies. | 開發與程式碼工具、模擬、3D 與機器人、影像與創意生成、資料、機器學習與分析、Web、桌面與平台 | Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
 | [garrytan/gstack](https://github.com/garrytan/gstack) | 主要能力：設計系統與原型製作。依專案描述：Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA | 設計系統與原型製作 | Node.js／TypeScript | 3/5（中等） | 活躍 | 中 |
 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 主要能力：AI Agent 建構與編排、程式開發、理解與審查、Agent Skill／提示工作流。依專案描述：Clone any website with one command using AI coding agents | AI Agent 與 Agent Skills、開發與程式碼工具、Web、桌面與平台、自動化與整合、AI Agent 建構與編排 | Agent Skill 安裝、Node.js／TypeScript | 4/5（高） | 活躍 | 高 |
-| [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design) | 主要能力：Agent Skill／提示工作流、設計系統與原型製作。依專案描述：Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/desi… | AI Agent 與 Agent Skills、Web、桌面與平台、Agent Skill／提示工作流、設計系統與原型製作 | Agent Skill 安裝、Node.js／JavaScript | 4/5（高） | 活躍 | 中 |
+| [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design) | 主要能力：Agent Skill／提示工作流、設計系統與原型製作。依專案描述：Run Claude Design locally as an Agent Skill — Cursor, Codex, DeepSeek Harness & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without cl… | AI Agent 與 Agent Skills、Web、桌面與平台、Agent Skill／提示工作流、設計系統與原型製作 | Agent Skill 安裝、Node.js／JavaScript | 4/5（高） | 活躍 | 中 |
 | [jinggreen15/ai-design-team](https://github.com/jinggreen15/ai-design-team) | 主要能力：設計系統與原型製作、研究、學習與教學。依專案描述：A multi-role AI design team skill for research, planning, scripting, design, and content production. | AI Agent 與 Agent Skills、知識、研究與記憶、設計系統與原型製作、研究、學習與教學 | 依 README 判斷 | 3/5（中等） | 近期維護 | 中 |
 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 主要能力：Agent Skill／提示工作流、設計系統與原型製作、AI Agent 建構與編排。依專案描述：Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages | AI Agent 與 Agent Skills、開發與程式碼工具、Web、桌面與平台、資源清單與參考素材、Agent Skill／提示工作流 | 直接閱讀／複製範例、Agent Skill 安裝 | 4/5（高） | 活躍 | 中 |
 | [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) | 主要能力：程式開發、理解與審查、設計系統與原型製作。依專案描述：Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts. | Web、桌面與平台、開發與程式碼工具、程式開發、理解與審查、設計系統與原型製作 | Node.js／TypeScript | 4/5（高） | 活躍 | 資訊 |
