@@ -2,8 +2,8 @@
 
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
-- Repository 數：**228**
-- 產生時間（UTC）：`2026-10-31T09:32:39.480864Z`
+- Repository 數：**229**
+- 產生時間（UTC）：`2026-11-01T10:22:45.419382Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -29,18 +29,18 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 
 | 主分類 | Repository 數 |
 |---|---:|
-| [AI Agent 與 Agent Skills](#category-ai-agents) | 39 |
+| [AI Agent 與 Agent Skills](#category-ai-agents) | 38 |
 | [知識、研究與記憶](#category-knowledge-research) | 29 |
 | [影片與媒體製作](#category-video-media) | 18 |
 | [設計、UI 與前端](#category-design-ui) | 17 |
 | [簡報與文件](#category-presentation-docs) | 16 |
 | [待分類](#category-uncategorized) | 14 |
+| [資安、隱私與稽核](#category-security-privacy) | 14 |
 | [影像與創意生成](#category-image-creative) | 13 |
-| [資安、隱私與稽核](#category-security-privacy) | 13 |
 | [資料、機器學習與分析](#category-data-ai) | 11 |
+| [資源清單與參考素材](#category-reference-collection) | 10 |
 | [模擬、3D 與機器人](#category-simulation-robotics) | 9 |
 | [生產力與工作管理](#category-productivity) | 9 |
-| [資源清單與參考素材](#category-reference-collection) | 9 |
 | [語音、音訊與轉錄](#category-audio-speech) | 6 |
 | [自動化與整合](#category-automation-integration) | 5 |
 | [Web、桌面與平台](#category-web-platform) | 4 |
@@ -82,7 +82,6 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [mattpocock/skills](https://github.com/mattpocock/skills) | 主要能力：Agent Skill／提示工作流。依專案描述：Skills for Real Engineers. Straight from my .agents directory. | Agent Skill／提示工作流 | Agent Skill 安裝、Shell 腳本／設定檔 | 4/5（高） | 活躍 | 資訊 |
 | [maylogger/AGI](https://github.com/maylogger/AGI) | 主要能力：AI Agent 建構與編排。依專案描述：Agentic Guideline Intelligence | AI Agent 建構與編排 | 直接閱讀／複製範例、Python 環境 | 3/5（中等） | 活躍 | 資訊 |
 | [Ming-H/yinyuan-skills](https://github.com/Ming-H/yinyuan-skills) | 主要能力：Agent Skill／提示工作流。依專案描述：yinyuan-skills | Agent Skill／提示工作流 | Agent Skill 安裝 | 4/5（高） | 近期維護 | 中 |
-| [morluto/rea](https://github.com/morluto/rea) | 主要能力：Agent Skill／提示工作流、AI Agent 建構與編排、MCP／工具整合。依專案描述：Reverse engineer anything with agents, from app behavior down to native binaries. | 開發與程式碼工具、Agent Skill／提示工作流、AI Agent 建構與編排、MCP／工具整合 | Agent Skill 安裝、MCP server 設定 | 4/5（高） | 活躍 | 中 |
 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 主要能力：Agent Skill／提示工作流、程式開發、理解與審查。依專案描述：A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. | 開發與程式碼工具、Agent Skill／提示工作流、程式開發、理解與審查 | Agent Skill 安裝 | 4/5（高） | 近期維護 | 中 |
 | [obra/superpowers](https://github.com/obra/superpowers) | 主要能力：Agent Skill／提示工作流、AI Agent 建構與編排、程式開發、理解與審查。依專案描述：An agentic skills framework & software development methodology that works. | 開發與程式碼工具、Agent Skill／提示工作流、AI Agent 建構與編排、程式開發、理解與審查 | Agent Skill 安裝、Shell 腳本／設定檔 | 4/5（高） | 活躍 | 資訊 |
 | [ollama/ollama](https://github.com/ollama/ollama) | 主要能力：一般工具／待確認。依專案描述：Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. | 一般工具／待確認 | Go 專案 | 3/5（中等） | 活躍 | 資訊 |
@@ -349,6 +348,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | 主要能力：安全檢查與調查、監控、可觀測性與情報。依專案描述：Comfortably monitor your network traffic 🕵️‍♂️ | 安全檢查與調查、監控、可觀測性與情報 | Rust 專案 | 2/5（有限） | 活躍 | 高 |
 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 主要能力：監控、可觀測性與情報、MCP／工具整合、瀏覽器操作與資料蒐集。依專案描述：Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface | AI Agent 與 Agent Skills、監控、可觀測性與情報、MCP／工具整合、瀏覽器操作與資料蒐集 | MCP server 設定、Node.js／TypeScript | 2/5（有限） | 活躍 | 高 |
 | [laramies/theHarvester](https://github.com/laramies/theHarvester) | 主要能力：安全檢查與調查、瀏覽器操作與資料蒐集。依專案描述：E-mails, subdomains and names Harvester - OSINT | 生產力與工作管理、安全檢查與調查、瀏覽器操作與資料蒐集 | Python 環境 | 2/5（有限） | 活躍 | 高 |
+| [morluto/rea](https://github.com/morluto/rea) | 主要能力：Agent Skill／提示工作流、MCP／工具整合、安全檢查與調查。依專案描述：Reverse engineer anything with agents, from app behavior down to native binaries. | AI Agent 與 Agent Skills、Web、桌面與平台、開發與程式碼工具、Agent Skill／提示工作流、MCP／工具整合 | Agent Skill 安裝、MCP server 設定 | 3/5（中等） | 活躍 | 高 |
 | [nczz/freego-wp](https://github.com/nczz/freego-wp) | 主要能力：安全檢查與調查、工作流程自動化。依專案描述：WordPress accessibility assistant aligned with Freego checks, with repair, audit workflow, AAA targets, and GitHub updates. | 自動化與整合、安全檢查與調查、工作流程自動化 | PHP／WordPress | 3/5（中等） | 活躍 | 高 |
 | [reconurge/flowsint](https://github.com/reconurge/flowsint) | 主要能力：安全檢查與調查、瀏覽器操作與資料蒐集。依專案描述：A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators. | 資料、機器學習與分析、安全檢查與調查、瀏覽器操作與資料蒐集 | Node.js／TypeScript | 2/5（有限） | 活躍 | 高 |
 | [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) | 主要能力：安全檢查與調查、瀏覽器操作與資料蒐集。依專案描述：SpiderFoot automates OSINT for threat intelligence and mapping your attack surface. | 安全檢查與調查、瀏覽器操作與資料蒐集 | Python 環境 | 2/5（有限） | 近期維護 | 高 |
@@ -377,11 +377,12 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 
 | Repository | 能力摘要 | 多標籤 | 安裝推定 | ChatGPT | 維護 | 最高風險 |
 |---|---|---|---|---:|---|---|
-| [agmmnn/awesome-blender](https://github.com/agmmnn/awesome-blender) | 主要能力：研究、學習與教學、模擬、3D 與互動視覺、範例、模板與資源索引。依專案描述：🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone. | 學習與教學、模擬、3D 與機器人、研究、學習與教學、模擬、3D 與互動視覺、範例、模板與資源索引 | 直接閱讀／複製範例 | 4/5（高） | 近期維護 | 無明顯提示 |
+| [agmmnn/awesome-blender](https://github.com/agmmnn/awesome-blender) | 主要能力：研究、學習與教學、模擬、3D 與互動視覺、範例、模板與資源索引。依專案描述：🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone. | 學習與教學、模擬、3D 與機器人、研究、學習與教學、模擬、3D 與互動視覺、範例、模板與資源索引 | 直接閱讀／複製範例 | 4/5（高） | 活躍 | 無明顯提示 |
 | [AICMO/AiCMO-Marketing-Prompt-Collection](https://github.com/AICMO/AiCMO-Marketing-Prompt-Collection) | 主要能力：範例、模板與資源索引、知識庫、RAG 與記憶、內容企劃與社群發布。依專案描述：AI CMO Prompts Collection and Knowledge Base | 知識、研究與記憶、金融與交易、社群、行銷與內容、範例、模板與資源索引、知識庫、RAG 與記憶 | 直接閱讀／複製範例 | 4/5（高） | 活躍 | 資訊 |
+| [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) | 主要能力：範例、模板與資源索引。依專案描述：中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊 | Web、桌面與平台、範例、模板與資源索引 | 直接閱讀／複製範例、Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
 | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 主要能力：範例、模板與資源索引。依專案描述：A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. | 範例、模板與資源索引 | 直接閱讀／複製範例、Jupyter Notebook | 4/5（高） | 活躍 | 中 |
 | [composio-community/awesome-codex-skills](https://github.com/composio-community/awesome-codex-skills) | 主要能力：Agent Skill／提示工作流、程式開發、理解與審查、工作流程自動化。依專案描述：A curated list of practical Codex skills for automating workflows across the Codex CLI and API. | AI Agent 與 Agent Skills、開發與程式碼工具、自動化與整合、Agent Skill／提示工作流、程式開發、理解與審查 | 直接閱讀／複製範例、Agent Skill 安裝 | 4/5（高） | 活躍 | 中 |
-| [f/prompts.chat](https://github.com/f/prompts.chat) | 主要能力：研究、學習與教學、資料分析、視覺化與預測、範例、模板與資源索引。依專案描述：f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. | Web、桌面與平台、AI Agent 與 Agent Skills、資料、機器學習與分析、資安、隱私與稽核、學習與教學 | 直接閱讀／複製範例、靜態網頁／Web 專案 | 4/5（高） | 活躍 | 中 |
+| [f/prompts.chat](https://github.com/f/prompts.chat) | 主要能力：研究、學習與教學、資料分析、視覺化與預測、範例、模板與資源索引。依專案描述：f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. | AI Agent 與 Agent Skills、資料、機器學習與分析、Web、桌面與平台、資安、隱私與稽核、學習與教學 | 直接閱讀／複製範例 | 4/5（高） | 活躍 | 中 |
 | [heyjunpenn/awesome-jev](https://github.com/heyjunpenn/awesome-jev) | 主要能力：範例、模板與資源索引。依專案描述：A verified, community-maintained catalog of 992 open-source projects built with Jev. | 範例、模板與資源索引 | 直接閱讀／複製範例 | 4/5（高） | 活躍 | 資訊 |
 | [openai/skills](https://github.com/openai/skills) | 主要能力：Agent Skill／提示工作流、範例、模板與資源索引。依專案描述：Skills Catalog for Codex | AI Agent 與 Agent Skills、Agent Skill／提示工作流、範例、模板與資源索引 | 直接閱讀／複製範例、Agent Skill 安裝 | 4/5（高） | 活躍 | 中 |
 | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 主要能力：MCP／工具整合、範例、模板與資源索引。依專案描述：A collection of MCP servers. | AI Agent 與 Agent Skills、MCP／工具整合、範例、模板與資源索引 | 直接閱讀／複製範例、MCP server 設定 | 4/5（高） | 活躍 | 資訊 |
