@@ -3,7 +3,7 @@
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
 - Repository 數：**229**
-- 產生時間（UTC）：`2026-11-01T10:22:45.419382Z`
+- 產生時間（UTC）：`2026-11-02T10:55:55.049167Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -377,7 +377,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 
 | Repository | 能力摘要 | 多標籤 | 安裝推定 | ChatGPT | 維護 | 最高風險 |
 |---|---|---|---|---:|---|---|
-| [agmmnn/awesome-blender](https://github.com/agmmnn/awesome-blender) | 主要能力：研究、學習與教學、模擬、3D 與互動視覺、範例、模板與資源索引。依專案描述：🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone. | 學習與教學、模擬、3D 與機器人、研究、學習與教學、模擬、3D 與互動視覺、範例、模板與資源索引 | 直接閱讀／複製範例 | 4/5（高） | 活躍 | 無明顯提示 |
+| [agmmnn/awesome-blender](https://github.com/agmmnn/awesome-blender) | 主要能力：MCP／工具整合、研究、學習與教學、模擬、3D 與互動視覺。依專案描述：🪐 A curated list of awesome Blender add-ons, extensions, AI/MCP tools, tutorials, and 3D resources. | AI Agent 與 Agent Skills、學習與教學、模擬、3D 與機器人、MCP／工具整合、研究、學習與教學 | 直接閱讀／複製範例、MCP server 設定 | 4/5（高） | 活躍 | 資訊 |
 | [AICMO/AiCMO-Marketing-Prompt-Collection](https://github.com/AICMO/AiCMO-Marketing-Prompt-Collection) | 主要能力：範例、模板與資源索引、知識庫、RAG 與記憶、內容企劃與社群發布。依專案描述：AI CMO Prompts Collection and Knowledge Base | 知識、研究與記憶、金融與交易、社群、行銷與內容、範例、模板與資源索引、知識庫、RAG 與記憶 | 直接閱讀／複製範例 | 4/5（高） | 活躍 | 資訊 |
 | [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) | 主要能力：範例、模板與資源索引。依專案描述：中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊 | Web、桌面與平台、範例、模板與資源索引 | 直接閱讀／複製範例、Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
 | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 主要能力：範例、模板與資源索引。依專案描述：A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. | 範例、模板與資源索引 | 直接閱讀／複製範例、Jupyter Notebook | 4/5（高） | 活躍 | 中 |
