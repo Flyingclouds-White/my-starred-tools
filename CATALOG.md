@@ -3,7 +3,7 @@
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
 - Repository 數：**229**
-- 產生時間（UTC）：`2026-11-03T10:45:28.089703Z`
+- 產生時間（UTC）：`2026-11-04T10:48:49.870453Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -256,7 +256,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | 主要能力：本機或自架應用、MCP／工具整合、知識庫、RAG 與記憶。依專案描述：User-friendly AI Interface (Supports Ollama, OpenAI API, ...) | AI Agent 與 Agent Skills、Web、桌面與平台、自動化與整合、本機或自架應用、MCP／工具整合 | MCP server 設定、容器／自架部署 | 2/5（有限） | 活躍 | 高 |
 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 主要能力：Agent Skill／提示工作流、知識庫、RAG 與記憶、範例、模板與資源索引。依專案描述：100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. | AI Agent 與 Agent Skills、資源清單與參考素材、Agent Skill／提示工作流、知識庫、RAG 與記憶、範例、模板與資源索引 | 直接閱讀／複製範例、Agent Skill 安裝 | 4/5（高） | 活躍 | 資訊 |
 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 主要能力：AI Agent 建構與編排、知識庫、RAG 與記憶、Agent Skill／提示工作流。依專案描述：Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back… | AI Agent 與 Agent Skills、AI Agent 建構與編排、知識庫、RAG 與記憶、Agent Skill／提示工作流 | Agent Skill 安裝、Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
-| [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 主要能力：瀏覽器操作與資料蒐集、AI Agent 建構與編排、MCP／工具整合。依專案描述：Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord… | AI Agent 與 Agent Skills、自動化與整合、資料、機器學習與分析、Web、桌面與平台、瀏覽器操作與資料蒐集 | MCP server 設定、Python 環境 | 3/5（中等） | 活躍 | 高 |
+| [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 主要能力：瀏覽器操作與資料蒐集、AI Agent 建構與編排、MCP／工具整合。依專案描述：Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this repo is the A… | AI Agent 與 Agent Skills、自動化與整合、資料、機器學習與分析、Web、桌面與平台、瀏覽器操作與資料蒐集 | MCP server 設定、Python 環境 | 3/5（中等） | 活躍 | 高 |
 | [xr843/Master-skill](https://github.com/xr843/Master-skill) | 主要能力：Agent Skill／提示工作流、知識庫、RAG 與記憶、文化、宗教與命理內容。依專案描述：FoJin-powered Buddhist AI persona framework — source-grounded, boundary-aware, fidelity-tested, runtime-ready. | AI Agent 與 Agent Skills、文化、命理與宗教、Agent Skill／提示工作流、知識庫、RAG 與記憶、文化、宗教與命理內容 | Agent Skill 安裝、Python 環境 | 4/5（高） | 活躍 | 中 |
 
 <a id="category-social-content"></a>
