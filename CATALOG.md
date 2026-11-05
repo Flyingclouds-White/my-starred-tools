@@ -3,7 +3,7 @@
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
 - Repository 數：**229**
-- 產生時間（UTC）：`2026-11-04T10:48:49.870453Z`
+- 產生時間（UTC）：`2026-11-05T10:46:22.765930Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -86,7 +86,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [obra/superpowers](https://github.com/obra/superpowers) | 主要能力：Agent Skill／提示工作流、AI Agent 建構與編排、程式開發、理解與審查。依專案描述：An agentic skills framework & software development methodology that works. | 開發與程式碼工具、Agent Skill／提示工作流、AI Agent 建構與編排、程式開發、理解與審查 | Agent Skill 安裝、Shell 腳本／設定檔 | 4/5（高） | 活躍 | 資訊 |
 | [ollama/ollama](https://github.com/ollama/ollama) | 主要能力：一般工具／待確認。依專案描述：Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. | 一般工具／待確認 | Go 專案 | 3/5（中等） | 活躍 | 資訊 |
 | [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) | 主要能力：Agent Skill／提示工作流。依專案描述：Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。 | Agent Skill／提示工作流 | Agent Skill 安裝、Python 環境 | 4/5（高） | 活躍 | 中 |
-| [stablyai/orca](https://github.com/stablyai/orca) | 主要能力：AI Agent 建構與編排、程式開發、理解與審查、工作流程自動化。依專案描述：Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote ru… | 開發與程式碼工具、自動化與整合、AI Agent 建構與編排、程式開發、理解與審查、工作流程自動化 | Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
+| [stablyai/orca](https://github.com/stablyai/orca) | 主要能力：AI Agent 建構與編排、程式開發、理解與審查、工作流程自動化。依專案描述：Orca is the place for working with a fleet of coding agents (e.g. Claude Code, Codex). Run any agent with your own subscription. Available on desktop, mobile and remote runti… | 開發與程式碼工具、自動化與整合、AI Agent 建構與編排、程式開發、理解與審查、工作流程自動化 | Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
 | [TanShilongMario/clipshot](https://github.com/TanShilongMario/clipshot) | 主要能力：一般工具／待確認。依專案描述：A Skill for creating clipshot | 一般工具／待確認 | 依 README 判斷 | 3/5（中等） | 活躍 | 無明顯提示 |
 | [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | 主要能力：監控、可觀測性與情報、MCP／工具整合、工作流程自動化。依專案描述：📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. \| 用 AI 构建你专属的新闻雷达 | 自動化與整合、監控、可觀測性與情報、MCP／工具整合、工作流程自動化 | MCP server 設定、Python 環境 | 4/5（高） | 活躍 | 資訊 |
 | [typesafe-ai/skills](https://github.com/typesafe-ai/skills) | 主要能力：Agent Skill／提示工作流。依專案描述：Agent skills for building with TypeSafe's System One API | 自動化與整合、Agent Skill／提示工作流 | Agent Skill 安裝 | 4/5（高） | 活躍 | 中 |
