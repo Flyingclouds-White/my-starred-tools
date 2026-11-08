@@ -3,7 +3,7 @@
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
 - Repository 數：**229**
-- 產生時間（UTC）：`2026-11-07T09:59:11.375325Z`
+- 產生時間（UTC）：`2026-11-08T10:13:09.719506Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -148,7 +148,6 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [Agentchengfeng/chengfeng-videocut-skills](https://github.com/Agentchengfeng/chengfeng-videocut-skills) | 主要能力：Agent Skill／提示工作流、影片生成、剪輯與轉檔。依專案描述：用 Claude Code Skills 做的视频剪辑 Agent | AI Agent 與 Agent Skills、Agent Skill／提示工作流、影片生成、剪輯與轉檔 | Agent Skill 安裝、Node.js／JavaScript | 4/5（高） | 活躍 | 中 |
 | [averygan/reclip](https://github.com/averygan/reclip) | 主要能力：影片生成、剪輯與轉檔、本機或自架應用。依專案描述：Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI. | Web、桌面與平台、影片生成、剪輯與轉檔、本機或自架應用 | 容器／自架部署、靜態網頁／Web 專案 | 3/5（中等） | 活躍 | 高 |
 | [browser-use/video-use](https://github.com/browser-use/video-use) | 主要能力：程式開發、理解與審查、瀏覽器操作與資料蒐集、影片生成、剪輯與轉檔。依專案描述：Edit videos with coding agents | 開發與程式碼工具、自動化與整合、Web、桌面與平台、程式開發、理解與審查、瀏覽器操作與資料蒐集 | Python 環境 | 4/5（高） | 活躍 | 資訊 |
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 主要能力：影片生成、剪輯與轉檔、語音生成、辨識與轉錄、Agent Skill／提示工作流。依專案描述：World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding as… | AI Agent 與 Agent Skills、語音、音訊與轉錄、開發與程式碼工具、影像與創意生成、知識、研究與記憶 | Agent Skill 安裝、Python 環境 | 4/5（高） | 活躍 | 中 |
 | [cclank/lanshu-create-ai-presenter-video](https://github.com/cclank/lanshu-create-ai-presenter-video) | 主要能力：影片生成、剪輯與轉檔、Agent Skill／提示工作流。依專案描述：Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image. | AI Agent 與 Agent Skills、Web、桌面與平台、影片生成、剪輯與轉檔、Agent Skill／提示工作流 | Agent Skill 安裝、靜態網頁／Web 專案 | 4/5（高） | 活躍 | 中 |
 | [dexhunter/seedance2-skill](https://github.com/dexhunter/seedance2-skill) | 主要能力：影片生成、剪輯與轉檔。依專案描述：skill to create best prompts for generating videos with seedance2.0 | AI Agent 與 Agent Skills、影片生成、剪輯與轉檔 | 依 README 判斷 | 3/5（中等） | 活躍 | 無明顯提示 |
 | [duixcom/Duix-Avatar](https://github.com/duixcom/Duix-Avatar) | 主要能力：影片生成、剪輯與轉檔。依專案描述：🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning. | 影片生成、剪輯與轉檔 | 原生編譯／Release | 3/5（中等） | 近期維護 | 中 |
@@ -160,8 +159,9 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [NarratorAI-Studio/narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) | 主要能力：Agent Skill／提示工作流、影片生成、剪輯與轉檔、AI Agent 建構與編排。依專案描述：AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用 | AI Agent 與 Agent Skills、社群、行銷與內容、Agent Skill／提示工作流、影片生成、剪輯與轉檔、AI Agent 建構與編排 | Agent Skill 安裝 | 4/5（高） | 活躍 | 中 |
 | [nexu-io/html-video](https://github.com/nexu-io/html-video) | 主要能力：影片生成、剪輯與轉檔、AI Agent 建構與編排、程式開發、理解與審查。依專案描述：Programmatic video for coding agents — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apach… | AI Agent 與 Agent Skills、開發與程式碼工具、設計、UI 與前端、資料、機器學習與分析、Web、桌面與平台 | 直接閱讀／複製範例、靜態網頁／Web 專案 | 4/5（高） | 活躍 | 中 |
 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 主要能力：影片生成、剪輯與轉檔。依專案描述：The open-source CapCut alternative | 影片生成、剪輯與轉檔 | Node.js／TypeScript | 3/5（中等） | 活躍 | 無明顯提示 |
+| [OpenMontageInc/OpenMontage](https://github.com/OpenMontageInc/OpenMontage) | 主要能力：影片生成、剪輯與轉檔、語音生成、辨識與轉錄、Agent Skill／提示工作流。依專案描述：World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding as… | AI Agent 與 Agent Skills、語音、音訊與轉錄、開發與程式碼工具、影像與創意生成、知識、研究與記憶 | Agent Skill 安裝、Python 環境 | 4/5（高） | 活躍 | 中 |
 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 主要能力：內容企劃與社群發布、AI Agent 建構與編排、MCP／工具整合。依專案描述：Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. | AI Agent 與 Agent Skills、自動化與整合、開發與程式碼工具、社群、行銷與內容、內容企劃與社群發布 | MCP server 設定、Python 環境 | 4/5（高） | 活躍 | 高 |
-| [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) | 主要能力：Agent Skill／提示工作流、影片生成、剪輯與轉檔。依專案描述：Create polished demo videos without editing skills. Mac/Windows/Linux | AI Agent 與 Agent Skills、Agent Skill／提示工作流、影片生成、剪輯與轉檔 | Agent Skill 安裝、Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
+| [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) | 主要能力：Agent Skill／提示工作流、影片生成、剪輯與轉檔。依專案描述：Create polished demo videos without editing skills. Mac/Windows/Linux | AI Agent 與 Agent Skills、Agent Skill／提示工作流、影片生成、剪輯與轉檔 | Agent Skill 安裝、Node.js／TypeScript | 4/5（高） | 活躍 | 無明顯提示 |
 | [xiaohuailabs/xiaohu-video-translate](https://github.com/xiaohuailabs/xiaohu-video-translate) | 主要能力：影片生成、剪輯與轉檔。依專案描述：对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费 | 自動化與整合、影片生成、剪輯與轉檔 | Python 環境 | 3/5（中等） | 活躍 | 中 |
 
 <a id="category-uncategorized"></a>
@@ -341,7 +341,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | Repository | 能力摘要 | 多標籤 | 安裝推定 | ChatGPT | 維護 | 最高風險 |
 |---|---|---|---|---:|---|---|
 | [antoniaci/blackbird](https://github.com/antoniaci/blackbird) | 主要能力：安全檢查與調查、瀏覽器操作與資料蒐集。依專案描述：An OSINT tool to search for accounts by username and email in social networks. | 生產力與工作管理、安全檢查與調查、瀏覽器操作與資料蒐集 | Python 環境 | 2/5（有限） | 活躍 | 高 |
-| [arxhr007/Aliens_eye](https://github.com/arxhr007/Aliens_eye) | 主要能力：瀏覽器操作與資料蒐集、內容企劃與社群發布、安全檢查與調查。依專案描述：AI powered OSINT engine to discover and map 840+ social media identities across the web | Web、桌面與平台、社群、行銷與內容、瀏覽器操作與資料蒐集、內容企劃與社群發布、安全檢查與調查 | Python 環境 | 2/5（有限） | 活躍 | 高 |
+| [arxhr007/Aliens_eye](https://github.com/arxhr007/Aliens_eye) | 主要能力：瀏覽器操作與資料蒐集、內容企劃與社群發布、安全檢查與調查。依專案描述：AI powered OSINT engine to discover and map 7,700+ social media identities across the web | Web、桌面與平台、社群、行銷與內容、瀏覽器操作與資料蒐集、內容企劃與社群發布、安全檢查與調查 | Python 環境 | 2/5（有限） | 活躍 | 高 |
 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 主要能力：安全檢查與調查、Agent Skill／提示工作流、程式開發、理解與審查。依專案描述：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings | AI Agent 與 Agent Skills、開發與程式碼工具、Web、桌面與平台、安全檢查與調查、Agent Skill／提示工作流 | Agent Skill 安裝、Node.js／JavaScript | 3/5（中等） | 活躍 | 高 |
 | [dongmingxuan2012-crypto/ai-copyright-self-check-skill](https://github.com/dongmingxuan2012-crypto/ai-copyright-self-check-skill) | 主要能力：安全檢查與調查。metadata 描述不足，需閱讀 README 進一步確認。 | AI Agent 與 Agent Skills、安全檢查與調查 | Shell 腳本／設定檔 | 3/5（中等） | 活躍 | 中 |
 | [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) | 主要能力：程式開發、理解與審查、監控、可觀測性與情報、安全檢查與調查。依專案描述：Automated auditing, performance metrics, and best practices for the web. | 開發與程式碼工具、Web、桌面與平台、程式開發、理解與審查、監控、可觀測性與情報、安全檢查與調查 | Node.js／JavaScript | 3/5（中等） | 活躍 | 高 |
