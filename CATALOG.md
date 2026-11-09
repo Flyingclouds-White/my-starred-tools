@@ -2,8 +2,8 @@
 
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
-- Repository 數：**229**
-- 產生時間（UTC）：`2026-11-08T10:13:09.719506Z`
+- Repository 數：**230**
+- 產生時間（UTC）：`2026-11-09T11:23:38.933825Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -34,7 +34,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [影片與媒體製作](#category-video-media) | 18 |
 | [設計、UI 與前端](#category-design-ui) | 17 |
 | [簡報與文件](#category-presentation-docs) | 16 |
-| [待分類](#category-uncategorized) | 14 |
+| [待分類](#category-uncategorized) | 15 |
 | [資安、隱私與稽核](#category-security-privacy) | 14 |
 | [影像與創意生成](#category-image-creative) | 13 |
 | [資料、機器學習與分析](#category-data-ai) | 11 |
@@ -62,7 +62,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [b-nnett/codex-plusplus](https://github.com/b-nnett/codex-plusplus) | 主要能力：一般工具／待確認。依專案描述：Codex++ tweak system for the Codex desktop app | 一般工具／待確認 | Node.js／JavaScript | 3/5（中等） | 活躍 | 無明顯提示 |
 | [binghe1980/AI-Canvas](https://github.com/binghe1980/AI-Canvas) | 主要能力：一般工具／待確認。依專案描述：Codex-integrated infinite canvas for AI image generation, annotation, and iterative editing. | 一般工具／待確認 | Node.js／TypeScript | 3/5（中等） | 活躍 | 資訊 |
 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 主要能力：瀏覽器操作與資料蒐集、AI Agent 建構與編排、MCP／工具整合。依專案描述：Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API. | 自動化與整合、Web、桌面與平台、瀏覽器操作與資料蒐集、AI Agent 建構與編排、MCP／工具整合 | MCP server 設定、Python 環境 | 4/5（高） | 活躍 | 高 |
-| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 主要能力：MCP／工具整合、瀏覽器操作與資料蒐集。依專案描述：The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra | 自動化與整合、Web、桌面與平台、MCP／工具整合、瀏覽器操作與資料蒐集 | MCP server 設定、Node.js／TypeScript | 3/5（中等） | 活躍 | 資訊 |
+| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 主要能力：MCP／工具整合、瀏覽器操作與資料蒐集。依專案描述：The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra | 自動化與整合、Web、桌面與平台、MCP／工具整合、瀏覽器操作與資料蒐集 | MCP server 設定、Node.js／TypeScript | 3/5（中等） | 已封存 | 高 |
 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | 主要能力：AI Agent 建構與編排、MCP／工具整合、工作流程自動化。依專案描述：Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agen… | 自動化與整合、Web、桌面與平台、AI Agent 建構與編排、MCP／工具整合、工作流程自動化 | MCP server 設定、Node.js／TypeScript | 4/5（高） | 活躍 | 資訊 |
 | [DavidBB-L/cinema-manager](https://github.com/DavidBB-L/cinema-manager) | 主要能力：Agent Skill／提示工作流。依專案描述：Hermes Agent skill - Movie/TV resource search + Quark cloud drive auto-save | Agent Skill／提示工作流 | Agent Skill 安裝、Python 環境 | 4/5（高） | 活躍 | 中 |
 | [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | 主要能力：MCP／工具整合。依專案描述：Draw and edit draw.io diagrams by chatting with an AI. Web app, desktop app, and an MCP server for Claude Code, Cursor, Codex and VS Code. | Web、桌面與平台、MCP／工具整合 | MCP server 設定、Node.js／TypeScript | 3/5（中等） | 活躍 | 中 |
@@ -176,6 +176,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) | 主要能力：一般工具／待確認。依專案描述：一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘 | 一般工具／待確認 | Node.js／JavaScript | 3/5（中等） | 活躍 | 資訊 |
 | [joeseesun/qiaomu-artist-style](https://github.com/joeseesun/qiaomu-artist-style) | 主要能力：一般工具／待確認。metadata 描述不足，需閱讀 README 進一步確認。 | 一般工具／待確認 | Node.js／TypeScript | 3/5（中等） | 活躍 | 中 |
 | [limuloo/RefineAnything](https://github.com/limuloo/RefineAnything) | 主要能力：一般工具／待確認。metadata 描述不足，需閱讀 README 進一步確認。 | 一般工具／待確認 | Python 環境 | 3/5（中等） | 近期維護 | 中 |
+| [Minireel/HGhub](https://github.com/Minireel/HGhub) | 主要能力：一般工具／待確認。依專案描述：YellowFruit third-party client | 一般工具／待確認 | Node.js／TypeScript | 3/5（中等） | 活躍 | 中 |
 | [nevertoday/xxd-panel-133](https://github.com/nevertoday/xxd-panel-133) | 主要能力：一般工具／待確認。metadata 描述不足，需閱讀 README 進一步確認。 | 一般工具／待確認 | Python 環境 | 3/5（中等） | 活躍 | 中 |
 | [nevertoday/xxd-panel-173](https://github.com/nevertoday/xxd-panel-173) | 主要能力：一般工具／待確認。metadata 描述不足，需閱讀 README 進一步確認。 | 一般工具／待確認 | Python 環境 | 3/5（中等） | 活躍 | 中 |
 | [Nutlope/logocreator](https://github.com/Nutlope/logocreator) | 主要能力：一般工具／待確認。依專案描述：A free + OSS logo generator powered by Flux on Together AI | 一般工具／待確認 | Node.js／TypeScript | 3/5（中等） | 活躍 | 中 |
