@@ -3,7 +3,7 @@
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
 - Repository 數：**229**
-- 產生時間（UTC）：`2026-11-16T11:04:54.417299Z`
+- 產生時間（UTC）：`2026-11-17T11:45:04.601674Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -63,7 +63,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [binghe1980/AI-Canvas](https://github.com/binghe1980/AI-Canvas) | 主要能力：一般工具／待確認。依專案描述：Codex-integrated infinite canvas for AI image generation, annotation, and iterative editing. | 一般工具／待確認 | Node.js／TypeScript | 3/5（中等） | 活躍 | 資訊 |
 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 主要能力：瀏覽器操作與資料蒐集、AI Agent 建構與編排、MCP／工具整合。依專案描述：Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API. | 自動化與整合、Web、桌面與平台、瀏覽器操作與資料蒐集、AI Agent 建構與編排、MCP／工具整合 | MCP server 設定、Python 環境 | 4/5（高） | 活躍 | 高 |
 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 主要能力：MCP／工具整合、瀏覽器操作與資料蒐集。依專案描述：The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra | 自動化與整合、Web、桌面與平台、MCP／工具整合、瀏覽器操作與資料蒐集 | MCP server 設定、Node.js／TypeScript | 3/5（中等） | 已封存 | 高 |
-| [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | 主要能力：AI Agent 建構與編排、MCP／工具整合、工作流程自動化。依專案描述：Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agen… | 自動化與整合、Web、桌面與平台、AI Agent 建構與編排、MCP／工具整合、工作流程自動化 | MCP server 設定、Node.js／TypeScript | 4/5（高） | 活躍 | 資訊 |
+| [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | 主要能力：AI Agent 建構與編排、MCP／工具整合、工作流程自動化。依專案描述：The open, self-hostable alternative to closed AI bots. Production-ready, fully customizable, and plugs into every stack: any agent, any model, any tool. | 自動化與整合、Web、桌面與平台、AI Agent 建構與編排、MCP／工具整合、工作流程自動化 | MCP server 設定、Node.js／TypeScript | 4/5（高） | 活躍 | 資訊 |
 | [DavidBB-L/cinema-manager](https://github.com/DavidBB-L/cinema-manager) | 主要能力：Agent Skill／提示工作流。依專案描述：Hermes Agent skill - Movie/TV resource search + Quark cloud drive auto-save | Agent Skill／提示工作流 | Agent Skill 安裝、Python 環境 | 4/5（高） | 活躍 | 中 |
 | [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | 主要能力：MCP／工具整合。依專案描述：Draw and edit draw.io diagrams by chatting with an AI. Web app, desktop app, and an MCP server for Claude Code, Cursor, Codex and VS Code. | Web、桌面與平台、MCP／工具整合 | MCP server 設定、Node.js／TypeScript | 3/5（中等） | 活躍 | 中 |
 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 主要能力：Agent Skill／提示工作流、AI Agent 建構與編排、程式開發、理解與審查。依專案描述：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. | 開發與程式碼工具、Agent Skill／提示工作流、AI Agent 建構與編排、程式開發、理解與審查 | Agent Skill 安裝、Node.js／JavaScript | 4/5（高） | 活躍 | 中 |
