@@ -2,8 +2,8 @@
 
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
-- Repository 數：**233**
-- 產生時間（UTC）：`2026-11-18T11:32:40.532856Z`
+- Repository 數：**234**
+- 產生時間（UTC）：`2026-11-19T11:31:14.873567Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -29,7 +29,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 
 | 主分類 | Repository 數 |
 |---|---:|
-| [AI Agent 與 Agent Skills](#category-ai-agents) | 39 |
+| [AI Agent 與 Agent Skills](#category-ai-agents) | 40 |
 | [知識、研究與記憶](#category-knowledge-research) | 30 |
 | [影片與媒體製作](#category-video-media) | 18 |
 | [設計、UI 與前端](#category-design-ui) | 18 |
@@ -93,6 +93,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [typesafe-ai/skills](https://github.com/typesafe-ai/skills) | 主要能力：Agent Skill／提示工作流。依專案描述：Agent skills for building with TypeSafe's System One API | 自動化與整合、Agent Skill／提示工作流 | Agent Skill 安裝 | 4/5（高） | 活躍 | 中 |
 | [vibe-motion/skills](https://github.com/vibe-motion/skills) | 主要能力：Agent Skill／提示工作流、程式開發、理解與審查。依專案描述：agent skills for vibe motion | 開發與程式碼工具、Web、桌面與平台、Agent Skill／提示工作流、程式開發、理解與審查 | Agent Skill 安裝、靜態網頁／Web 專案 | 4/5（高） | 活躍 | 中 |
 | [vibeshotclub/vsc-skills](https://github.com/vibeshotclub/vsc-skills) | 主要能力：Agent Skill／提示工作流。metadata 描述不足，需閱讀 README 進一步確認。 | Agent Skill／提示工作流 | Agent Skill 安裝、Python 環境 | 4/5（高） | 活躍 | 中 |
+| [voidforall/fengshui.skill](https://github.com/voidforall/fengshui.skill) | 主要能力：一般工具／待確認。依專案描述：堪舆子 · 传统风水顾问 Claude Code Skill —— 三元玄空飞星、八宅明镜、择日学 | 一般工具／待確認 | Python 環境 | 3/5（中等） | 活躍 | 中 |
 | [yang0/handraw-style](https://github.com/yang0/handraw-style) | 主要能力：一般工具／待確認。依專案描述：手绘风格编号画廊与双语提示词 Skill | Web、桌面與平台、一般工具／待確認 | 靜態網頁／Web 專案 | 3/5（中等） | 活躍 | 中 |
 | [yaojingang/yao-meta-skill](https://github.com/yaojingang/yao-meta-skill) | 主要能力：Agent Skill／提示工作流、AI Agent 建構與編排、工作流程自動化。依專案描述：YAO = Yielding AI Outcomes. A rigorous engineering, evaluation, governance, and portability system for reusable agent skills. | 自動化與整合、Agent Skill／提示工作流、AI Agent 建構與編排、工作流程自動化 | Agent Skill 安裝、Python 環境 | 4/5（高） | 活躍 | 資訊 |
 
@@ -191,7 +192,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 
 | Repository | 能力摘要 | 多標籤 | 安裝推定 | ChatGPT | 維護 | 最高風險 |
 |---|---|---|---|---:|---|---|
-| [daman-ovo-0404/tarot-skill](https://github.com/daman-ovo-0404/tarot-skill) | 主要能力：文化、宗教與命理內容、Agent Skill／提示工作流。依專案描述：AI 塔罗占卜 Agent Skill — 78 牌完整牌义、6 种牌阵、牌间关系理论体系、真随机抽牌脚本 | AI Agent 與 Agent Skills、文化、宗教與命理內容、Agent Skill／提示工作流 | Agent Skill 安裝、Python 環境 | 4/5（高） | 活躍 | 中 |
+| [daman-ovo-0404/tarot-skill](https://github.com/daman-ovo-0404/tarot-skill) | 主要能力：文化、宗教與命理內容、Agent Skill／提示工作流。依專案描述：AI 塔罗占卜 Agent Skill — 78 牌完整牌义、6 种牌阵、牌间关系理论体系、真随机抽牌脚本 | AI Agent 與 Agent Skills、文化、宗教與命理內容、Agent Skill／提示工作流 | Agent Skill 安裝、Python 環境 | 4/5（高） | 活躍 | 資訊 |
 | [FANzR-arch/Numerologist_skills](https://github.com/FANzR-arch/Numerologist_skills) | 主要能力：Agent Skill／提示工作流、文化、宗教與命理內容。依專案描述：🔮 An engineering framework to stop LLM hallucinations in Chinese astrology. / 给“赛博半仙”戴上紧箍咒：减少幻觉、固定排盘步骤的奇门遁甲与紫微斗数 AI skills。 | AI Agent 與 Agent Skills、Agent Skill／提示工作流、文化、宗教與命理內容 | Agent Skill 安裝、Python 環境 | 4/5（高） | 活躍 | 中 |
 | [jinchenma94/bazi-skill](https://github.com/jinchenma94/bazi-skill) | 主要能力：文化、宗教與命理內容。依專案描述：四柱八字命理分析 | AI Agent 與 Agent Skills、文化、宗教與命理內容 | Python 環境 | 3/5（中等） | 活躍 | 資訊 |
 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | 主要能力：文化、宗教與命理內容。依專案描述：紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 | Web、桌面與平台、文化、宗教與命理內容 | Node.js／TypeScript | 3/5（中等） | 活躍 | 資訊 |
