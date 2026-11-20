@@ -2,8 +2,8 @@
 
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
-- Repository 數：**234**
-- 產生時間（UTC）：`2026-11-19T11:31:14.873567Z`
+- Repository 數：**235**
+- 產生時間（UTC）：`2026-11-20T07:52:52.107576Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -34,8 +34,8 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [影片與媒體製作](#category-video-media) | 18 |
 | [設計、UI 與前端](#category-design-ui) | 18 |
 | [簡報與文件](#category-presentation-docs) | 16 |
+| [資安、隱私與稽核](#category-security-privacy) | 16 |
 | [待分類](#category-uncategorized) | 15 |
-| [資安、隱私與稽核](#category-security-privacy) | 15 |
 | [影像與創意生成](#category-image-creative) | 13 |
 | [資料、機器學習與分析](#category-data-ai) | 10 |
 | [資源清單與參考素材](#category-reference-collection) | 10 |
@@ -347,6 +347,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 |---|---|---|---|---:|---|---|
 | [antoniaci/blackbird](https://github.com/antoniaci/blackbird) | 主要能力：安全檢查與調查、瀏覽器操作與資料蒐集。依專案描述：An OSINT tool to search for accounts by username and email in social networks. | 生產力與工作管理、安全檢查與調查、瀏覽器操作與資料蒐集 | Python 環境 | 2/5（有限） | 活躍 | 高 |
 | [arxhr007/Aliens_eye](https://github.com/arxhr007/Aliens_eye) | 主要能力：瀏覽器操作與資料蒐集、內容企劃與社群發布、安全檢查與調查。依專案描述：AI powered OSINT engine to discover and map 7,700+ social media identities across the web | Web、桌面與平台、社群、行銷與內容、瀏覽器操作與資料蒐集、內容企劃與社群發布、安全檢查與調查 | Python 環境 | 2/5（有限） | 活躍 | 高 |
+| [chaitin/SafeLine](https://github.com/chaitin/SafeLine) | 主要能力：安全檢查與調查、本機或自架應用。依專案描述：SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits. | Web、桌面與平台、安全檢查與調查、本機或自架應用 | 容器／自架部署、Go 專案 | 2/5（有限） | 活躍 | 高 |
 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 主要能力：安全檢查與調查、Agent Skill／提示工作流、程式開發、理解與審查。依專案描述：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings | AI Agent 與 Agent Skills、開發與程式碼工具、Web、桌面與平台、安全檢查與調查、Agent Skill／提示工作流 | Agent Skill 安裝、Node.js／JavaScript | 3/5（中等） | 活躍 | 高 |
 | [dongmingxuan2012-crypto/ai-copyright-self-check-skill](https://github.com/dongmingxuan2012-crypto/ai-copyright-self-check-skill) | 主要能力：安全檢查與調查。metadata 描述不足，需閱讀 README 進一步確認。 | AI Agent 與 Agent Skills、安全檢查與調查 | Shell 腳本／設定檔 | 3/5（中等） | 活躍 | 中 |
 | [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) | 主要能力：程式開發、理解與審查、監控、可觀測性與情報、安全檢查與調查。依專案描述：Automated auditing, performance metrics, and best practices for the web. | 開發與程式碼工具、Web、桌面與平台、程式開發、理解與審查、監控、可觀測性與情報、安全檢查與調查 | Node.js／JavaScript | 3/5（中等） | 活躍 | 高 |
@@ -408,7 +409,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 
 | Repository | 能力摘要 | 多標籤 | 安裝推定 | ChatGPT | 維護 | 最高風險 |
 |---|---|---|---|---:|---|---|
-| [Aider-AI/aider](https://github.com/Aider-AI/aider) | 主要能力：一般工具／待確認。依專案描述：aider is AI pair programming in your terminal | 一般工具／待確認 | Python 環境 | 3/5（中等） | 活躍 | 中 |
+| [Aider-AI/aider](https://github.com/Aider-AI/aider) | 主要能力：一般工具／待確認。依專案描述：aider is AI pair programming in your terminal | 一般工具／待確認 | Python 環境 | 3/5（中等） | 近期維護 | 中 |
 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 主要能力：程式開發、理解與審查。依專案描述：🙌 OpenHands: AI-Driven Development | AI Agent 與 Agent Skills、程式開發、理解與審查 | Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
 
 ## 欄位與判讀方式
