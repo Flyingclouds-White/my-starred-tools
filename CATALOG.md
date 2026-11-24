@@ -3,7 +3,7 @@
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
 - Repository 數：**236**
-- 產生時間（UTC）：`2026-11-23T12:23:59.535736Z`
+- 產生時間（UTC）：`2026-11-24T13:35:12.802241Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -318,7 +318,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 主要能力：Agent Skill／提示工作流、設計系統與原型製作、AI Agent 建構與編排。依專案描述：Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages | AI Agent 與 Agent Skills、開發與程式碼工具、Web、桌面與平台、資源清單與參考素材、Agent Skill／提示工作流 | 直接閱讀／複製範例、Agent Skill 安裝 | 4/5（高） | 活躍 | 中 |
 | [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) | 主要能力：程式開發、理解與審查、設計系統與原型製作。依專案描述：Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts. | Web、桌面與平台、開發與程式碼工具、程式開發、理解與審查、設計系統與原型製作 | Node.js／TypeScript | 4/5（高） | 活躍 | 資訊 |
 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 主要能力：設計系統與原型製作。依專案描述：A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes,… | 設計系統與原型製作 | Shell 腳本／設定檔 | 3/5（中等） | 活躍 | 資訊 |
-| [nevertoday/350-layout-compositions](https://github.com/nevertoday/350-layout-compositions) | 主要能力：設計系統與原型製作、影片生成、剪輯與轉檔、簡報與文件生成。依專案描述：350 layout composition references across visual principles, editorial design, typography, grids, web UI, film, Chinese art, and presentations. | 影片與媒體製作、簡報與文件、資料、機器學習與分析、Web、桌面與平台、資源清單與參考素材 | 直接閱讀／複製範例、Python 環境 | 4/5（高） | 活躍 | 中 |
+| [nevertoday/350-layout-compositions](https://github.com/nevertoday/350-layout-compositions) | 主要能力：設計系統與原型製作、影片生成、剪輯與轉檔、簡報與文件生成。依專案描述：350 layout composition references across visual principles, editorial design, typography, grids, web UI, film, Chinese art, and presentations. | 影片與媒體製作、簡報與文件、資料、機器學習與分析、Web、桌面與平台、資源清單與參考素材 | 直接閱讀／複製範例、Node.js／JavaScript | 4/5（高） | 活躍 | 中 |
 | [nevertoday/zhongguo-traditional-colors](https://github.com/nevertoday/zhongguo-traditional-colors) | 主要能力：設計系統與原型製作、範例、模板與資源索引。依專案描述：中华传统色演示、色卡浏览与颜色知识科普开源项目 | Web、桌面與平台、資源清單與參考素材、設計系統與原型製作、範例、模板與資源索引 | 直接閱讀／複製範例、靜態網頁／Web 專案 | 4/5（高） | 活躍 | 無明顯提示 |
 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 主要能力：設計系統與原型製作、Agent Skill／提示工作流。依專案描述：An AI skill that provides design intelligence for building professional UI/UX across multiple platforms. | AI Agent 與 Agent Skills、Web、桌面與平台、設計系統與原型製作、Agent Skill／提示工作流 | Agent Skill 安裝、Python 環境 | 4/5（高） | 活躍 | 中 |
 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 主要能力：設計系統與原型製作、Agent Skill／提示工作流、本機或自架應用。依專案描述：The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with… | AI Agent 與 Agent Skills、開發與程式碼工具、影片與媒體製作、簡報與文件、生產力與工作管理 | Agent Skill 安裝、Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
@@ -403,7 +403,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | 主要能力：金融研究與交易分析。metadata 描述不足，需閱讀 README 進一步確認。 | 金融研究與交易分析 | Python 環境 | 2/5（有限） | 活躍 | 高 |
 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | 主要能力：金融研究與交易分析、AI Agent 建構與編排、研究、學習與教學。依專案描述：FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and dat… | 資料、機器學習與分析、AI Agent 與 Agent Skills、開發與程式碼工具、設計、UI 與前端、知識、研究與記憶 | 原生編譯／Release | 2/5（有限） | 活躍 | 高 |
 | [microsoft/qlib](https://github.com/microsoft/qlib) | 主要能力：金融研究與交易分析、研究、學習與教學、資料分析、視覺化與預測。依專案描述：Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML m… | 資料、機器學習與分析、知識、研究與記憶、學習與教學、金融研究與交易分析、研究、學習與教學 | Python 環境 | 2/5（有限） | 活躍 | 高 |
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 主要能力：金融研究與交易分析、AI Agent 建構與編排、研究、學習與教學。依專案描述：TradingAgents: Multi-Agents LLM Financial Trading Framework | AI Agent 與 Agent Skills、知識、研究與記憶、Web、桌面與平台、金融研究與交易分析、AI Agent 建構與編排 | Python 環境 | 2/5（有限） | 活躍 | 高 |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 主要能力：AI Agent 建構與編排、金融研究與交易分析、研究、學習與教學。依專案描述：TradingAgents: Towards Agentic Finance Research | AI Agent 與 Agent Skills、知識、研究與記憶、Web、桌面與平台、AI Agent 建構與編排、金融研究與交易分析 | Node.js／TypeScript | 2/5（有限） | 活躍 | 高 |
 
 <a id="category-developer-tools"></a>
 ## 開發與程式碼工具
