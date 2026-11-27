@@ -3,7 +3,7 @@
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
 - Repository 數：**236**
-- 產生時間（UTC）：`2026-11-26T12:20:01.216294Z`
+- 產生時間（UTC）：`2026-11-27T12:06:59.042655Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -302,7 +302,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [cloudflare/agents](https://github.com/cloudflare/agents) | 主要能力：工作流程自動化。依專案描述：Build and deploy AI Agents on Cloudflare | Web、桌面與平台、工作流程自動化 | Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
 | [NangoHQ/nango](https://github.com/NangoHQ/nango) | 主要能力：工作流程自動化。依專案描述：Connect your agents & product to 1,000 APIs. | 工作流程自動化 | Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
 | [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 主要能力：瀏覽器操作與資料蒐集。依專案描述：小红书笔记 \| 评论爬虫、抖音视频 \| 评论爬虫、快手视频 \| 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 \| 知乎问答文章｜评论爬虫 | 瀏覽器操作與資料蒐集 | Python 環境 | 3/5（中等） | 活躍 | 高 |
-| [Salomondiei08/oh-my-hermes](https://github.com/Salomondiei08/oh-my-hermes) | 主要能力：工作流程自動化。依專案描述：An opinionated workflow layer for building, shipping, and operating apps with Hermes Agent | 工作流程自動化 | Shell 腳本／設定檔 | 4/5（高） | 活躍 | 中 |
+| [Salomondiei08/oh-my-hermes](https://github.com/Salomondiei08/oh-my-hermes) | 主要能力：工作流程自動化。依專案描述：An opinionated workflow layer for building, shipping, and operating apps with Hermes Agent | 工作流程自動化 | Shell 腳本／設定檔 | 4/5（高） | 活躍 | 資訊 |
 | [whaleyxbt/patchright-enhanced](https://github.com/whaleyxbt/patchright-enhanced) | 主要能力：工作流程自動化、監控、可觀測性與情報。依專案描述：Browser automation toolkit for QA, monitoring and internal workflows | Web、桌面與平台、工作流程自動化、監控、可觀測性與情報 | Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
 
 <a id="category-design-ui"></a>
@@ -347,7 +347,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | Repository | 能力摘要 | 多標籤 | 安裝推定 | ChatGPT | 維護 | 最高風險 |
 |---|---|---|---|---:|---|---|
 | [antoniaci/blackbird](https://github.com/antoniaci/blackbird) | 主要能力：安全檢查與調查、瀏覽器操作與資料蒐集。依專案描述：An OSINT tool to search for accounts by username and email in social networks. | 生產力與工作管理、安全檢查與調查、瀏覽器操作與資料蒐集 | Python 環境 | 2/5（有限） | 活躍 | 高 |
-| [arxhr007/Aliens_eye](https://github.com/arxhr007/Aliens_eye) | 主要能力：瀏覽器操作與資料蒐集、內容企劃與社群發布、安全檢查與調查。依專案描述：AI powered OSINT engine to discover and map 7,700+ social media identities across the web | Web、桌面與平台、社群、行銷與內容、瀏覽器操作與資料蒐集、內容企劃與社群發布、安全檢查與調查 | Python 環境 | 2/5（有限） | 活躍 | 高 |
+| [arxhr007/Aliens_eye](https://github.com/arxhr007/Aliens_eye) | 主要能力：安全檢查與調查、MCP／工具整合、瀏覽器操作與資料蒐集。依專案描述：AI powered OSINT engine to discover and map 7,700+ social media identities across the web | 開發與程式碼工具、資料、機器學習與分析、Web、桌面與平台、學習與教學、社群、行銷與內容 | MCP server 設定、Python 環境 | 2/5（有限） | 活躍 | 高 |
 | [chaitin/SafeLine](https://github.com/chaitin/SafeLine) | 主要能力：安全檢查與調查、本機或自架應用。依專案描述：SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits. | Web、桌面與平台、安全檢查與調查、本機或自架應用 | 容器／自架部署、Go 專案 | 2/5（有限） | 活躍 | 高 |
 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 主要能力：安全檢查與調查、Agent Skill／提示工作流、程式開發、理解與審查。依專案描述：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings | AI Agent 與 Agent Skills、開發與程式碼工具、Web、桌面與平台、安全檢查與調查、Agent Skill／提示工作流 | Agent Skill 安裝、Node.js／JavaScript | 3/5（中等） | 活躍 | 高 |
 | [dongmingxuan2012-crypto/ai-copyright-self-check-skill](https://github.com/dongmingxuan2012-crypto/ai-copyright-self-check-skill) | 主要能力：安全檢查與調查。metadata 描述不足，需閱讀 README 進一步確認。 | AI Agent 與 Agent Skills、安全檢查與調查 | Shell 腳本／設定檔 | 3/5（中等） | 活躍 | 中 |
