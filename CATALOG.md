@@ -3,7 +3,7 @@
 這份目錄由 GitHub Stars 的公開 metadata 自動產生，**基礎版不使用 LLM，也不需要付費 API**。
 
 - Repository 數：**236**
-- 產生時間（UTC）：`2026-11-27T12:06:59.042655Z`
+- 產生時間（UTC）：`2026-11-28T11:38:37.623355Z`
 - 分類器：`metadata-rules-v1`
 - 判斷依據：name、description、topics、language、license、archived/disabled 與 pushed_at
 
@@ -140,7 +140,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | [wuyoscar/GPT-Image2-Skill](https://github.com/wuyoscar/GPT-Image2-Skill) | 主要能力：Agent Skill／提示工作流、圖片生成、編輯與參考、範例、模板與資源索引。依專案描述：GPT Image 2/2.5/2.6 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing | AI Agent 與 Agent Skills、資源清單與參考素材、開發與程式碼工具、知識、研究與記憶、Agent Skill／提示工作流 | 直接閱讀／複製範例、Agent Skill 安裝 | 4/5（高） | 活躍 | 中 |
 | [yangchuansheng/visual-ip-illustrations](https://github.com/yangchuansheng/visual-ip-illustrations) | 主要能力：圖片生成、編輯與參考。依專案描述：Codex Skill for consistent 16:9 hand-drawn article illustrations with selectable visual IP routes: Openclaw, Xiaohei, Littlebox, Tom, Ferris, Seal and Gopher. | AI Agent 與 Agent Skills、圖片生成、編輯與參考 | Node.js／JavaScript | 3/5（中等） | 活躍 | 無明顯提示 |
 | [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) | 主要能力：圖片生成、編輯與參考、範例、模板與資源索引。依專案描述：🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. OpenAI's next-gen image model with pixel-perfect text rendering, cr… | 資源清單與參考素材、圖片生成、編輯與參考、範例、模板與資源索引 | 直接閱讀／複製範例、Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
-| [zhouwei713/gpt-image-2-prompting-skill](https://github.com/zhouwei713/gpt-image-2-prompting-skill) | 主要能力：圖片生成、編輯與參考、範例、模板與資源索引。依專案描述：A high-quality GPT-Image-2 prompting skill with bilingual README, structured prompting methods, templates, and examples. | AI Agent 與 Agent Skills、資源清單與參考素材、圖片生成、編輯與參考、範例、模板與資源索引 | 直接閱讀／複製範例 | 4/5（高） | 活躍 | 資訊 |
+| [zhouwei713/gpt-image-2-prompting-skill](https://github.com/zhouwei713/gpt-image-2-prompting-skill) | 主要能力：圖片生成、編輯與參考、範例、模板與資源索引。依專案描述：A high-quality GPT-Image-2 prompting skill with bilingual README, structured prompting methods, templates, and examples. | AI Agent 與 Agent Skills、資源清單與參考素材、圖片生成、編輯與參考、範例、模板與資源索引 | 直接閱讀／複製範例 | 4/5（高） | 近期維護 | 資訊 |
 
 <a id="category-video-media"></a>
 ## 影片與媒體製作
@@ -300,7 +300,7 @@ jq -r '.repositories[] | select(.risks.highest_level == "high") | [.full_name, .
 | Repository | 能力摘要 | 多標籤 | 安裝推定 | ChatGPT | 維護 | 最高風險 |
 |---|---|---|---|---:|---|---|
 | [cloudflare/agents](https://github.com/cloudflare/agents) | 主要能力：工作流程自動化。依專案描述：Build and deploy AI Agents on Cloudflare | Web、桌面與平台、工作流程自動化 | Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
-| [NangoHQ/nango](https://github.com/NangoHQ/nango) | 主要能力：工作流程自動化。依專案描述：Connect your agents & product to 1,000 APIs. | 工作流程自動化 | Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
+| [NangoHQ/nango](https://github.com/NangoHQ/nango) | 主要能力：工作流程自動化。依專案描述：Connect your agents to 1,600+ APIs. | 工作流程自動化 | Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
 | [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 主要能力：瀏覽器操作與資料蒐集。依專案描述：小红书笔记 \| 评论爬虫、抖音视频 \| 评论爬虫、快手视频 \| 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 \| 知乎问答文章｜评论爬虫 | 瀏覽器操作與資料蒐集 | Python 環境 | 3/5（中等） | 活躍 | 高 |
 | [Salomondiei08/oh-my-hermes](https://github.com/Salomondiei08/oh-my-hermes) | 主要能力：工作流程自動化。依專案描述：An opinionated workflow layer for building, shipping, and operating apps with Hermes Agent | 工作流程自動化 | Shell 腳本／設定檔 | 4/5（高） | 活躍 | 資訊 |
 | [whaleyxbt/patchright-enhanced](https://github.com/whaleyxbt/patchright-enhanced) | 主要能力：工作流程自動化、監控、可觀測性與情報。依專案描述：Browser automation toolkit for QA, monitoring and internal workflows | Web、桌面與平台、工作流程自動化、監控、可觀測性與情報 | Node.js／TypeScript | 4/5（高） | 活躍 | 中 |
